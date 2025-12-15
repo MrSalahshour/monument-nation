@@ -1,0 +1,2348 @@
+[
+  {
+    "name":"Panthéon",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e7d297c973:0xe5eb004f23a758"
+  },
+  {
+    "name":"Colonne de Juillet",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67201aca55d91:0x215f5f5bef3d2fe9"
+  },
+  {
+    "name":"Monument à la République",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e08e0f31b73:0x30d5c603e82be4d"
+  },
+  {
+    "name":"Place de la Bastille",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67201aca99229:0x231eb0c967e5eb10"
+  },
+  {
+    "name":"Sainte-Chapelle",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1fd8767d47:0x33f441f9dc242768"
+  },
+  {
+    "name":"Status Jean-Paul II",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e161930967:0x7e866a5792ad810e"
+  },
+  {
+    "name":"Place du Châtelet",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f8085c2a76f:0x1404fcbecfccdb2d"
+  },
+  {
+    "name":"Deportation Martyrs Memorial",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fc75f402eb:0x66d28639de95d59a"
+  },
+  {
+    "name":"Centre des monuments nationaux",
+    "rating":3.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1fd8767d47:0x49cf1a0012a74348"
+  },
+  {
+    "name":"Porte Saint-Martin",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e0e28eff093:0x3d85955d2ca4dda0"
+  },
+  {
+    "name":"Square Jean XXIII",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e3c39fb11f:0xfcef1b7df2f35fa1"
+  },
+  {
+    "name":"Monument of Gaspard de Coligny of Châtillon",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e23fda37217:0x891761df6eece17b"
+  },
+  {
+    "name":"Le Défenseur du Temps",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1b98a2b485:0xbd07128d4721cc80"
+  },
+  {
+    "name":"Statue of Louis XIV",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e233784aa77:0xd598036a982943dc"
+  },
+  {
+    "name":"Mur des Noms",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fd48647b3f:0xa7e0d2e3e14140b3"
+  },
+  {
+    "name":"Square Barye",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fbe87a44f9:0xda359d2040b423b8"
+  },
+  {
+    "name":"Statue d'Étienne Marcel",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e270f2da69:0x5e06b03645eaecb7"
+  },
+  {
+    "name":"Le Carreau du Temple",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e05df32aca9:0x9df77983fa39fc12"
+  },
+  {
+    "name":"Maisons colorées de la rue Crémieux",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67203419be391:0x6468453495818eda"
+  },
+  {
+    "name":"Square des arènes de Lutèce",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671efec94db07:0x97b4fe4f68077c57"
+  },
+  {
+    "name":"Mémorial De La Shoah",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fd46fcc575:0xc902de577558f506"
+  },
+  {
+    "name":"Tour de l'Horloge du Palais de la Cité",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1fd87412b3:0x15dc23f051802e30"
+  },
+  {
+    "name":"Centre des Monuments Nationaux",
+    "rating":2.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671f860434a21:0xee7edd9be308a667"
+  },
+  {
+    "name":"Caserne Napoléon",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1d5cdc80ff:0x69a59cb805cbd34a"
+  },
+  {
+    "name":"Republic Square Paris",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f8c4441b621:0x9d545750b358b83e"
+  },
+  {
+    "name":"Tour Jean-sans-Peur",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e19af66ce67:0xe2ee4ec6cb63193a"
+  },
+  {
+    "name":"Monument à Buffon",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671007803cdd3:0xbbf72fb5f2db8e63"
+  },
+  {
+    "name":"Lamarck statue",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6713be78fa44b:0x86618e3eade04b94"
+  },
+  {
+    "name":"Le Bouchard",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f002004141d:0x9a0e4d96d96fd57b"
+  },
+  {
+    "name":"Church of Saint-Gervais",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e2ade5c7a1:0x92dca220d45e87a"
+  },
+  {
+    "name":"Monument Sas : Votre chasseur de biens en Déficit Foncier, Malraux, Monument Historique…",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66dfe0fbeb9f1:0x91192309f4da1b59"
+  },
+  {
+    "name":"Conciergerie",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1fd8767d47:0x90ca4b466cb6316a"
+  },
+  {
+    "name":"Monument aux Républicains Espagnols",
+    "rating":1.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67118bb3d10a1:0xdb5ed9aac3746108"
+  },
+  {
+    "name":"Statue poete roumain Mihai Eminescu",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e702acd45f:0x764c43013cf5b182"
+  },
+  {
+    "name":"Pont au Change",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1fd0b911a5:0xcce1e4febc527859"
+  },
+  {
+    "name":"Narrowest street in Paris",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e0f092b575:0x4e0121214d66a957"
+  },
+  {
+    "name":"Statue Nicolas Leblanc",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f274917c8ef:0xf12aac774ccfb7f"
+  },
+  {
+    "name":"Notre-Dame-des-Blancs-Manteaux",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e03059212a7:0x25c5705b70600c86"
+  },
+  {
+    "name":"Musée des Archives Nationales - Hôtel de Soubise",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e03be63060f:0xc9184251727665f7"
+  },
+  {
+    "name":"Pavillon Chevreul",
+    "rating":3.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671f030ecde7d:0x8579913bdd42958e"
+  },
+  {
+    "name":"Arc de Triomphe du Carrousel",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e2f4dbfd055:0x7607faa504ac5be9"
+  },
+  {
+    "name":"Hôtel d'Albret",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e0224036dc5:0x17d6f792adefde07"
+  },
+  {
+    "name":"Ancienne église Saint-Jacques de la Boucherie",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f9337af43ff:0x8ea3b51cd9964dc8"
+  },
+  {
+    "name":"Monument to Taras Shevchenko",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671d7b02fcc7f:0x17bf12d81b8d2169"
+  },
+  {
+    "name":"Equestrian Statue of Henri IV",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e2091c14e89:0x13d341b8f039c136"
+  },
+  {
+    "name":"Monument à Octave gréard",
+    "rating":2.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e390b3d241:0x725d59d5bbd264a9"
+  },
+  {
+    "name":"Marshal Ney Monument",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671c6c0a0772b:0x2b43fc581c4377f9"
+  },
+  {
+    "name":"Square Samuel Paty",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e75f39aa43:0xc8888b24b5980ead"
+  },
+  {
+    "name":"Monument to Maréchal Moncey",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e4c5a3aa463:0x1465fbacf7a27224"
+  },
+  {
+    "name":"Monument à Pierre Marie René Ernest Waldeck-Rousseau",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e2d72ab0f07:0xbe785cf225f45728"
+  },
+  {
+    "name":"Monument à Francis Garnier",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671f16e8b473f:0x6654eb54335c53f0"
+  },
+  {
+    "name":"Colonne Vendôme",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e31ee97979f:0x572f1370e3432ecd"
+  },
+  {
+    "name":"Tunnel des Tuileries",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f3c1e7781e7:0x93f52b9ef83afd5f"
+  },
+  {
+    "name":"Hôtel de Comans d'Astry",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fb82114f31:0xf0be25daead6ef24"
+  },
+  {
+    "name":"Domaine National du Palais-Royal",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1fd8767d47:0xcdcb526c397f16f5"
+  },
+  {
+    "name":"Fontaine de la Croix-du-Trahoir",
+    "rating":3.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e219c19a481:0xe3ae32eed7bd649"
+  },
+  {
+    "name":"Winston Churchill Statue",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd04c1517a1:0x90a80696fb66ccab"
+  },
+  {
+    "name":"Tours de la cathédrale Notre-Dame de Paris",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671005351c5bd:0x42f8c16657f6dea1"
+  },
+  {
+    "name":"Church of Notre-Dame de Bonne-Nouvelle",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e16ea6dff55:0xdb16f57b8cfdfd5f"
+  },
+  {
+    "name":"Buste de Dalida",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e5afabf90d1:0xe1467b6fc98166"
+  },
+  {
+    "name":"Le Triomphe de Silène",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671da980be207:0xae19519548d8f046"
+  },
+  {
+    "name":"Statue Anne de Bretagne",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67104cb8f51b9:0x32b06b061af2a3cc"
+  },
+  {
+    "name":"Monument to Human Rights",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6702046230a41:0xd0952bb85fbaf60e"
+  },
+  {
+    "name":"Arc de Triomphe",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fec70fb1d8f:0xd9b5676e112e643d"
+  },
+  {
+    "name":"Statue du Général Charles de Gaulle",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fcfdad9af49:0x24b88148803f9c33"
+  },
+  {
+    "name":"Atelier Ergon - Bureau d'études Monuments Historiques",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f1777541a8d:0xbadc61ef549cb182"
+  },
+  {
+    "name":"Belvédère de Belleville",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66de9601caaa1:0x1e1398b1bf19f9d4"
+  },
+  {
+    "name":"Hôtel de Sens",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fdabeb30bf:0x6e731a640e60cf15"
+  },
+  {
+    "name":"Chapelle expiatoire",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e34d6478017:0x54421535a41e89d7"
+  },
+  {
+    "name":"Hotel Sandreville",
+    "rating":3.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e0230ec5753:0x9c9c3e03be2ef2aa"
+  },
+  {
+    "name":"Monument Pierre 1er de Serbie et Alexandre 1er de Yougoslavie",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66551915a7d57:0xcbf63e8667cc66eb"
+  },
+  {
+    "name":"Statue De Voltaire",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e279e05e93f:0x2130110374f401f"
+  },
+  {
+    "name":"Flame of Liberty",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fdd852924ab:0xd73d632037c2fb55"
+  },
+  {
+    "name":"Monument aux morts de la guerre franco-prussienne",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671dc8f6abbab:0x71e794c6d8aa7951"
+  },
+  {
+    "name":"Luís de Camões Monument",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f006d3ec763:0x6db415e698b6f5b7"
+  },
+  {
+    "name":"Monument à la mémoire d'Aristide Briand",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f3903f46c5b:0x543f14bbc21d42cf"
+  },
+  {
+    "name":"Fontaine Egyptienne dite du Fellah",
+    "rating":4.1,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671d32eddad23:0xc3e3110ea4f3494e"
+  },
+  {
+    "name":"Monument en Souvenir de la Campagne de Tunisie 1942-1943",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f85286b9b6b:0xd7dd017f5d9f0aec"
+  },
+  {
+    "name":"Statue of Marshal Joseph Joffre",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e670216e0153e9:0xedd60748ba3023c3"
+  },
+  {
+    "name":"Monument to Alexandre Dumas",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fbbcf36eecf:0x41d1346445f01a6f"
+  },
+  {
+    "name":"Héloïse and Abélard's tomb",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66d8b68dae20f:0xd6a19b7b4f272546"
+  },
+  {
+    "name":"Monument to Eugène Flachat",
+    "rating":3.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f97f39e6e53:0xdbc282cb42878255"
+  },
+  {
+    "name":"Solidarność Monument",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fcf0f6d1339:0x3e7b49d2037db798"
+  },
+  {
+    "name":"Palais de Chaillot",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66ffb5ba4a509:0x427aa27464ade6a1"
+  },
+  {
+    "name":"Jardin du Monument aux Mères Françaises",
+    "rating":3.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671839b974253:0xaa40ae8985336262"
+  },
+  {
+    "name":"Cenotaph of Baudelaire",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671c9cb929865:0x59a3755a22bccab0"
+  },
+  {
+    "name":"Tour Saint-Jacques",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1e5e72161b:0xe085e8b2d3c0632e"
+  },
+  {
+    "name":"Basilique du Sacré-Cœur de Montmartre",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e4334868de3:0xcfc3870abe2b8519"
+  },
+  {
+    "name":"Monument au Général Diego Brosset",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fb8e925393b:0x1359aae59b27aa9b"
+  },
+  {
+    "name":"Colonne de la Paix Armée",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671a381d868ed:0xfbf9e65837f0fb11"
+  },
+  {
+    "name":"Monument aux Volontaires américains",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fe8ac54858f:0xeb9efc8e1481a0b9"
+  },
+  {
+    "name":"Monument to Balzac",
+    "rating":4.1,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671cf211e2f9d:0x547f6ffb3c1674fb"
+  },
+  {
+    "name":"Château de Vincennes",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e672bce3f88169:0xdd022654373467c7"
+  },
+  {
+    "name":"Eiffel Tower",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0"
+  },
+  {
+    "name":"Monument à la mémoire des agents du métropolitain morts pour la France",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f003fe4aa59:0x7726b0f8b6f12cc3"
+  },
+  {
+    "name":"Monument à Delacroix - Aimé-Jules Dalou",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67124644bd17b:0x8b809eff0fac36c4"
+  },
+  {
+    "name":"Alma's bridge - Diana",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fddbf0f1481:0xaa4fd458e3c05e2b"
+  },
+  {
+    "name":"Edith Piaf Statue",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66d114dd372ab:0x423672bc7eb98976"
+  },
+  {
+    "name":"Hôtel Béthune-Sully",
+    "rating":4.1,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e03de6103d:0xd753efc0beef7570"
+  },
+  {
+    "name":"Fontaine Saint-Michel",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671de255fbf33:0xbb48b3d09fcc48c4"
+  },
+  {
+    "name":"Place du Trocadero",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fe3405d7ecf:0xc03ac392486d25b5"
+  },
+  {
+    "name":"FlyView Paris",
+    "rating":4.1,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e30be632e5b:0x9f0090e78347b26a"
+  },
+  {
+    "name":"Monument funéraire de Joaquin Maria de Errazu",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66d79d38347a7:0xfdf1e30e0f0be66"
+  },
+  {
+    "name":"Statue équestre du duc d'Orléans",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6657ce4d2d6f3:0x616ecbe4517dd574"
+  },
+  {
+    "name":"Monument aux morts des Lilas",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66d00715420db:0x22f34052b222bdc1"
+  },
+  {
+    "name":"Monument de la Cascade du Bois de Boulogne",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e665327114a483:0x579a01a67a988e40"
+  },
+  {
+    "name":"Adam Mickiewicz Monument",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fdc62dd0471:0x1995cbb75069dfdb"
+  },
+  {
+    "name":"Monument à Louise Michel",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66ffefa621f7d:0x75b2b65129396db8"
+  },
+  {
+    "name":"Grand Synagogue of Paris",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e3261b1ed53:0xdd7beaefb40528ef"
+  },
+  {
+    "name":"Monument aux victimes de la guerre 1914-1918",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67b2ea1b91fab:0x9e825199e886076"
+  },
+  {
+    "name":"Monument aux morts 1914-18 d'Ivry-sur-Seine",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6737ca1125929:0x84a8c7e621011c19"
+  },
+  {
+    "name":"Hôtel Beauharnais",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd4b3d09dd9:0x5de4e192bc6b4067"
+  },
+  {
+    "name":"Place Félix Éboué",
+    "rating":3.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6730026e389d9:0x1ebcedb1dcd40b3a"
+  },
+  {
+    "name":"Grand Palais",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd048eedcd1:0x499b45575147a06b"
+  },
+  {
+    "name":"Monument aux morts de Pantin",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66d004cb88dd9:0xe065f39d16ca613c"
+  },
+  {
+    "name":"Monument aux morts de Saint-Ouen-sur-Seine",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f0017606f8d:0x8ff739947ee924a1"
+  },
+  {
+    "name":"Emile Decroix Memorial",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6704396530349:0xe5a2f3d5eebefb59"
+  },
+  {
+    "name":"The Centre Pompidou",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1c09b820a3:0xb7ac6c7e59dc3345"
+  },
+  {
+    "name":"Statue de Frédéric Chopin",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fbf25855321:0x199897b6d9e1bc80"
+  },
+  {
+    "name":"Sculpture Du Chat",
+    "rating":3.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6727d02f1f1ad:0xadde7d188d4b7a1a"
+  },
+  {
+    "name":"Grand Rocher du Parc Zoologique de Paris",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6737027f006fd:0xfda5e17a5e80a57b"
+  },
+  {
+    "name":"Monument aux morts de Villejuif",
+    "rating":3.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6732b7ed6fdf9:0xa07bdbb929647f8d"
+  },
+  {
+    "name":"Monument aux morts de La Courneuve",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66d003280c577:0xfc8949d5081b7907"
+  },
+  {
+    "name":"Monument aux Indochinois morts",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60d0076f4f601:0x2a31dc97d78d52a2"
+  },
+  {
+    "name":"Fragments du monument \"A la gloire de l'expansion coloniale\"",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60d0062a16ba3:0x1f27f1ff8685b1b0"
+  },
+  {
+    "name":"Grande Arche de la Défense",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66502128aae1f:0x9dce86817f537c"
+  },
+  {
+    "name":"Monument à Émile Levassor",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f001e762923:0x87bb88b0bf433966"
+  },
+  {
+    "name":"Monument aux soldats noirs morts",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60d0072969eab:0x2204dd1d28eaba8f"
+  },
+  {
+    "name":"Monument aux morts de Joinville-le-Pont",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60d7080899bd7:0x781333883c149e8e"
+  },
+  {
+    "name":"Hotel de noirmoutier",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd5dde3ee0b:0x4e4cfd3907712f83"
+  },
+  {
+    "name":"Monument de la Défense Nationale de 1870",
+    "rating":3.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67164e5bbc5f9:0x615a586884d99f8"
+  },
+  {
+    "name":"Motorcycle tour : Parisian Monuments & Hidden Gems",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671a7f0536da7:0xf8e66e98d96fa9ac"
+  },
+  {
+    "name":"Monument à la Mémoire des Martyrs de la Résistance et de la Déportation",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66590a981632f:0xb5dabfb80b41b14"
+  },
+  {
+    "name":"Monument pour l'American Legion",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66500279317e9:0x11789895dd82152"
+  },
+  {
+    "name":"Monument aux morts de Fontenay-sous-Bois",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60dd9183c6aa3:0xde7e3137efac3348"
+  },
+  {
+    "name":"Monument de la Libération",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67752e8b6ddc3:0x59948663731e9ee7"
+  },
+  {
+    "name":"Hôtel de la Marine",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd2ec1d3bd3:0x9e7f28910c67fedb"
+  },
+  {
+    "name":"Monument à Charles Trenet",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60c392b9155b9:0xd60a8bb7baa86d6f"
+  },
+  {
+    "name":"Monument de la Libération",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e677d186e837dd:0x7cf08e33ccde27fd"
+  },
+  {
+    "name":"Saint-Cloud National Estate",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67b65fc6f8371:0x4b5a7d7c001337dd"
+  },
+  {
+    "name":"Monument aux morts de Sucy-en-Brie",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60b2a646d8831:0x8d76f34d3df3f675"
+  },
+  {
+    "name":"Monument Armée de Paris - Garde Nationale",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67bb4f814fc75:0x621dfd896dd0fa12"
+  },
+  {
+    "name":"Monument de Buzenval",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67b1069b58ec5:0xef41861c174da4f"
+  },
+  {
+    "name":"Monument des 4 Fusillés",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e679f09d39dee5:0x8547d04975eabf69"
+  },
+  {
+    "name":"Monument aux morts des volontaires Danois",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e663f3a95901df:0x802f3825233c05fe"
+  },
+  {
+    "name":"Rue du Monument",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60db4acfe7391:0x77a57d827eb419a"
+  },
+  {
+    "name":"Monument aux morts de Houilles",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66390e47b5bc7:0x2e52b175aa7957ad"
+  },
+  {
+    "name":"Maison classée monument historique",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60d0066f7ae19:0x39cf3aba1c7a16e"
+  },
+  {
+    "name":"Mausoleum of the Prince Imperial",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e663480f053701:0x47fdb6855c375a29"
+  },
+  {
+    "name":"Hôtel Mezzara",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67aaed2effcb7:0x80229f3a9ac21ddd"
+  },
+  {
+    "name":"Musée National Picasso-Paris",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e0142746b4b:0xc191da9af2fc6df7"
+  },
+  {
+    "name":"Musée des Arts et Métiers",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1aa6c84435:0x772045ec563b1de2"
+  },
+  {
+    "name":"Musée de l'Illusion Paris",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f8553e554db:0x9cc681758ed5787d"
+  },
+  {
+    "name":"Museum of Hunting and Nature",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e0486f0aca3:0x80d622889bbbb156"
+  },
+  {
+    "name":"Musée Cognacq-Jay",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e022a6637f1:0x75a140856003f5c3"
+  },
+  {
+    "name":"Gallery of Evolution",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e22e697ea71:0xcd3c7a2f80da50ad"
+  },
+  {
+    "name":"Maison de Victor Hugo",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671ffee3e8e41:0xa8588a7c755874d2"
+  },
+  {
+    "name":"National Museum of Natural History",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671f12d404411:0x4743d62149f1c6e1"
+  },
+  {
+    "name":"Carnavalet Museum",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e00f9521b7d:0xc8c16b75253918c1"
+  },
+  {
+    "name":"Galerie de Paléontologie et d’Anatomie comparée",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671f7b332cb77:0x7d3a78584d1f1fc6"
+  },
+  {
+    "name":"Outdoor Sculpture Museum",
+    "rating":4.1,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fa27a7220f:0x8723b2ff4208d949"
+  },
+  {
+    "name":"Musée d'art et d'histoire du Judaïsme",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1ca9c8d0c9:0x857130c4f8961ea8"
+  },
+  {
+    "name":"Le Musée en Herbe",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e23228f4f93:0x4a2b26bdd55ec6f6"
+  },
+  {
+    "name":"Musée de Cluny",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671ddf5e1132f:0x5d66e4a5335b37f"
+  },
+  {
+    "name":"Louvre Museum",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671d877937b0f:0xb975fcfa192f84d4"
+  },
+  {
+    "name":"Musée Technologique et Industriel",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e106ff427db:0xc70ee86bcc637fe7"
+  },
+  {
+    "name":"Musée de la préfecture de police",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e690d17c53:0x48c8ab5b441ae053"
+  },
+  {
+    "name":"Musée Grévin",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e3e9be04a55:0x7def1a3ff98df458"
+  },
+  {
+    "name":"Musée de poche",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66de309d485cd:0x9e29de7f3ecdec92"
+  },
+  {
+    "name":"Musée de la Magie",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fe82261b8d:0x9d75d51c09e28eb"
+  },
+  {
+    "name":"Maison Européenne de la Photographie",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fd90ae6853:0x61f2a2056ace2ff2"
+  },
+  {
+    "name":"Azzedine Alaïa Foundation",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1d38879b8f:0xd0c297c04bdd0eea"
+  },
+  {
+    "name":"Curie Museum",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e8378a4d8d:0x70ad8ef3a75309df"
+  },
+  {
+    "name":"Crypte Archéologique de l'İle de la Cité",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e176247a45:0xf30fffdcfc77bd50"
+  },
+  {
+    "name":"Choco-Story Paris - Musée du Chocolat",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e16bc37e251:0x540d004fc4573f62"
+  },
+  {
+    "name":"Gustave Moreau Museum",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e4872f9718b:0x7a115e52e9d1123f"
+  },
+  {
+    "name":"La Maison des histoires - Bastille",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6730047d48825:0x2f9a33fc2992ee8b"
+  },
+  {
+    "name":"Musée Vivant du fromage",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6710019d7b29b:0x8348867f183c0f76"
+  },
+  {
+    "name":"Musée d'Orsay",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e2bb630941b:0xd071bd8cb14423d8"
+  },
+  {
+    "name":"Paradox Museum Paris",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f7e48e00e6d:0x6db16b1cae88406f"
+  },
+  {
+    "name":"Musée des Moulages",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66de1cea2a773:0x7f3cd524dd19a48b"
+  },
+  {
+    "name":"Friends of the National Museum of Natural History",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671f12d404411:0xd2c1b3043dbb03fc"
+  },
+  {
+    "name":"Musée de la BnF",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f2ff2a1d3f5:0xd9441f64e2928e3f"
+  },
+  {
+    "name":"Thermes de Cluny",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671dde361d9c5:0x5b090d3dfbfbb5f5"
+  },
+  {
+    "name":"Perrotin",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e00d6995555:0xaeef6d321ee79049"
+  },
+  {
+    "name":"Musée d’histoire de la médecine",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671dc29c3ea81:0x1a588d006dbca60b"
+  },
+  {
+    "name":"Lafayette Anticipations",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1cc36a1b49:0xf93718ff709fd28f"
+  },
+  {
+    "name":"Rex Studios",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e16727f7211:0x55409539ceb1f1ba"
+  },
+  {
+    "name":"Collection de Minéraux de Sorbonne Université",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e5405c3923:0x312ca822e14aa946"
+  },
+  {
+    "name":"Arab World Institute",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fb2337ed2b:0xbed555c58f020e74"
+  },
+  {
+    "name":"Musée Adam-Mickiewicz",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fcaeaec723:0x70db10282242946"
+  },
+  {
+    "name":"Henri Cartier Bresson Foundation",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671caa1ba9da3:0x360c94ddbdba4652"
+  },
+  {
+    "name":"Soc Des Amis Musee Carnavalet",
+    "rating":4.1,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e01bf289e15:0x34e067dee3ee319d"
+  },
+  {
+    "name":"The Liberation of Paris Museum - General Leclerc Museum - Jean Moulin Museum",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67034c76cfead:0x235729aa3fc21ba6"
+  },
+  {
+    "name":"Bourse de Commerce - Pinault Collection",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e22ce051b1f:0x9f6abeee1be73e8a"
+  },
+  {
+    "name":"Monnaie de Paris",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e20ac7d9f4f:0x34d87eac786f0e96"
+  },
+  {
+    "name":"Musée de l'Orangerie",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e2eeaaaaaa3:0xdc3fd08aa701960a"
+  },
+  {
+    "name":"Musée Rodin",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6702a1eccdb43:0x6468d82811b67058"
+  },
+  {
+    "name":"Benny Velvet Flames Institute",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e026916005f:0xd130266e0530b30"
+  },
+  {
+    "name":"Saint-Martin-des-Champs Priory",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1a9e49c517:0xe65df98f1dde6bae"
+  },
+  {
+    "name":"Musée Maillol",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671d5a61378a3:0x76b1344c9e5d291"
+  },
+  {
+    "name":"Paris Musées",
+    "rating":3.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e13809bad59:0x1d3ee5827d88a02d"
+  },
+  {
+    "name":"Crémerie de Paris",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e1f417951ff:0x1182dd46d807ee4c"
+  },
+  {
+    "name":"Musée du Luxembourg",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671381ba9687b:0xddbd4018e8c69d7b"
+  },
+  {
+    "name":"Museum of Freemasonry",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e3f0a8567e5:0xa62c2942e39decef"
+  },
+  {
+    "name":"Eugène Delacroix Museum",
+    "rating":4.1,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671d857fb93ad:0x8ea31046d2dc5242"
+  },
+  {
+    "name":"Musée de la Légion d'honneur",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e2b9dc74f21:0x3b13e2b8bcd45015"
+  },
+  {
+    "name":"Mineralogy Museum MINES ParisTech",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671c33a385d77:0xa9743fb90a3e6fa9"
+  },
+  {
+    "name":"Musée du quai Branly - Jacques Chirac",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fe0da76cf63:0xb7949d5df6b04424"
+  },
+  {
+    "name":"Petit Palais",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd1ce8f4349:0xf3f5be813dd2469c"
+  },
+  {
+    "name":"Dali Museum",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e44ca858f05:0xef88ab04490097e9"
+  },
+  {
+    "name":"Centre Pompidou administration",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66faad5bd594d:0x90cca3e4e876c9be"
+  },
+  {
+    "name":"Zadkine Museum",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671c5bb04807d:0x70fee735539c0c"
+  },
+  {
+    "name":"Edith Piaf Museum",
+    "rating":3.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66defcd618325:0xe87625279100efbf"
+  },
+  {
+    "name":"Museum of Relief Maps",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd7ecd7eabf:0x1e2af690cffafca2"
+  },
+  {
+    "name":"Musée de Montmartre",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e5b42ecc559:0x113761431fdaa76e"
+  },
+  {
+    "name":"Museum of Smoking",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66df6edfba807:0x6c8e8ad51990fd64"
+  },
+  {
+    "name":"Polish Library in Paris",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fcaeb442cd:0xff530c837c603ccd"
+  },
+  {
+    "name":"Centre d'études Picasso",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f000a13e7ed:0xf35f6fb5e7fa7a85"
+  },
+  {
+    "name":"Musée Méliès",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e673db8db60a45:0x3e4c66100a94da0a"
+  },
+  {
+    "name":"Mundolingua",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671da479c6f09:0x4e37e7007101ae85"
+  },
+  {
+    "name":"Palais de la Porte Dorée",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6726075b1c82d:0x97c6b7c8b6e2342"
+  },
+  {
+    "name":"Place de la République",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f000e2efe1d:0x988e52883c8f2722"
+  },
+  {
+    "name":"Agence France-Muséums",
+    "rating":3.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e22ad23a0ef:0x8bbd02e0f669b01a"
+  },
+  {
+    "name":"Bourdelle Museum",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e670331292e59d:0x8b3c27f3b2e096ae"
+  },
+  {
+    "name":"Danysz Gallery",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66dfe06267965:0x47c54a9fe72d78eb"
+  },
+  {
+    "name":"Giacometti Institute",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671b7fc54af73:0xdb5d01f83bd7f3af"
+  },
+  {
+    "name":"Musée des Arts Décoratifs",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e2f64250cfd:0xf76e6e752d80a38b"
+  },
+  {
+    "name":"Modus Art Gallery",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e0023a9ac3b:0xa473b0c18d81512a"
+  },
+  {
+    "name":"Museum of the Armed Forces Health Service",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671c185fa9d5b:0x5caaa8eb698ce60"
+  },
+  {
+    "name":"La Gaîté Lyrique",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f8874663fdb:0x7ab27c964be4d0f5"
+  },
+  {
+    "name":"Les Pavillons de Bercy - Musée des Arts Forains",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67240f6423fa3:0x3b31b5b4616f253d"
+  },
+  {
+    "name":"Musée de l'Armée",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd7ecd7eabf:0x761e79ce4d1d4227"
+  },
+  {
+    "name":"Musée de La Poste",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e670347bd90a3f:0x7755aeb34b17f088"
+  },
+  {
+    "name":"Boutiques de Musées",
+    "rating":3.1,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x4796c853b0e52b6d:0xd1926c296d4c9d1f"
+  },
+  {
+    "name":"Musée Jacquemart-André",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fc7b7aef5a5:0x5d7785b84c933a2d"
+  },
+  {
+    "name":"Paris Pinball Museum",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66ef54448d4d3:0xd583715e6b606505"
+  },
+  {
+    "name":"Musée national des arts asiatiques - Guimet",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fe5cd3929c3:0xb5ec0412a7bc9c89"
+  },
+  {
+    "name":"Colonnade de Perrault",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e214a3b3353:0x77ec7f6664253544"
+  },
+  {
+    "name":"La Galerie Dior",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fb92bde5add:0x240d5eb19e34b26e"
+  },
+  {
+    "name":"Musée de la Marine",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66ffb6043d7a1:0xdfd9720b1e4d2387"
+  },
+  {
+    "name":"Catacombs",
+    "rating":3.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f00222f7783:0xad0245bbd3fc101c"
+  },
+  {
+    "name":"Palais de la découverte",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fdab90c0a87:0xc90378f84d54ebd4"
+  },
+  {
+    "name":"Musée - Librarie du Compagnonnage",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671d99b0bff2d:0x2a0c11009957aeed"
+  },
+  {
+    "name":"Phono Museum",
+    "rating":4.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e43f0beadf9:0xa9f5a39fa4cf785a"
+  },
+  {
+    "name":"Palais des expositions des Beaux-Arts",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f74a541ffb9:0xee54f6995a5f0e76"
+  },
+  {
+    "name":"Historial Charles de Gaulle",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd7cdd65f4d:0xadf959f5c3dfad29"
+  },
+  {
+    "name":"Atelier des Lumières",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66df0dcd89465:0xe6f9d92ace6637ea"
+  },
+  {
+    "name":"Département des Antiquités grecques, étrusques et romaines",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f0071b96f7b:0x993a24c8cfc78e0b"
+  },
+  {
+    "name":"Musée Cernuschi",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fb9d4f199cd:0x28c693ca0c63a9e0"
+  },
+  {
+    "name":"Galerie la Ferronnerie",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66dfc86640e6d:0xf947c48d8145125"
+  },
+  {
+    "name":"Galerie Montorgueil",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f2bec968b57:0x52a699b1e2a44bce"
+  },
+  {
+    "name":"Halle Saint-Pierre",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e42e3d7bf35:0xd1e03ecfcebc1d20"
+  },
+  {
+    "name":"Musée national de l'histoire de l'immigration",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e672600942b74f:0x6facbd967d65b5b6"
+  },
+  {
+    "name":"Hôtel des Invalides",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd7b98f3053:0x455a14459c80c16a"
+  },
+  {
+    "name":"Appartements Napoléon III",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fba85cee983:0x46f25d443a9b1d82"
+  },
+  {
+    "name":"Musée de l'Homme",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66ffc9e072c95:0xdeacab05dc637df"
+  },
+  {
+    "name":"Cabinet de Réalité Virtuelle",
+    "rating":3.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671f1b8b800a5:0xaa809a83dec58541"
+  },
+  {
+    "name":"Musée Jean-Jacques Henner",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fbbf159c343:0x241a58958e574153"
+  },
+  {
+    "name":"Cité de la Musique",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66db6400e9c5f:0x5f5355e5ec5f6d74"
+  },
+  {
+    "name":"Cinémathèque Française",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67215d9ea3303:0x56ae687ae93da4c4"
+  },
+  {
+    "name":"Paris Sewer Museum",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fda05658901:0x6723fc7871e89323"
+  },
+  {
+    "name":"Louvre Pyramid",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e267a32d441:0xb0088e1f7c07f451"
+  },
+  {
+    "name":"Citéco | Cité de l'Économie",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fb987cfccf5:0x8e8eafc68f7d5ed6"
+  },
+  {
+    "name":"Musée d'Art Moderne de Paris",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fe7988e74af:0x60dec2cd0e194c25"
+  },
+  {
+    "name":"Musée de l'Ordre de la Libération",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd7ece079cb:0xfe413ccebd3a938d"
+  },
+  {
+    "name":"Maxim's Art Nouveau \"Collection 1900\"",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fcd5046ff2f:0x85674bdbada80d2d"
+  },
+  {
+    "name":"Palais Galliera",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fe6404f1561:0xe0db1b2cc72435f0"
+  },
+  {
+    "name":"Friends of the Orsay Museum",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e2bb630941b:0x3754a39d46a77105"
+  },
+  {
+    "name":"Zen+DCO",
+    "rating":3.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e08b3b881bd:0xdded29e4025bf156"
+  },
+  {
+    "name":"Clemenceau Museum",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66ffda523a66d:0x39804a137566006b"
+  },
+  {
+    "name":"Musée Marmottan Monet",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e665529447f461:0x4ec7611155da854c"
+  },
+  {
+    "name":"Cité de l’architecture et du patrimoine",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66ffb5ba4a509:0xd1559bc4e18959e9"
+  },
+  {
+    "name":"Fondation Louis Vuitton",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6655d45f42a25:0x85d645fc15bab5cd"
+  },
+  {
+    "name":"Jazz Museum",
+    "rating":3.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e588d842981:0x927477f86c10cad"
+  },
+  {
+    "name":"Armand Paris Guide Conférencier",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f4fcc1178e1:0x13bc15b9616213b7"
+  },
+  {
+    "name":"NextStreet Gallery",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e002351e9b9:0xc05fc5617b29a182"
+  },
+  {
+    "name":"Cartier Foundation for Contemporary Art",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671c80c12b47d:0x225ddbf564cf5d5a"
+  },
+  {
+    "name":"Musée de la Contrefaçon",
+    "rating":4.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e665588aaa7731:0x3af52edebd9f0f60"
+  },
+  {
+    "name":"Deyrolle",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671d5f5c00847:0x342bc89fb4be12d1"
+  },
+  {
+    "name":"Bibliothèque de l'Arsenal",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fec953749f:0xa2062f936fe7752d"
+  },
+  {
+    "name":"Gallery of Mineralogy and Geology",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671f19c0be10b:0xfdd08ff66de303f9"
+  },
+  {
+    "name":"Astrolabe ESA HQ Visitor Center and Space Shop",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671005abc697b:0xbecf177fbb594e15"
+  },
+  {
+    "name":"Visitas Guiadas em Paris",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67172cd28a139:0x4f9d932d9cd76a0f"
+  },
+  {
+    "name":"Fondation Custodia",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd486b9e8e9:0xfc11eb03574e70da"
+  },
+  {
+    "name":"ART42 - Musée d'art urbain",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fa9e73a1ef7:0xb429df62b5631b9b"
+  },
+  {
+    "name":"Albert-Kahn Museum and Garden",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67b2122a57927:0x2eb59147365d4371"
+  },
+  {
+    "name":"The French Playing Card Museum",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67a821cc05fd5:0x9de25b020aba49e8"
+  },
+  {
+    "name":"99 Cameras Museum",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66558ddcf48a5:0xdcba26d961571833"
+  },
+  {
+    "name":"Musée National d'Art Moderne",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fba0bfc5e91:0x79e89a6c670e5276"
+  },
+  {
+    "name":"Le M. Musée du Vin",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66ffd89e9f379:0x9d1c4cbca509d21a"
+  },
+  {
+    "name":"Fragonard Museum",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6731da760efd9:0x153b4ca5366a18e2"
+  },
+  {
+    "name":"Kleot Olga",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e178609c5df:0xf62506557210596b"
+  },
+  {
+    "name":"Iconem",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671cf13f24fff:0xf42887a91f182d2a"
+  },
+  {
+    "name":"Gagosian",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f52aeb8d1c1:0x546ad91284386a95"
+  },
+  {
+    "name":"MAC VAL - Val-de-Marne Contemporary Art Museum",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6739503174c31:0xacdcf3635ce81ceb"
+  },
+  {
+    "name":"The Thinker",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67029ed211a99:0x2d8e908e33312b38"
+  },
+  {
+    "name":"Pavillon de l'Arsenal",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671f935651253:0x9b06353c0a53ac8d"
+  },
+  {
+    "name":"Nogent-sur-Marne Museum",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60d6eda2106fb:0x18a0a048c5398ace"
+  },
+  {
+    "name":"Ennery Museum",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66ff6896afe29:0xbacc3c3f8a569659"
+  },
+  {
+    "name":"Museum of the Thirties",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67ae7ad175c49:0xf929fc19478abd70"
+  },
+  {
+    "name":"Musée de l’Éventail",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f0077e090d1:0xc966f9dcf96c6127"
+  },
+  {
+    "name":"Museum of Art and History of the City of Meudon",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67a4e71dd92fb:0xda49e2ac30873ebd"
+  },
+  {
+    "name":"Museum of National Resistance",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e60c36aaa84bb7:0xedbe11d255f05642"
+  },
+  {
+    "name":"Roybet Fould Museum",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e665843f4f61b9:0x604e9fa2594c2db1"
+  },
+  {
+    "name":"Municipal Museum of Saint-Cloud",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67b3f5ff19579:0x25f94336be4b0524"
+  },
+  {
+    "name":"The Centquatre-Paris",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66dd66beff731:0xde01738bf54df325"
+  },
+  {
+    "name":"Musée du Barreau de Paris",
+    "rating":3.8,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e187f66bfdd:0x6c6232f0e9a829b2"
+  },
+  {
+    "name":"MUS - Museum of Urban and Social History of Suresnes",
+    "rating":4.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e664cffd27fcb3:0xdc2c5196a9295c7"
+  },
+  {
+    "name":"Museum of Romantic Life",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e48c5018683:0x4d3be5d6a3b287a0"
+  },
+  {
+    "name":"Musée Paul-Belmondo",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67ad810f024e9:0x7fbc52791bbdb438"
+  },
+  {
+    "name":"Musée Nissim de Camondo",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fb7878659e9:0x9edd4abb82b16bdf"
+  },
+  {
+    "name":"Musée Yves Saint Laurent",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fe79393f893:0xc8d90b5490d8edcc"
+  },
+  {
+    "name":"Palace of Versailles",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67d94d7b14c75:0x538fcc15f59ce8f"
+  },
+  {
+    "name":"\"Museum Precious Cargo\" African American History and Culture",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66df5478d39f7:0x487ee58298ce60b6"
+  },
+  {
+    "name":"Air France Museum",
+    "rating":3.2,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd12b2067fd:0x98a090ba90441ed4"
+  },
+  {
+    "name":"Bétonsalon - centre d'art et de recherche",
+    "rating":4.3,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6723be2c8f659:0xec0105e7fb67ece5"
+  },
+  {
+    "name":"Rodin Museum Meudon",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6702a1eccdb43:0x30c621f1f39f8336"
+  },
+  {
+    "name":"Musée Condé",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6498f5a234f45:0xae91f807bf094b78"
+  },
+  {
+    "name":"Mus'X",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e679a00f98448d:0x74dca146d3714edc"
+  },
+  {
+    "name":"Musée des Beaux-Arts de Rouen",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e0ddd7109645af:0x9836a30b9286cbd6"
+  },
+  {
+    "name":"The Sculpture Garden",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e0cd472d744345:0x2abe33b18235062"
+  },
+  {
+    "name":"Musée Cinéma et Miniature",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47f4ebaae27be5ef:0xe300013405b2077b"
+  },
+  {
+    "name":"Promuseum",
+    "rating":4.1,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6b8da1b46e16b:0xe87eb0ff96098ed5"
+  },
+  {
+    "name":"Musée Fabre",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x12b6af09f5ae850b:0xb0ea41728e236a0e"
+  },
+  {
+    "name":"Musées de La Résistance et de La Déportation",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47fa942764b66535:0x107e1922a2c74ebd"
+  },
+  {
+    "name":"The Pointe du Hoc",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x480b0a35fad1667d:0x16f2dd108188512e"
+  },
+  {
+    "name":"Lara Diégo - Musee La Villa Des Peintres",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x12ac38978893038b:0xbeb25af54f32a2ce"
+  },
+  {
+    "name":"Bollée Dominique",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e4e4ab65ec72f1:0x356ab567cc81bf0c"
+  },
+  {
+    "name":"Museum of Modern Art André Malraux",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e02ed860b92e1f:0x22f9d35811b4b2d2"
+  },
+  {
+    "name":"Musée Mémoire d'Islande \/ PLAERANEG GWECHALL",
+    "rating":5.0,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x48121bf06aa8db43:0x4833fe6d738c2266"
+  },
+  {
+    "name":"Muséum de Toulouse",
+    "rating":4.5,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x12aebc86a3707a4f:0xcd9775ac6d9d643c"
+  },
+  {
+    "name":"Musée du Palais Lascaris",
+    "rating":4.4,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x12cddabca1950653:0x8d425022ef476dde"
+  },
+  {
+    "name":"Carrières des Lumières",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x12b5e142696be24f:0xad0679207d8b0d3f"
+  },
+  {
+    "name":"Musée de la Falotte",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x12aa61dd80ea528b:0xe8f625988311ee9b"
+  },
+  {
+    "name":"Maison départementale de la Mémoire Militaire (Amis de la Martinerie)",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47fb09ae3fe38a9b:0xfb5877fc2b36e558"
+  },
+  {
+    "name":"Musée Art Brut",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x12b6af0d9a6cc1ed:0x6c171ac8286ae26c"
+  },
+  {
+    "name":"Bassins des Lumières",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0xd552990f83e26a7:0x7f91faa2e0dd47a9"
+  },
+  {
+    "name":"Musée Historique et Archéologique de l'Orléanais",
+    "rating":4.1,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e4e4d15c5f9047:0x26fcac3ba8beec7"
+  },
+  {
+    "name":"Airborne Museum",
+    "rating":4.7,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x480b792fe049312b:0x8ca508c8a524e349"
+  },
+  {
+    "name":"Bayeux Tapestry Museum",
+    "rating":4.6,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x480bacad1e032729:0x533a3a3a2a4b0c16"
+  },
+  {
+    "name":"Musée du Vieil Auvillar",
+    "rating":4.9,
+    "review_count":null,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x12abc023c640456f:0x40c4eaabd36cdbc1"
+  },
+  {
+    "name":"Oasis d'Aboukir",
+    "rating":4.5,
+    "review_count":71,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e17a78a99a7:0xca71742efb26f07"
+  },
+  {
+    "name":"Canal Saint Martin",
+    "rating":4.8,
+    "review_count":34,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fedd01a0eef:0xf4449d165a538ec6"
+  },
+  {
+    "name":"Turtle de Seine",
+    "rating":4.6,
+    "review_count":16,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671003d97f3ed:0x8a3986d3f8cda275"
+  },
+  {
+    "name":"Turenne Enfant Statue",
+    "rating":5.0,
+    "review_count":1,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f0040a0b71b:0xf637da636e90c233"
+  },
+  {
+    "name":"Quai de Jemmape",
+    "rating":5.0,
+    "review_count":7,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fd83d837003:0x2e6558df4a6e3941"
+  },
+  {
+    "name":"La Dame En Rouge",
+    "rating":4.5,
+    "review_count":2,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f016ca35377:0x4f4c3453bf5bdcb5"
+  },
+  {
+    "name":"Place des Vosges",
+    "rating":4.6,
+    "review_count":31416,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671ffe088e851:0x64d877a597074ca8"
+  },
+  {
+    "name":"Place du Calvaire",
+    "rating":4.7,
+    "review_count":23,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f9b270f9a5b:0xb6a1b16802f45794"
+  },
+  {
+    "name":"Latin quarter",
+    "rating":5.0,
+    "review_count":4,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6710016e6cecb:0xf5fb71e08ad0111"
+  },
+  {
+    "name":"Passage Vendôme",
+    "rating":4.0,
+    "review_count":264,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e089f326fed:0x7b4a420d16cbd331"
+  },
+  {
+    "name":"Pinky Tour - Paris",
+    "rating":5.0,
+    "review_count":87,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f620fe613f5:0x2ec864c75e1bad3e"
+  },
+  {
+    "name":"Place Georges Pompidou",
+    "rating":4.5,
+    "review_count":106,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fbd4b950a17:0x1c808bfba0c04ec7"
+  },
+  {
+    "name":"Rue des Degrés",
+    "rating":3.1,
+    "review_count":23,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f92260138c1:0x1651bba35b4c4f74"
+  },
+  {
+    "name":"Ponpon house",
+    "rating":5.0,
+    "review_count":2,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f006a923ed7:0x39cfc527ab6ca3c1"
+  },
+  {
+    "name":"Promenade Jean-Paul Belmondo",
+    "rating":4.8,
+    "review_count":44,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671d20d690a01:0x7f155a77872b90bf"
+  },
+  {
+    "name":"Square de l'Île-de-France",
+    "rating":4.5,
+    "review_count":334,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e39c05e3bb:0x8808a4297e35adf"
+  },
+  {
+    "name":"Écluses des Récollets",
+    "rating":4.4,
+    "review_count":7,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f47879ade45:0xea0a65bbba1712e4"
+  },
+  {
+    "name":"Christopher's Paris (Guided Tours)",
+    "rating":5.0,
+    "review_count":118,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67350cbec8f0d:0xaca500fd6aea2d1"
+  },
+  {
+    "name":"Fontaine Wallace",
+    "rating":5.0,
+    "review_count":1,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fa7142bb4dd:0x8137b16e007ae4df"
+  },
+  {
+    "name":"Place Blanche",
+    "rating":4.7,
+    "review_count":17,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f001ae195a3:0x407e18606eb0379f"
+  },
+  {
+    "name":"Atlantes",
+    "rating":4.6,
+    "review_count":11,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67211c67135c3:0x234523216e1f2d96"
+  },
+  {
+    "name":"Atlantes de Kinsburger",
+    "rating":3.0,
+    "review_count":2,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f627e947fa1:0xb78696083d77892d"
+  },
+  {
+    "name":"Le Grand Assistant",
+    "rating":4.7,
+    "review_count":3,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f3192a6efb1:0xdd64130a747995bc"
+  },
+  {
+    "name":"Meeting Point",
+    "rating":5.0,
+    "review_count":1,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671c6e10c8675:0x610f18a4ed20f900"
+  },
+  {
+    "name":"Chama da Liberdade",
+    "rating":4.0,
+    "review_count":1,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f00329c2a21:0xa89aba70d75bb92d"
+  },
+  {
+    "name":"Fontaine de la Vierge",
+    "rating":4.6,
+    "review_count":91,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e3be95794b:0xad01dc984b4b9128"
+  },
+  {
+    "name":"Point Zéro des Routes de France",
+    "rating":4.5,
+    "review_count":1192,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e170cda46b:0x16a14abd23a6dd0d"
+  },
+  {
+    "name":"Les Caves du Louvre",
+    "rating":4.6,
+    "review_count":1979,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e2185ea3629:0x7ce2b711dbf2008c"
+  },
+  {
+    "name":"L'arche by Mathieu Grosche",
+    "rating":5.0,
+    "review_count":4,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f0022671bc9:0x9cfb99416561e54b"
+  },
+  {
+    "name":"Invader PA_720",
+    "rating":5.0,
+    "review_count":1,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f00716609d3:0x810a1ffe1837ac61"
+  },
+  {
+    "name":"Fontaine Eginhard",
+    "rating":3.7,
+    "review_count":7,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671fe70f4ec85:0xcf1f7fab4201961b"
+  },
+  {
+    "name":"Coulée Verte René-Dumont",
+    "rating":4.6,
+    "review_count":6469,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e672017ad8a49f:0x961dede5aeb1ff83"
+  },
+  {
+    "name":"Mandala",
+    "rating":5.0,
+    "review_count":6,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671ac2a2b0a23:0xb80cb3b31d086a6e"
+  },
+  {
+    "name":"Cour Damoye",
+    "rating":4.6,
+    "review_count":115,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67200ed2223f7:0xa7e236dba07b82fd"
+  },
+  {
+    "name":"Maison médiévale",
+    "rating":4.2,
+    "review_count":5,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66fb4b056d809:0xa60bdfe560fe3a16"
+  },
+  {
+    "name":"La plus petite maison de Paris",
+    "rating":3.9,
+    "review_count":19,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e0de3865c71:0xc737cd94e2b66fb"
+  },
+  {
+    "name":"Remains of the Bastille",
+    "rating":3.6,
+    "review_count":93,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671feb1f63c5f:0x80cc4ac4569d51f6"
+  },
+  {
+    "name":"Écluse du Temple",
+    "rating":4.4,
+    "review_count":17,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f5836d4665b:0xc6a2a5fccf62027a"
+  },
+  {
+    "name":"Street art",
+    "rating":4.3,
+    "review_count":3,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66dda219d0d3d:0xb1f6de891f6daf51"
+  },
+  {
+    "name":"Notre-Dame Cathedral of Paris",
+    "rating":4.7,
+    "review_count":81899,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671e19ff53a01:0x36401da7abfa068d"
+  },
+  {
+    "name":"Parisian escape",
+    "rating":5.0,
+    "review_count":20,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6717a8c3f2ef5:0xb9e868280c7a91d0"
+  },
+  {
+    "name":"פריז",
+    "rating":5.0,
+    "review_count":1,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f005ea52da5:0x8b51e861078cc522"
+  },
+  {
+    "name":"Jardin des Plantes",
+    "rating":4.6,
+    "review_count":50053,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e671f0d126ec6b:0xa67a22fb91573d4e"
+  },
+  {
+    "name":"Paris Plages",
+    "rating":4.3,
+    "review_count":85,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e67177a71c0fdf:0x726608720c71767a"
+  },
+  {
+    "name":"Histoire de Paris : Les bouquinistes de la Seine",
+    "rating":4.8,
+    "review_count":6,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e6714800f77abd:0x6aec15c36e499184"
+  },
+  {
+    "name":"Square Jules-Ferry",
+    "rating":3.8,
+    "review_count":543,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66de29ba4dd3f:0xc0e6ec9b25da2206"
+  },
+  {
+    "name":"Square du Vert-Galant",
+    "rating":4.5,
+    "review_count":1482,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e20bf20388b:0x13d90502531bfa9"
+  },
+  {
+    "name":"Tower Philippe Auguste",
+    "rating":4.4,
+    "review_count":13,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66e0338a52ea9:0x6319e2ffae012884"
+  },
+  {
+    "name":"Instituto de difusión de la Cultura y el Turismo en Italia",
+    "rating":5.0,
+    "review_count":1,
+    "place_link":"https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47e66f16d4e153ad:0xb315de09470d4c46"
+  }
+]
