@@ -9,6 +9,7 @@ The pipeline performs the following steps:
 2.  **Cleaning**: Standardizes the raw data, handles missing values, and formats fields like prices and lists.
 3.  **Translation**: Translates descriptive fields from French to English using the Google Gemini API.
 4.  **Storage**: Normalizes the data (specifically payment methods) and stores it in a relational SQLite database.
+5.  **Google Ratings Enrichment**: Queries Google Maps for each monument name to retrieve a public rating and review count, and exports the results as CSV/JSON.
 
 ## Prerequisites
 
@@ -49,56 +50,108 @@ Run the scripts in the following order to execute the full pipeline.
 Scrapes the main listing page to gather URLs for all available monuments.
 ```bash
 python get_monument_links.py
-```
-*   **Output**: `monument_urls.txt`
+````
+
+* **Output**: `monument_urls.txt`
 
 ### 2. Extract Monument Details
+
 Visits each URL found in the previous step to scrape detailed information (prices, hours, address, etc.).
+
 ```bash
 python extract_monuments.py
 ```
-*   **Output**: `paris_monuments_data.json`
+
+* **Output**: `paris_monuments_data.json`
 
 ### 3. Clean and Analyze Data
+
 Processes the raw JSON data to fix formatting issues, handle missing values, and standardize price fields. It also generates a quality report.
+
 ```bash
 python clean_and_analyse_data.py
 ```
-*   **Output**: `paris_monuments_cleaned.json`, `paris_monuments_cleaned.csv`
+
+* **Output**: `paris_monuments_cleaned.json`, `paris_monuments_cleaned.csv`
 
 ### 4. Translate Dataset
+
 Uses the Gemini API to translate descriptions, opening hours, and conditions from French to English.
+
 ```bash
 python translate_dataset.py
 ```
-*   **Output**: `paris_monuments_translated.json`, `paris_monuments_translated.csv`
+
+* **Output**: `paris_monuments_translated.json`, `paris_monuments_translated.csv`
 
 ### 5. Create Database
+
 Creates a SQLite database with a normalized schema (separating payment methods) and inserts the translated data.
+
 ```bash
 python create_database.py
 ```
-*   **Output**: `paris_monuments.db`
+
+* **Output**: `paris_monuments.db`
+
+---
+
+## Part 2: Google Maps Ratings Enrichment
+
+After generating the cleaned dataset, you can enrich the monuments with **Google Maps rating** and **review count** by running `generate_google_rating.py`.
+
+### 6. Generate Google Ratings
+
+This script:
+
+* Loads the cleaned dataset (`paris_monuments_cleaned.csv` by default)
+* Searches each monument name on Google Maps
+* Extracts:
+
+  * `rating` (stars)
+  * `review_count`
+  * `google_maps_url` (the search URL used)
+* Saves progress periodically (checkpoint every 10 rows)
+
+```bash
+python generate_google_rating.py
+```
+
+* **Input**: `paris_monuments_cleaned.csv`
+* **Output**: `paris_monuments_ratings.csv`, `paris_monuments_ratings.json`
+
+### Notes / Troubleshooting
+
+* If Google’s cookie consent banner appears, the script attempts to click **“Accept all”** automatically.
+* The crawler includes basic rate limiting (`~1.5–3s` sleep between queries). If you get blocked or see captchas, slow it down further or run with a visible browser window.
+* To run without opening a browser UI, uncomment the headless option in the script:
+
+  ```python
+  # chrome_options.add_argument("--headless")
+  ```
 
 ## File Structure
 
-*   `get_monument_links.py`: Selenium script to harvest monument URLs.
-*   `extract_monuments.py`: Selenium script to scrape detailed data for each monument.
-*   `clean_and_analyse_data.py`: Data cleaning script with regex parsing and quality reporting.
-*   `translate_dataset.py`: Script utilizing `google.generativeai` to translate content.
-*   `create_database.py`: SQLite script to create tables (`monuments`, `payment_methods`) and insert data.
-*   `requirements.txt`: List of Python dependencies.
-*   `html_samples/`: Directory containing sample HTML files used for testing or reference.
-*   `wikipedia/`: Directory containing supplementary Wikipedia data scripts.
+* `get_monument_links.py`: Selenium script to harvest monument URLs.
+* `extract_monuments.py`: Selenium script to scrape detailed data for each monument.
+* `clean_and_analyse_data.py`: Data cleaning script with regex parsing and quality reporting.
+* `translate_dataset.py`: Script utilizing `google.generativeai` to translate content.
+* `create_database.py`: SQLite script to create tables (`monuments`, `payment_methods`) and insert data.
+* `generate_google_rating.py`: Selenium script to query Google Maps and extract rating + review count per monument.
+* `requirements.txt`: List of Python dependencies.
+* `html_samples/`: Directory containing sample HTML files used for testing or reference.
+* `wikipedia/`: Directory containing supplementary Wikipedia data scripts.
 
 ## Database Schema
 
 The final SQLite database (`paris_monuments.db`) contains two main tables:
 
-1.  **`monuments`**:
-    *   `id`, `name`, `url`, `short_description`, `address`, `opening_hours`, `ticket_price`, `ticket_price_conditions`, `visiting_services`.
-2.  **`payment_methods`**:
-    *   `id`, `monument_id`, `method` (Normalized payment method names).
+1. **`monuments`**:
+
+   * `id`, `name`, `url`, `short_description`, `address`, `opening_hours`, `ticket_price`, `ticket_price_conditions`, `visiting_services`.
+2. **`payment_methods`**:
+
+   * `id`, `monument_id`, `method` (Normalized payment method names).
 
 ## License
 
