@@ -1,0 +1,569 @@
+[
+  {
+    "name": "Centre Georges-Pompidou",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "20th-century modern art museum, hosting the Paris Museum of Modern Art",
+    "link": "https://en.wikipedia.org/wiki/Centre_Georges-Pompidou"
+  },
+  {
+    "name": "Cité des Sciences et de l'Industrie",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "a hands-on science museum that attracts over two million visitors yearly",
+    "link": "https://en.wikipedia.org/wiki/Cit%C3%A9_des_Sciences_et_de_l%27Industrie"
+  },
+  {
+    "name": "The Louvre",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "one of the world's largest museums and a historic monument",
+    "link": "https://en.wikipedia.org/wiki/The_Louvre"
+  },
+  {
+    "name": "Musée des Arts et Métiers",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "Museum of Arts and Crafts that houses the collection of the Conservatoire National des Arts et Métiers (National Conservatory of Arts and Industry), which was founded in 1794 as a repository for the preservation of scientific instruments and inventions",
+    "link": "https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Arts_et_M%C3%A9tiers"
+  },
+  {
+    "name": "Musée d'Orsay",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "19th-century paintings, one of the largest Impressionist exhibits, housed in a former rail station",
+    "link": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay"
+  },
+  {
+    "name": "Musée de l'Orangerie",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "Impressionist and Post-Impressionist paintings, the permanent home of eight large Water Lilies murals by Claude Monet",
+    "link": "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_l%27Orangerie"
+  },
+  {
+    "name": "Musée Marmottan Monet",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "dedicated to Claude Monet, includes over 300 paintings including Monet's Impression, Sunrise",
+    "link": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Marmottan_Monet"
+  },
+  {
+    "name": "Muséum national d'histoire naturelle",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "National Museum of Natural History",
+    "link": "https://en.wikipedia.org/wiki/Mus%C3%A9um_national_d%27histoire_naturelle"
+  },
+  {
+    "name": "Musée Picasso",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "dedicated to the works of Pablo Picasso",
+    "link": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Picasso"
+  },
+  {
+    "name": "Musée Rodin",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "houses the works of sculptors Auguste Rodin and Camille Claudel",
+    "link": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Rodin"
+  },
+  {
+    "name": "Parc de la Villette",
+    "region": "Within the City of Paris",
+    "type": "Museums",
+    "description": "hosting the Cité des Sciences et de l'Industrie, a science museum, and the Cité de la Musique, which houses various musical institutes, a museum, and a concert hall",
+    "link": "https://en.wikipedia.org/wiki/Parc_de_la_Villette"
+  },
+  {
+    "name": "Arc de Triomphe",
+    "region": "Within the City of Paris",
+    "type": "Monuments",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Arc_de_Triomphe"
+  },
+  {
+    "name": "Conciergerie",
+    "region": "Within the City of Paris",
+    "type": "Monuments",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Conciergerie"
+  },
+  {
+    "name": "Eiffel Tower",
+    "region": "Within the City of Paris",
+    "type": "Monuments",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+  },
+  {
+    "name": "Grand Palais",
+    "region": "Within the City of Paris",
+    "type": "Monuments",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Grand_Palais"
+  },
+  {
+    "name": "Les Invalides",
+    "region": "Within the City of Paris",
+    "type": "Monuments",
+    "description": "complex containing museums and monuments relating to the military history of France",
+    "link": "https://en.wikipedia.org/wiki/Les_Invalides"
+  },
+  {
+    "name": "Palais Garnier",
+    "region": "Within the City of Paris",
+    "type": "Monuments",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Palais_Garnier"
+  },
+  {
+    "name": "The Panthéon",
+    "region": "Within the City of Paris",
+    "type": "Monuments",
+    "description": "church and tomb of a number of France's most famed men and women",
+    "link": "https://en.wikipedia.org/wiki/The_Panth%C3%A9on"
+  },
+  {
+    "name": "Place des Vosges",
+    "region": "Within the City of Paris",
+    "type": "Monuments",
+    "description": "square in the Marais districte",
+    "link": "https://en.wikipedia.org/wiki/Place_des_Vosges"
+  },
+  {
+    "name": "Place Vendôme",
+    "region": "Within the City of Paris",
+    "type": "Monuments",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Place_Vend%C3%B4me"
+  },
+  {
+    "name": "Basilica of the Sacré Cœur",
+    "region": "Within the City of Paris",
+    "type": "Churches",
+    "description": "located in the district of Montmartre",
+    "link": "https://en.wikipedia.org/wiki/Basilica_of_the_Sacr%C3%A9_C%C5%93ur"
+  },
+  {
+    "name": "Montmartre Cemetery",
+    "region": "Within the City of Paris",
+    "type": "Churches",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Montmartre_Cemetery"
+  },
+  {
+    "name": "Notre-Dame de Paris",
+    "region": "Within the City of Paris",
+    "type": "Churches",
+    "description": "Cathedral - Paris's 12th-century ecclesiastical centrepiece on the Île de la Cité",
+    "link": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+  },
+  {
+    "name": "Père Lachaise Cemetery",
+    "region": "Within the City of Paris",
+    "type": "Churches",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/P%C3%A8re_Lachaise_Cemetery"
+  },
+  {
+    "name": "Sainte-Chapelle",
+    "region": "Within the City of Paris",
+    "type": "Churches",
+    "description": "a 13th-century Gothic palace chapel, also located on the Île de la Cité",
+    "link": "https://en.wikipedia.org/wiki/Sainte-Chapelle"
+  },
+  {
+    "name": "Church of St Eustache",
+    "region": "Within the City of Paris",
+    "type": "Churches",
+    "description": "a 16th-century Gothic church in the district of Les Halles",
+    "link": "https://en.wikipedia.org/wiki/Saint-Eustache,_Paris"
+  },
+  {
+    "name": "La Madeleine",
+    "region": "Within the City of Paris",
+    "type": "Churches",
+    "description": "a 19th-century church designed as a Roman temple",
+    "link": "https://en.wikipedia.org/wiki/La_Madeleine,_Paris"
+  },
+  {
+    "name": "Grand Mosque of Paris",
+    "region": "Within the City of Paris",
+    "type": "Churches",
+    "description": "a large mosque, the first ever built in Metropolitan France",
+    "link": "https://en.wikipedia.org/wiki/Grand_Mosque_of_Paris"
+  },
+  {
+    "name": "Arab World Institute",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(1987) Jean Nouvel,[2] 5th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Arab_World_Institute"
+  },
+  {
+    "name": "Bercy Arena",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "équipe Andrault-Parat, Jean Prouvé, Guvan (1984), 12th arrondissement of Paris.",
+    "link": "https://en.wikipedia.org/wiki/Bercy_Arena"
+  },
+  {
+    "name": "Cité internationale universitaire de Paris",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Pavillon Suisse (1930) and Maison du Brésil (1954), Le Corbusier and Lúcio Costa for the latter[3]",
+    "link": "https://en.wikipedia.org/wiki/Cit%C3%A9_internationale_universitaire_de_Paris"
+  },
+  {
+    "name": "Front de Seine",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(1970s) and Centre commercial Beaugrenelle, Valode et Pistre (2013), 15th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Front_de_Seine"
+  },
+  {
+    "name": "Minister of the Economy, Finances and Industry",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(1989), 12th arrondissement of Paris.",
+    "link": "https://en.wikipedia.org/wiki/Minister_of_the_Economy,_Finances_and_Industry_(France)"
+  },
+  {
+    "name": "Robert Mallet-Stevens",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Robert_Mallet-Stevens"
+  },
+  {
+    "name": "Opéra Bastille",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Carlos Ott (1989), 11th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Op%C3%A9ra_Bastille"
+  },
+  {
+    "name": "Palais de Chaillot",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(1937), Jacques Carlu, Louis-Hippolyte Boileau and Léon Azéma, 16th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Palais_du_Trocad%C3%A9ro"
+  },
+  {
+    "name": "Palais de la Porte Dorée",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(1931), Albert Laprade, 12th arrondissement of Paris[5]",
+    "link": "https://en.wikipedia.org/wiki/Palais_de_la_Porte_Dor%C3%A9e"
+  },
+  {
+    "name": "Palais de Tokyo",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(1937), architects: Jean-Claude Dondel, André Aubert, Paul Viard et Marcel Dastugue, low reliefs: Alfred Janniot, statue La France: Antoine Bourdelle, 16th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Palais_de_Tokyo"
+  },
+  {
+    "name": "Auguste Perret",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Auguste_Perret"
+  },
+  {
+    "name": "Palais de Chaillot",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(1937), Jacques Carlu, Louis-Hippolyte Boileau and Léon Azéma, 16th arrondissement of Paris (1927), Jacques Marcel Auburtin, André Granet and Jean-Baptiste Mathon, 8th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Palais_du_Trocad%C3%A9ro"
+  },
+  {
+    "name": "Salle Pleyel",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(1927), Jacques Marcel Auburtin, André Granet and Jean-Baptiste Mathon, 8th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Salle_Pleyel"
+  },
+  {
+    "name": "La Samaritaine",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "building facing the river (1928?), Frantz Jourdain and Henri Sauvage, 1st arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/La_Samaritaine"
+  },
+  {
+    "name": "Oscar Niemeyer",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Oscar_Niemeyer"
+  },
+  {
+    "name": "Théâtre des Champs-Élysées",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(1913), Auguste Perret, 8th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_des_Champs-%C3%89lys%C3%A9es"
+  },
+  {
+    "name": "Tour Montparnasse",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "architects Jean Saubot, Eugène Beaudouin, Urbain Cassan and Louis de Hoÿm de Marien (1973), 15th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Tour_Montparnasse"
+  },
+  {
+    "name": "World Heritage Centre",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(Unesco) (1958) architects: French Bernard Zehrfuss, Américan Marcel Breuer, and Italian Pier Luigi Nervi. Their plans were validated by an international committee of five architects: Lucio Costa (Brasil), Walter Gropius (United States), Le Corbusier (France), Sven Markelius (Sweden) and Ernesto Nathan Rogers (Italy), in collaboration with Eero Saarinen (Finland). 7th arrondissement of Paris[6]",
+    "link": "https://en.wikipedia.org/wiki/World_Heritage_Centre"
+  },
+  {
+    "name": "Centre national d'art et de culture Georges-Pompidou",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Renzo Piano, Richard Rogers, Gianfranco Franchini (1977), 1st arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Centre_national_d%27art_et_de_culture_Georges-Pompidou"
+  },
+  {
+    "name": "Les Echelles du Baroque",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Ricardo Bofill (1985), 14th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Les_Echelles_du_Baroque"
+  },
+  {
+    "name": "La Géode",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "architects Adrien Fainsilber and Gérard Chamayou (1985), 19th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/La_G%C3%A9ode"
+  },
+  {
+    "name": "Architecture-Studio",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Architecture-Studio"
+  },
+  {
+    "name": "Louvre Pyramid",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Ieoh Ming Pei (1989), 1st arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Louvre_Pyramid"
+  },
+  {
+    "name": "La Défense",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Paris business district, Grande Arche, Johan Otto von Spreckelsen and Erik Reitzel (1989)",
+    "link": "https://en.wikipedia.org/wiki/La_D%C3%A9fense"
+  },
+  {
+    "name": "Parc André-Citroën",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "landscaping: Gilles Clément, Allain Provost, architects Patrick Berger, Jean-François Jodry and Jean-Paul Viguier, (1992),[7] 15th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Parc_Andr%C3%A9-Citro%C3%ABn"
+  },
+  {
+    "name": "Canal+",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "former site (1992), Richard Meier,[8] 15th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Canal%2B_(French_TV_channel)"
+  },
+  {
+    "name": "[9]",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/List_of_tourist_attractions_in_Paris#cite_note-9"
+  },
+  {
+    "name": "Cinémathèque française",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "(1993), Frank Gehry, 12th arrondissement of Paris.",
+    "link": "https://en.wikipedia.org/wiki/Cin%C3%A9math%C3%A8que_fran%C3%A7aise"
+  },
+  {
+    "name": "Fondation Cartier pour l'art contemporain",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Jean Nouvel (1994), 14th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Fondation_Cartier_pour_l%27art_contemporain"
+  },
+  {
+    "name": "Bibliothèque nationale de France",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Dominique Perrault (1995), 13th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France"
+  },
+  {
+    "name": "Musée du quai Branly",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Jean Nouvel (2006), 7th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Mus%C3%A9e_du_quai_Branly"
+  },
+  {
+    "name": "Cité de la mode et du design",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Jakob + Macfarlane (2008), 13th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Cit%C3%A9_de_la_mode_et_du_design"
+  },
+  {
+    "name": "Louis Vuitton Foundation",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Frank Gehry (2014), 16th arrondissement of Paris[10]",
+    "link": "https://en.wikipedia.org/wiki/Louis_Vuitton_Foundation"
+  },
+  {
+    "name": "Philharmonie de Paris",
+    "region": "Within the City of Paris",
+    "type": "Modern and contemporary architecture of the 20th and 21st century",
+    "description": "Jean Nouvel (2015), 19th arrondissement of Paris",
+    "link": "https://en.wikipedia.org/wiki/Philharmonie_de_Paris"
+  },
+  {
+    "name": "Montmartre",
+    "region": "Within the City of Paris",
+    "type": "Others",
+    "description": "an old district of Paris on a hill containing the Bateau-Lavoir, the Basilica of the Sacré Cœur, the Place du Tertre, the Musée de Montmartre, and other sites.",
+    "link": "https://en.wikipedia.org/wiki/Montmartre"
+  },
+  {
+    "name": "Sorbonne",
+    "region": "Within the City of Paris",
+    "type": "Others",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Sorbonne_(building)"
+  },
+  {
+    "name": "Statue of Liberty replicas",
+    "region": "Within the City of Paris",
+    "type": "Others",
+    "description": "A smaller version of Frédéric Auguste Bartholdi's Liberty Enlightening the World, the New York City harbor statue which France gave to the United States in 1886, located on the Île aux Cygnes on the Seine in the Front de Seine district.",
+    "link": "https://en.wikipedia.org/wiki/Replicas_of_the_Statue_of_Liberty"
+  },
+  {
+    "name": "Luxembourg Garden",
+    "region": "Within the City of Paris",
+    "type": "Others",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Luxembourg_Garden"
+  },
+  {
+    "name": "Flame of Liberty",
+    "region": "Within the City of Paris",
+    "type": "Others",
+    "description": "replica of the flame held by the Statue of Liberty",
+    "link": "https://en.wikipedia.org/wiki/Flame_of_Liberty"
+  },
+  {
+    "name": "Pasteur Institute",
+    "region": "Within the City of Paris",
+    "type": "Others",
+    "description": "and museum",
+    "link": "https://en.wikipedia.org/wiki/Pasteur_Institute"
+  },
+  {
+    "name": "Palace of Versailles",
+    "region": "In the Paris region",
+    "type": "Monuments",
+    "description": "the famous former palace of French kings",
+    "link": "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+  },
+  {
+    "name": "Saint Denis Basilica",
+    "region": "In the Paris region",
+    "type": "Monuments",
+    "description": "the burial site of the French kings",
+    "link": "https://en.wikipedia.org/wiki/Saint_Denis_Basilica"
+  },
+  {
+    "name": "Château de Fontainebleau",
+    "region": "In the Paris region",
+    "type": "Monuments",
+    "description": "built by Francis I of France, it is one of the largest of the French royal châteaux",
+    "link": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Fontainebleau"
+  },
+  {
+    "name": "Château de Vaux-le-Vicomte",
+    "region": "In the Paris region",
+    "type": "Monuments",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Vaux-le-Vicomte"
+  },
+  {
+    "name": "Château de Vincennes",
+    "region": "In the Paris region",
+    "type": "Monuments",
+    "description": "(Vincennes Castle) - a large medieval castle nearby the Bois de Vincennes (Vincennes Wood)",
+    "link": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Vincennes"
+  },
+  {
+    "name": "Château Villette",
+    "region": "In the Paris region",
+    "type": "Monuments",
+    "description": "a château built in the 18th century",
+    "link": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Villette"
+  },
+  {
+    "name": "Parc de Sceaux",
+    "region": "In the Paris region",
+    "type": "Monuments",
+    "description": "a 17th-century park located near the Château de Sceaux (Sceaux Castle).",
+    "link": "https://en.wikipedia.org/wiki/Parc_de_Sceaux"
+  },
+  {
+    "name": "La Défense",
+    "region": "In the Paris region",
+    "type": "Monuments",
+    "description": "The largest business district in Europe.",
+    "link": "https://en.wikipedia.org/wiki/La_D%C3%A9fense"
+  },
+  {
+    "name": "Cathédrale Saint-Maclou de Pontoise",
+    "region": "In the Paris region",
+    "type": "Monuments",
+    "description": "Roman Catholic cathedral located in the town of Pontoise, on the outskirts of Paris.",
+    "link": "https://en.wikipedia.org/wiki/Cath%C3%A9drale_Saint-Maclou_de_Pontoise"
+  },
+  {
+    "name": "Disneyland Paris",
+    "region": "In the Paris region",
+    "type": "Entertainment",
+    "description": "the largest theme park in Europe",
+    "link": "https://en.wikipedia.org/wiki/Disneyland_Paris"
+  },
+  {
+    "name": "Parc Astérix",
+    "region": "In the Paris region",
+    "type": "Entertainment",
+    "description": "one of many of Paris' theme parks",
+    "link": "https://en.wikipedia.org/wiki/Parc_Ast%C3%A9rix"
+  },
+  {
+    "name": "Stade de France",
+    "region": "In the Paris region",
+    "type": "Entertainment",
+    "description": "the 80,000 seater stadium in which France won the 1998 edition of the FIFA World Cup",
+    "link": "https://en.wikipedia.org/wiki/Stade_de_France"
+  },
+  {
+    "name": "Musée Louis Braille",
+    "region": "In the Paris region",
+    "type": "Museum",
+    "description": null,
+    "link": "https://en.wikipedia.org/wiki/Mus%C3%A9e_Louis_Braille"
+  }
+]

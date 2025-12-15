@@ -1,0 +1,2210 @@
+[
+    {
+        "name": "Basilique Cathédrale de Saint-Denis",
+        "url": "https://www.saint-denis-basilique.fr/",
+        "short_description": "Découvrez la nécropole des rois et des reines de France et la Fabrique de la flèche !",
+        "ticket_price": 17.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "D'octobre à mars \nDu lundi au samedi : 10h - 16h45\nLe dimanche : 12h - 16h45\nD'avril à septembre \nDu lundi au samedi : 10h - 17h45\nLe dimanche : 12h - 17h45\nFermetures pendant les offices religieux et les 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "1, rue de la Légion d'Honneur, 93200 Saint-Denis",
+        "visiting_services": [
+            "Bagages « cabines » autorisées : maximum 40x20x20 cm",
+            "Pas de consigne ou de vestiaire sur place",
+            "Chiens guides et d'assistance autorisés",
+            "Toilettes et table à langer",
+            "Nourriture non-autorisée",
+            "Les prises de vue à visée professionnelle doivent faire l’objet d’une autorisation",
+            "Prise de parole soumise à autorisation et réservée aux personnes qualifiées au sens des dispositions du code du tourisme",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument."
+        ],
+        "ticket_price_raw": "Tarif : 17 €"
+    },
+    {
+        "name": "Oppidum et musée archéologique d'Ensérune",
+        "url": "https://www.enserune.fr/",
+        "short_description": "Découvrez une cité gauloise majeure du Midi située entre Narbonne et Béziers.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans.",
+        "opening_hours": "Attention : dernier accès au monument, une heure avant la fermeture !\nDu 1er avril au 30 septembre\n9h45 - 18h30\nFermé les lundis\nDu 1er octobre au 31 mars\n9h45 - 12h30 et 14h - 17h30\nFermé les lundis et les mardis\nOuvert les lundis de Pâques et de Pentecôte.\nFermetures exceptionnelles les 1er janvier, 1er mai , 1er et 11 novembre, et 25 décembre.\nNotez qu'il faut compter 10 minutes de marche depuis le parking jusqu'à l'entrée du site !",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "2901 route d’Ensérune, 34440 Nissan-lez-Ensérune",
+        "visiting_services": [
+            "Fontaine à eau",
+            "Toilettes",
+            "Chaise-canne",
+            "Possibilité de repos au cours de la visite et à l'extérieur",
+            "Rack à vélos",
+            "Dépose-minute",
+            "Parking (10 min de montée par chemin piétonnier)",
+            "Possibilité de pique-nique à l’extérieur du site",
+            "Librairie-boutique",
+            "Prises de recharge électrique via USB",
+            "Chiens tenus en laisse sur le site mais interdits dans le musée",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Château d'Assier",
+        "url": "https://www.chateau-assier.fr/",
+        "short_description": "Entre Figeac et Rocamadour, visitez le château d'un compagnon d'armes du roi François Ier.",
+        "ticket_price": 5.0,
+        "ticket_price_conditions": "Gratuit pour les - de 25 ans",
+        "opening_hours": "Du 2 mai au 31 août\n10h - 12h30 et 14h - 18h30\nFermé le mardi\nDu 1er septembre au 30 avril\nLe monument est ouvert pour les groupes d'au moins 8 personnes, sur réservation par mail ou téléphone.\nFermé le mardi\nAttention : dernier accès dans le monument 45 minutes avant la fermeture\nFermeture annuelle 1er janvier, 1er mai, 1er et 11 novembre, 25 décembre",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "41 Rue des Écuries de Galiot, 46320 Assier",
+        "visiting_services": [
+            "Chiens acceptés à l'extérieur, tenus en laisse",
+            "Poussettes non acceptées au 1er étage",
+            "Dans le cadre d'une animation programmée à heure fixe, veillez à vous présenter en billetterie au moins 15 minutes avant le début de l'animation.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 5 €"
+    },
+    {
+        "name": "Cathédrale Saint-Lazare d'Autun",
+        "url": "https://www.tresor-cathedrale-autun.fr/",
+        "short_description": "Découvrez le monumental reliquaire destiné à abriter le corps de Saint-Lazare.",
+        "ticket_price": 4.0,
+        "ticket_price_conditions": "Gratuit pour les -26 ans",
+        "opening_hours": "Du 1er avril au 31 octobre\nLundi au samedi\n10h - 13h et 14h - 18h\nDimanche\n14h -18h\n\nFermeture le lundi de Pâques, les 1er et 8 mai, les 19-20-21 juillet, les 10-11-12 août et lors des  grandes cérémonies religieuses.",
+        "payment_methods": [],
+        "address": "Place du Terreau, 71400 Autun",
+        "visiting_services": [
+            "Lors des cérémonies, l’accès se fait par le clos Gislebertus",
+            "Chiens d'assistance tenus en laisse autorisés",
+            "Poussettes autorisées",
+            "Photos autorisées sans flash",
+            "Aucune consigne à bagages n'est proposée dans l'enceinte des monuments",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 4€"
+    },
+    {
+        "name": "Château d'Angers",
+        "url": "https://www.chateau-angers.fr/",
+        "short_description": "Une forteresse imprenable, un gigantesque chef-d’œuvre médiéval unique au monde : vivez une expérience grandeur nature !",
+        "ticket_price": 11.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 2 mai au 4 septembre \n10h - 18h30\nDu 5 septembre au 30 avril\n10h - 17h30\nLes 24 et 31 décembre : fermeture à 16h30.\nÀ noter : \nFermeture de la billetterie et dernier accès au monument : 45 min avant la fermeture.\nFermeture des expositions temporaires et du logis royal : 30 min avant la fermeture.\nFermeture de la galerie de l’Apocalypse, de la chapelle et de la librairie-boutique : 15 min avant la fermeture\n\nOuvert tous les jours sauf 1er janvier, 1er mai  et 25 décembre.",
+        "payment_methods": [],
+        "address": "2, promenade du Bout-du-Monde, 49100 Angers",
+        "visiting_services": [
+            "Les visiteurs de moins de 15 ans doivent être accompagnés d'une personne majeure.",
+            "Les étages supérieurs du logis royal sont accessibles en période d’exposition temporaire uniquement.",
+            "Pour les groupes, une réservation en avance peut être nécessaire pour accéder au monument et/ou aux expositions temporaires. Consultez les onglets dédiés aux groupes.",
+            "Animaux de compagnie : seuls les chiens-guides et les animaux d'assistance sont autorisés dans l'enceinte du monument."
+        ],
+        "ticket_price_raw": "Tarif : 11 €"
+    },
+    {
+        "name": "Colonne de la Grande Armée",
+        "url": "https://www.colonne-grande-armee.fr/",
+        "short_description": "Découvrez un monument érigé de 1804 à 1824 en l'honneur de Napoléon Ier.",
+        "ticket_price": 5.0,
+        "ticket_price_conditions": "Gratuit - de 26 ans",
+        "opening_hours": "Du 19 décembre au 14 juin\nDu vendredi au dimanche \n10h - 12h et 14h - 16h\n Pendant les vacances de Février et de Printemps (zone B)\nDu mercredi au dimanche \n10h - 12h et 14h - 16h\n Du 15 juin au 30 septembre\nDu mercredi au dimanche \n10h - 12h30 et 14h30 - 18h\n Du 1er octobre au 7 novembre\nDu vendredi au dimanche\n10h - 12h et 14h - 16h\n Du 8 novembre au 18 décembre\nFermeture annuelle\n Fermeture exceptionnelle les 1er janvier, 1er mai, 1er novembre et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV) (uniquement pour les droits d'entrée)",
+            "chèque Lire (uniquement en boutique)",
+            "mandat administratif & Pass culture (réservation de groupes)"
+        ],
+        "address": "Rue Napoléon, 62126 Wimille",
+        "visiting_services": [
+            "La montée de la colonne est fortement déconseillée aux personnes ayant des difficultés de mobilité, personnes souffrant de problèmes cardiaques, personnes âgées, femmes enceintes ou craignant les espaces étroits et/ou sujettes au vertige.\nATTENTION : il n’y a aucun accès par ascenseur !",
+            "L’accès est autorisé sous réserve de chaussures fermées et adaptées à la montée (269 marches).",
+            "L’accès n’est pas autorisé aux enfants de moins de 6 ans.",
+            "Il reste impératif de se conformer aux consignes transmises par les agents sur site.",
+            "Animaux domestiques interdits sur le site, à l'exception des chiens-guides.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument."
+        ],
+        "ticket_price_raw": "Tarif : 5 €"
+    },
+    {
+        "name": "Monastère royal de Brou",
+        "url": "https://www.monastere-de-brou.fr/",
+        "short_description": "Laissez-vous transporter par l'exceptionnelle histoire de ce chef-d'œuvre gothique flamboyant.",
+        "ticket_price": 11.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er avril au 30 septembre\n9h - 18h\nDu 1er octobre au 31 mars\n9h - 17h\nAttention : dernier accès au monument 30 minutes avant la fermeture ; évacuation du monument 15 minutes avant la fermeture.\nFermeture les 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances - ANCV (uniquement en billetterie)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "63 boulevard de Brou, 01000 Bourg-en-Bresse",
+        "visiting_services": [
+            "Parcours de visite accessible aux Personnes à Mobilité Réduite",
+            "Table à langer disponible",
+            "Poussettes autorisées",
+            "Chiens interdits (sauf chiens de guidage)",
+            "Nourriture interdite dans l'enceinte du monument",
+            "Consignes disponibles pour vos bagages"
+        ],
+        "ticket_price_raw": "Tarif : 11 €"
+    },
+    {
+        "name": "Alignements de Carnac",
+        "url": "https://www.menhirs-carnac.fr/",
+        "short_description": "Parcourez le plus grand ensemble mégalithique de ce type au monde, haut-lieu de la préhistoire européenne.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Tarif de la visite guidée au sein des alignements.",
+        "opening_hours": "La Maison des mégalithes est fermée le 11 décembre après-midi.\n La Maison des mégalithes :\n \nDu 1er avril au 30 juin\n9h30 - 18h\nDu 1er juillet au 31 août\n9h30 - 19h\nDu 1er au 30 septembre\n9h30 - 18h\nDu 1er octobre au 31 mars\n10h - 13h \n14h - 17h\n Fermeture de la Maison des mégalithes  les 1er janvier, 1er mai et 25 décembre.\nSe renseigner sur les horaires de visites avec un guide dans les alignements : réservation en ligne ou achat à la billetterie Maison des mégalithes.\n\nAccès libre et gratuit au cheminement piéton autour des sites.\nCertains sites sont ouverts à la visite libre d'octobre à fin mars.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Maison des mégalithes, Le Ménec, Carnac",
+        "visiting_services": [
+            "Des chaussures fermées sont recommandées pour la visite dans les alignements",
+            "Chiens en laisse autorisés sur les cheminements autour des alignements",
+            "Chiens non autorisés en visite guidée et dans le bâtiment d'accueil.",
+            "Poussettes non recommandées dans les sites (sol non praticable).",
+            "Distributeur de boissons à la Maison des mégalithes.",
+            "Glacier pendant la saison estivale (sur le toit terrasse ou le parvis)",
+            "Parking de la Maison des mégalithes - réservé aux visiteurs",
+            "En cas d'affluence, autre parking des alignements indiqué à l'entrée de Carnac (en arrivant d'Auray)",
+            "Campings cars, se diriger vers  : \nPARKING DES ALIGNEMENTS (KERABUS)",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument.\nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs  extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "En cas de très fortes chaleurs, ou canicule, en fonction de l'alerte vigilance en cours, certaines visites pourraient être modifiées ou déplacées sur des sites plus ombragés.\n\nIl est recommandé de prévoir de l'eau lors de la visite.\nSe protéger du soleil (chapeau, lunettes, crème solaire)\nPour les personnes les plus sensibles, envisager de décaler sa visite."
+        ],
+        "ticket_price_raw": "Tarif : 13 €"
+    },
+    {
+        "name": "Cairn de Barnenez",
+        "url": "https://www.barnenez.fr/",
+        "short_description": "Dans le Finistère, découvrez le cairn de Barnenez, plus grand mausolée mégalithique d’Europe.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er au 30 avril\n10h - 12h30 et 14h - 17h30\nDu 2 mai au 30 juin\n10h - 12h30 et 14h - 18h30\nDu 1er juillet au 4 septembre\n10h - 18h30\nDu 5 septembre au 30 septembre\n10h - 12h30 et 14h - 17h30\nDu 1er octobre au 31 mars\n10h - 12h30 et 14h - 17h30\nFermé le lundi\nAttention : dernier accès au monument, 30 mn avant la fermeture.\nFermeture les 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Presqu'île de Kernelehen, 29200 Plouezoc'h, Tél. : 00 33 (0)2 98 67 24 73",
+        "visiting_services": [
+            "Chiens non autorisés sur le site.",
+            "Poussettes autorisées mais accès difficile.",
+            "Photos non professionnelles autorisées.",
+            "Restauration la plus proche dans le village de Plouezoc'h",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument.\nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "En cas de très fortes chaleurs, ou canicule, en fonction de l'alerte vigilance en cours, certaines visites pourraient être modifiées.\n\nIl est recommandé de prévoir de l'eau lors de la visite.\nSe protéger du soleil (chapeau, lunettes, crème solaire)\nPour les personnes les plus sensibles, envisager de décaler sa visite."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Village fortifié de Mont-Dauphin",
+        "url": "https://www.village-fortifie-montdauphin.fr/",
+        "short_description": "Découvrez une place forte inscrite au patrimoine mondial de l'UNESCO au titre des fortifications de Vauban",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Réserver votre visite des fortifications",
+        "opening_hours": "Les fortifications et les bâtiments militaires du XVIIe siècle sont accessibles uniquement en visite commentée. Retrouvez les horaires de visite dans l'agenda.\n\nLa billetterie/boutique est ouverte du mardi au dimanche de 10h à 12h et de 14h à 17h. Fermée le 25 décembre, 1er janvier, 1er mai.\n\nLe village fortifié est en accès libre toute l'année, 24 heures sur 24 et 7 jours sur 7.\nAttention : l'exposition Little Bighorn d'Ousmane Sow est fermée durant l'hiver ! Réouverture prévue en avril 2026 !",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque-vacances (ANCV)",
+            "chèque Culture (uniquement en boutique)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Pavillon de l'Horloge, Billetterie/boutique, 1 place Vauban, 05600 Mont-Dauphin",
+        "visiting_services": [
+            "Parking voitures et cars obligatoire (gratuit) à l'extérieur du village (à 300 mètres environ).",
+            "Librairie-boutique ouverte toute l'année, artisans et restaurants en saison estivale.",
+            "Toilettes.",
+            "L'accès libre aux remparts peut être dangereux : attention aux chutes.",
+            "Vélos autorisés à l'intérieur du village : ranges-vélos disponibles aux abords des principaux bâtiments.",
+            "Aire de pique-nique et jeux pour enfants dans l'espace arboré de la « Plantation ».",
+            "Location pour hébergement touristique et activité événementielle à l'intérieur du village fortifié.",
+            "Chiens tenus en laisse acceptés.",
+            "Tenues correctes (torse nu, pieds nus et maillot de bain interdits)",
+            "Poussettes autorisées",
+            "En période de forte chaleur pensez à venir avec une gourde d'eau (des fontaines sont présentes dans le village) et un chapeau.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Château et remparts de la Cité de Carcassonne",
+        "url": "https://www.remparts-carcassonne.fr/",
+        "short_description": "En pays audois, au cœur de la cité de Carcassonne, découvrez le château et ses remparts inscrits au patrimoine mondial de l'humanité de l'Unesco.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er avril au 30 septembre\n10h - 18h30\nDernier accès : 17h30\n Du 1er octobre au 31 mars\n9h30 - 17h\nDernier accès : 16h \nFermeture les 1er janvier, 1er mai et 25 décembre\nDernier accès au monument, 1 heure avant la fermeture.\n\nLe monument est gratuit lors des Journées Européennes du patrimoine (le 3ème weekend de septembre) et le 1er dimanche du mois (du 1er janvier au 31 mars et du 1er novembre au 31 décembre).",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)",
+            "Pass Culture"
+        ],
+        "address": "1, rue Viollet-le-Duc, 11000 Carcassonne",
+        "visiting_services": [
+            "Visite autonome",
+            "Visite découverte",
+            "Visite privilège",
+            "Visite conférence",
+            "Interdit aux animaux (sauf chiens guide et chiens d'assistance)",
+            "Interdiction de toucher les œuvres exposées dans le château",
+            "Photos autorisées sans flash dans le château",
+            "Parking à poussettes",
+            "Valises non autorisées",
+            "Toilettes",
+            "Librairie-boutique"
+        ],
+        "ticket_price_raw": "Tarif : 13 €"
+    },
+    {
+        "name": "Château de Vincennes",
+        "url": "https://www.chateau-de-vincennes.fr/",
+        "short_description": "Aux portes de Paris, visitez le château de Vincennes, témoin de l'architecture médiévale.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 21 mai au 21 septembre\n10h - 18h\nDu 22 septembre au 20 mai\n10h - 17h\nÀ noter : Le dernier accès se fait 45 minutes avant la fermeture du monument. \nFermeture du monument\nFermeture totale du monument les 1er janvier, 1er mai, 25 décembre. \nFermeture temporaire de la Sainte-Chapelle : La Sainte-Chapelle ferme tous les jours temporairement à la pause méridienne entre 12h et 14h ou 13h et 14h. Il est fortement recommandé de consulter nos horaires d'ouverture sur la page d'accueil.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Tour des salves, Cour des Maréchaux, 75012 Paris",
+        "visiting_services": [
+            "Les enfants de moins de 16 ans doivent être accompagnés d'un adulte.",
+            "Librairie-boutique.",
+            "Toilettes dans la cour du donjon et au fond de la boutique (accessibles uniquement avec le billet du monument).",
+            "Interdit aux chiens à l'exception des chiens guides et d'assistance.",
+            "Les poussettes ne sont pas autorisées dans l’enceinte des monuments (possibilité de les laisser à l’extérieur).",
+            "Bagages autorisés : 30 cm x 40 cm x 15 cm. Le monument étant un site militaire, il n'y a pas de consigne.",
+            "Interdiction de manger et boire (pique-niques interdits).",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Des canne sièges sont disponibles sur demande à la billetterie-boutique, à l'entrée de la Sainte-Chapelle et du Donjon."
+        ],
+        "ticket_price_raw": "Tarif : 13 €"
+    },
+    {
+        "name": "Tour Pey-Berland",
+        "url": "https://www.pey-berland.fr/",
+        "short_description": "Profitez d'une vue panoramique sur Bordeaux depuis un fleuron du gothique flamboyant.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 26 mai au 28 septembre 2025\n10h - 18h\nOuvert tous les jours\nDu 29 septembre 2025 à la fin mai 2026\n10h - 12h30 et 14h - 17h30\nOuvert tous les jours\nJauge limitée, accès exclusivement avec e-billets horodatés à réserver à l'avance.\nPour les visites les 1ers dimanches du mois gratuits (de novembre à mars), et pour les Journées Européennes du Patrimoine (3ème weekend de Septembre), retirez vos places pour votre créneau horaire en caisse dès le samedi.\nFermetures annuelles : 1er janvier, 1er mai et 25 décembre",
+        "payment_methods": [
+            "Espèces",
+            "Carte bancaire (sauf American express)",
+            "Chèque",
+            "Chèque-vacances (ANCV)",
+            "Chèque Culture (sur les produits en boutique)"
+        ],
+        "address": "Place Pey-Berland, 33000 Bordeaux",
+        "visiting_services": [
+            "L'accès au sommet de la tour nécessite un bon état de santé.",
+            "2 terrasses d'observation (40m et 50m).",
+            "Panorama sur toute la ville.",
+            "Escalier en vis de 231 marches.",
+            "Document de visite gratuit (disponible en chinois, néerlandais, anglais, espagnol, français, allemand, italien, japonais et russe).",
+            "Librairie-boutique.",
+            "Toilettes publiques sur la place Pey-Berland (proche kiosque à journaux), accessibles aux personnes à mobilité réduite."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Hôtel de Sully",
+        "url": "https://www.hotel-de-sully.fr/",
+        "short_description": "Au cœur du quartier du Marais, à Paris, découvrez la cour et le jardin de l'Hôtel de Béthune-Sully, sans oublier sa librairie !",
+        "ticket_price": 0.0,
+        "ticket_price_conditions": "La cour et le jardin sont en libre accès.",
+        "opening_hours": "Cour et jardin de l'Hôtel de Sully\nTous les jours\n9h - 19h\nLibrairie de l'Hôtel de Sully\n13h - 19h\nFermée le lundi\nFermeture de l'Hôtel de Sully les 1er janvier, 1er mai, 1er et 11 novembre, et 25 décembre",
+        "payment_methods": [],
+        "address": "62 rue Saint-Antoine, 75004 Paris",
+        "visiting_services": [
+            "L'Hôtel de Sully est le siège du Centre des monuments nationaux. Les intérieurs sont fermés au public sauf dans le cadre de visites exceptionnelles.",
+            "Il est possible de traverser la cour et le jardin tous les jours pour accéder à la place des Vosges."
+        ],
+        "ticket_price_raw": "Tarif : gratuit"
+    },
+    {
+        "name": "Hôtel de Sade",
+        "url": "https://www.hotel-de-sade.fr/",
+        "short_description": "Au cœur de Saint-Rémy-de-Provence, découvrez l'hôtel particulier de la famille de Sade !",
+        "ticket_price": 5.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans.",
+        "opening_hours": "De juin à septembre \nOuvert tous les jours, sauf le lundi \n9h30 - 13h et 14h - 18h\n À noter : dernier accès au monument 30 minutes avant la fermeture.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "1, rue du Parage, 13210 Saint-Rémy-de-Provence",
+        "visiting_services": [
+            "Chiens interdits, sauf guides et d'assistance",
+            "Grands sacs à dos et valises à roulettes interdites",
+            "Pas de vestiaires, ni consignes",
+            "Interdiction de monter sur les vestiges archéologiques",
+            "Interdiction de pique-niquer dans le monument",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Tenue correcte exigée"
+        ],
+        "ticket_price_raw": "Tarif : 5 €"
+    },
+    {
+        "name": "Chapelle des moines de Berzé-la-Ville",
+        "url": "https://www.chapelle-des-moines.fr/",
+        "short_description": "Visitez la chapelle romane d’un prieuré clunisien aux fresques exceptionnelles.",
+        "ticket_price": 5.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Sous réserve de modifications indépendantes de notre volonté – merci de vérifier au 03 85 59 15 93.\nAvril \nOuvert les samedis et dimanches \n9h45 - 12h15 et 14h15 - 17h30\nDe mai à août\nFermeture exceptionnelle le dimanches 4 mai (journée)\nOuvert les jeudis, vendredis, samedis et dimanches \n9h15 - 12h15 et 14h15 - 18h\nSeptembre\nOuvert les jeudis, vendredis, samedis et dimanches \n9h45 - 12h15 et 14h15 - 17h30\nOctobre \nOuvert les samedis et dimanches\n9h15 - 12h15 et 14h15 - 17h\nDe novembre à mars \nFermé",
+        "payment_methods": [],
+        "address": "71960 Berzé-la-Ville, 03 85 36 66 52",
+        "visiting_services": [
+            "Librairie-boutique",
+            "Chiens d'assistance tenus en laisse autorisés",
+            "Poussettes autorisées",
+            "Photos autorisées sans flash",
+            "Aucune consigne à bagages n'est proposée dans l'enceinte des monuments",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 5 €"
+    },
+    {
+        "name": "Château de Bussy-Rabutin",
+        "url": "https://www.chateau-bussy-rabutin.fr/",
+        "short_description": "Partez à la rencontre d’un des plus flamboyants courtisans du grand Louis XIV, le comte Roger de Bussy-Rabutin, et de sa demeure à la décoration digne d’une bande-dessinée grandeur nature !",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 15 mai au 14 septembre\n9h15 - 13h et 14h - 18h\nDu 15 septembre au 14 mai\n9h15 - 12h et 14h - 17h\nAttention :\nDernier accès au monument, une heure avant la fermeture.\nFermeture les 1er janvier, 1er mai, le 1er novembre, le 11 novembre et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "rue du château, 21150 Bussy-le-Grand",
+        "visiting_services": [],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Château de Bouges",
+        "url": "https://www.chateau-bouges.fr/",
+        "short_description": "Goûtez au charme du château de Bouges et à son atmosphère du XVIIIe siècle.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Château\nVisite uniquement commentée\nDu 1er au 31 mars \n11h ; 15h ; 16h\nUniquement les samedis et dimanches\nDu 1er avril au 30 juin \n11h ; 15h15 ; 16h30 \nFermé les mardis\nDu 1er juillet au 31 août\n11h ; 12h ; 14h15 ; 15h15 ; 16h15 ; 17h15 \nOuvert tous les jours\nDu 1er septembre au 31 octobre \n11h ; 15h15 ; 16h30\nFermé les mardis\nNovembre \n11h ; 15h ; 16h\nUniquement les samedis et dimanches, 1er et 11 novembre\n Parc, jardins et communs (écuries, selleries, voitures hippomobiles)\nVisite avec document mis à votre disposition à l'accueil\nDu 1er au 31 mars \n10h - 12h et 14h - 17h\nOuvert uniquement les samedis et dimanches\nDu 1er avril au 30 juin \n10h - 12h et 14h - 18h \nFermé les mardis\nDu 1er juillet au 31 août \n10h à 18h45 avec possibilité de pique-niquer dans le parc\nOuvert tous les jours\nDu 1er septembre au 31 octobre\n10h - 12h et 14h - 18h\nFermé les mardis\nNovembre \n10h - 12h et 14h - 17h\nOuvert uniquement les samedis et dimanches, 1er et 11 novembre\n\nÀ noter : dernier accès 45 min avant la fermeture.\nFermé de décembre (sauf si évènements) à février et le 1er mai.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "15 rue du château, 36110 Bouges-le-Château",
+        "visiting_services": [
+            "Boutique",
+            "Chiens autorisés uniquement tenus en laisse dans le parc",
+            "Poussettes autorisées dans le parc, non autorisées dans le château",
+            "Parc et jardin fermés en cas d’alerte météo",
+            "Photos autorisées dans le château sans flash",
+            "Ne pas toucher aux œuvres",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument\nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Colonne de Juillet",
+        "url": "https://www.colonne-de-juillet.fr/",
+        "short_description": "Découvrez un monument commémorant la défense des libertés publiques par les citoyens.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Tarif réduit : 6 €",
+        "opening_hours": "Monument accessible en visite commentée uniquement\nLes samedis et dimanches à 14h30 et 16h30 \nSur réservation préalable\nRéouverture à partir du samedi 19 juillet",
+        "payment_methods": [],
+        "address": "Place de la Bastille, 75011 Paris",
+        "visiting_services": [
+            "Visite commentée d'1h30 en français avec un guide-conférencier (pas de visite libre)",
+            "18 participants par visite",
+            "Accueil et début de la visite dans la cour de l’Hôtel de Sully (62 rue St Antoine - 75004 Paris) 10 minutes avant le début de la visite",
+            "Seule la nécropole de la colonne de Juillet sera accessible pendant cette visite (pas d'accès aux parties hautes du monument)"
+        ],
+        "ticket_price_raw": "Tarif : 13 €"
+    },
+    {
+        "name": "Conciergerie",
+        "url": "https://www.paris-conciergerie.fr/",
+        "short_description": "Découvrez ce palais médiéval royal devenu tribunal révolutionnaire et prison de Marie-Antoinette.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er janvier au 31 décembre\n9h30 - 18h\nDernier accès au monument à 17h30\nFermeture les 1er mai et 25 décembre\nLes tablettes Histopad sont délivrées jusqu'à 16h15.",
+        "payment_methods": [],
+        "address": "2, boulevard du Palais, 75 001 Paris",
+        "visiting_services": [
+            "Casques de moto",
+            "Aérosols",
+            "Couteaux et objets tranchants",
+            "Ciseaux",
+            "Bouteilles en verre",
+            "Bagages/sacs volumineux",
+            "Trottinettes, planches à roulettes et rollers"
+        ],
+        "ticket_price_raw": "Tarif : 13 €"
+    },
+    {
+        "name": "Cathédrale Notre-Dame d'Amiens",
+        "url": "https://www.cathedrale-amiens.fr/",
+        "short_description": "Visitez la cathédrale d'Amiens, l'un des plus beaux exemples d'art sacré gothique.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er octobre au 31 mars\n Circuit des tours  14h, 15h, 16h\nFermé le mardi et lors des cérémonies religieuses\n Visite du trésor  11h\nFermé le mardi, le dimanche et lors des cérémonies religieuses\n Boutique ouverte de 10h à 17h30, 7j/7\n Du 1er avril au 30 septembre\nCircuit des tours  14h, 14h45, 15h30, 16h15, 17h\nFermé le mardi et lors des cérémonies religieuses\nVisite du trésor  \n11h, tous les jours sauf le mardi et le dimanche\n14h, tous les jours sauf le mardi\nFermé le mardi et lors des cérémonies religieuses\nBoutique ouverte de 10h à 18h30, 7j/7\nÀ noter :\nPour des raisons de sécurité, les conditions climatiques peuvent entraîner la fermeture momentanée du circuit des tours.\n\nFermeture exceptionnelle les 1er janvier, 1er mai, 25 décembre et le dernier dimanche de septembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV) (uniquement pour les droits d'entrée)",
+            "chèque Lire (uniquement en boutique)",
+            "Pass culture (réservation de groupes)"
+        ],
+        "address": "30, place Notre-Dame, 80000 Amiens",
+        "visiting_services": [
+            "Les conditions climatiques peuvent entraîner pour des raisons de sécurité la fermeture momentanée du circuit des tours",
+            "L'accès aux tours est interdit aux enfants de moins de 6 ans et aux animaux",
+            "Le circuit des tours est fortement déconseillé aux personnes souffrant de problèmes cardiaques et aux femmes enceintes (302 marches)",
+            "Prévoir obligatoirement des chaussures adaptées : les 302 marches à monter ont plus de 800 ans (l'équipe du monument se réserve la possibilité de refuser l'entrée aux visiteurs dont les chaussures ne sont pas adaptées)",
+            "Photos et vidéos interdites dans la salle du trésor"
+        ],
+        "ticket_price_raw": "Tarif : 7 € / 5 €"
+    },
+    {
+        "name": "Château d'Azay-le-Rideau",
+        "url": "https://www.azay-le-rideau.fr/",
+        "short_description": "En Touraine, visitez un joyau de la Renaissance française édifié sous le patronage de François Ier.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er octobre au 31 mars\n10h - 17h15\nDu 1er avril au 30 juin\n9h30 - 18h\nDu 1er juillet au 31 août\n9h30 - 19h\nDu 1er au 30 septembre\n9h30 - 18h\n ATTENTION : dernier accès au monument, une heure avant la fermeture.\nFermeture les 1er janvier, 1er mai et 25 décembre.\nFermeture exceptionnelle à 16h15 les 24 et 31 décembre (dernier passage en caisse à 15h15).\n\nFermeture exceptionnelle à 22h30 le 13 décembre 2025 dans le cadre de la nocturne proposée à l'occasion de l'événement Noël au pays des châteaux. Réservation obligatoire",
+        "payment_methods": [],
+        "address": "19, rue Balzac, 37190 Azay-le-Rideau",
+        "visiting_services": [
+            "Chiens autorisés tenus en laisse dans le parc et en sac de transport dans le château.",
+            "Poussettes autorisées dans le parc, non autorisées dans le château.",
+            "Equipements bébé disponibles (table à langer, chauffe-biberon ...)",
+            "Photos autorisées dans le château sans flash.",
+            "Restaurant/salon de thé \"Le Lavoir\" ouvert de Pâques à fin septembre.",
+            "Pique-niques non autorisés dans l'enceinte du monument.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 13 €"
+    },
+    {
+        "name": "Château de Maisons",
+        "url": "https://www.chateau-maisons.fr/",
+        "short_description": "Entre Paris et Versailles, visitez le château de Maisons, chef-d’œuvre architectural du Grand Siècle.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 16 mai au 15 septembre\n10h - 18h\nDu 14 novembre au 2 mars 2026 inclus \n10h - 18h\nDu 4 mars au 15 mai 2026\n10h-12h30 et 14h-17h\n À noter : Le monument est fermé le mardi toute l'année. \nDernier accès au monument 30 minutes avant la fermeture.\nFermetures annuelles les 1er janvier, 1er mai et 25 décembre.\nPremier dimanche du mois de décembre 2025 à mars 2026 - Gratuite",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "2, avenue Carnot, 78600 Maisons-Laffitte",
+        "visiting_services": [
+            "Les animaux de compagnie ne sont pas autorisés, sauf les chiens accompagnateurs",
+            "Les poussettes ne sont pas autorisées dans le monument",
+            "En application des consignes Vigipirate, tout accès au site est précédé d’une fouille visuelle des sacs",
+            "L’accès au site n’est pas autorisé avec des valises ou gros sacs et le monument ne prend aucun bagage en consigne",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Poubelles pour déchets sanitaires",
+            "Toilettes",
+            "Librairie-boutique"
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Abbaye de Montmajour",
+        "url": "https://www.abbaye-montmajour.fr/",
+        "short_description": "Au cœur du pays d'Arles, visitez l'abbaye de Montmajour, fondée en 948 par des moines bénédictins.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er avril au 31 mai\n10h - 17h\nDernier accès une heure avant la fermeture du monument\nDu 1er juin au 30 septembre\n10h - 18h15\nDernier accès au monument à 17h\nDu 1er octobre au 31 mars\n10h - 17h \nFermée le lundi\nDernier accès au monument une heure avant la fermeture\nFermeture les 1er janvier, 1er mai, 11 novembre et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "route de Fontvieille, 13200 Arles",
+        "visiting_services": [
+            "Tenues correctes (torse nu, pieds nus et maillot de bain interdits)",
+            "Poussettes autorisées",
+            "Chiens non autorisés (sauf chiens d'assistance)",
+            "Trépied pour photos et drone interdits",
+            "En cas d'orage, pluie ou vent violent, fortes chaleurs les espaces extérieurs (nécropole, tour, terrasse) sont susceptibles d'être fermés.",
+            "Sol accidenté",
+            "Nombreuses marches : 125 marches pour accéder à la tour, 40 marches pour accéder à l'ermitage Saint Pierre.",
+            "L'abbaye ne dispose pas de consignes, les sacs à dos et valises sont interdits dans l'enceinte du monument.",
+            "Les couteaux et aérosols sont interdits.",
+            "En période de forte chaleur pensez à venir avec une bouteille d'eau (un point d'eau est disponible sur le parcours de visite) et un chapeau.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Abbaye du Thoronet",
+        "url": "https://www.le-thoronet.fr/",
+        "short_description": "Visitez le Thoronet, l'une des plus remarquables abbayes issues de l'ordre de Cîteaux.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "L'abbaye sera exceptionnellement fermée au public le 16 janvier 2026, merci de votre compréhension.\nDu 1er avril au 30 septembre\n10h - 18h30\nDu 1er octobre au 31 mars\n10h - 13h et 14h - 17h\nDernier accès au monument, 45 minutes avant la fermeture.\nÀ noter : Fermeture anticipée les 24 et 31 décembre à 16h.\nFermeture les 1er janvier, 1er mai, 1er novembre, 11 novembre et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "RD 79, 83340 Le Thoronet",
+        "visiting_services": [
+            "Les chiens ne sont pas autorisés à entrer (y compris dans des sacs spécifiques). Seuls les chiens guides d'aveugle ou de thérapie sont acceptés (sur présentation d'une attestation).",
+            "Service de restauration rapide au kiosque de l’abbaye (parking)",
+            "Parking non surveillé",
+            "Aire de pique-nique à côté du parking visiteurs",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. \nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Panthéon",
+        "url": "https://www.paris-pantheon.fr/",
+        "short_description": "Sur la montagne Sainte-Geneviève à Paris, visitez le Panthéon, chef-d'œuvre de l'architecte Soufflot.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er avril au 30 septembre\n10h - 18h30\nDu 1er octobre au 31 mars\n10h - 18h\nÀ noter : dernier accès au monument 45min avant la fermeture.\nOuvert tous les jours de la semaine (voir onglet fermetures)",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture (UP uniquement) - format papier uniquement (pas de dématérialisé)",
+            "chèque-vacances (ANCV) - format papier uniquement (pas de dématérialisé)",
+            "chèque Lire (UP uniquement en boutique)"
+        ],
+        "address": "Place du Panthéon, 75005 Paris",
+        "visiting_services": [
+            "Le monument ne dispose pas de consigne à bagage, ni de vestiaire. Seuls les sacs à dos standards sont acceptés.",
+            "Les casques ne sont pas autorisés.",
+            "Les batteries ne sont pas autorisées (trottinettes, etc.)",
+            "Accès rampe PMR extérieure, et élévateur intérieur donnant accès à l''intégralité de la nef.",
+            "Poussettes autorisées.",
+            "Trottinettes, rollers, skateboards interdits.",
+            "Nourritures et boissons interdites.",
+            "Chiens non autorisés dans l'enceinte des grilles du Panthéon à l'exception des chiens guides et chiens d'assistances.",
+            "Photographies personnelles autorisées (usage non-commercial uniquement), trépieds interdits.",
+            "Drones interdits.",
+            "Les photographies à but professionnels (LinkedIn etc...), photographies de classes, photographies de mariages et d'évènements sont interdites à l'intérieur du monument et une autorisation est nécessaire pour les extérieurs du Panthéon.",
+            "Tournages sur autorisation uniquement."
+        ],
+        "ticket_price_raw": "Tarif : 13 €"
+    },
+    {
+        "name": "Château de Châteaudun",
+        "url": "https://www.chateau-chateaudun.fr/",
+        "short_description": "Visitez la résidence d'un fidèle compagnon d'armes de Jeanne d'Arc et flânez dans les jardins suspendus, uniques en région Centre !",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Fermeture exceptionnelle le jeudi 29 janvier 2026.\n Du 5 septembre au 30 avril\n10h - 12h30 et 14h - 17h30\nDu 2 mai au 4 septembre\n10h - 13h et 14h - 18h\nÀ noter : dernier accès au monument, une heure avant la fermeture.\nFermeture les 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Place Jehan de Dunois, 28200 Châteaudun",
+        "visiting_services": [
+            "Interdit aux chiens sauf aux chiens de guide et d’assistance.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Librairie-boutique qui propose un large éventail de livres et d’objets pour les grands et les petits.",
+            "Accès possible uniquement à certaines salles du rez-de-chaussée pour les PMR en fauteuil manuel.",
+            "Toilettes et toilettes PMR.",
+            "Parking et parking PMR."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Villa Savoye",
+        "url": "https://www.villa-savoye.fr/",
+        "short_description": "Près de Paris, visitez la villa Savoye à Poissy, manifeste moderniste signé Le Corbusier.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 2 mai au 31 août \n10h - 18h \nFermé le lundi\nDu 1er septembre au 30 avril \n10h - 17h \nFermé le lundi \nÀ noter : dernier accès 30 minutes avant la fermeture \n\nFermé les 1er mai, 25 décembre et 1er janvier \nPremier dimanche du mois - gratuit de novembre 2026 jusqu'à mars 2026.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "82, rue de Villiers, 78300 Poissy",
+        "visiting_services": [
+            "Les animaux de compagnie ne sont pas autorisés, sauf les chiens accompagnateurs.",
+            "Les poussettes ne sont pas autorisées dans le monument.",
+            "En application des consignes Vigipirate, tout accès au site est précédé d’une fouille visuelle des sacs.",
+            "L’accès au site n’est pas autorisé avec des valises ou gros sacs et le monument ne prend aucun bagage en consigne.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Distributeurs à pédale de gel hydroalcoolique",
+            "Poubelles pour déchets sanitaires",
+            "Toilettes",
+            "Librairie-boutique"
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Château de Fougères-sur-Bièvre",
+        "url": "https://www.fougeres-sur-bievre.fr/",
+        "short_description": "Découvrez l’image du château fort idéal avec son donjon et sa courtine d’entrée à mâchicoulis.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans.",
+        "opening_hours": "Fermeture exceptionnelle le jeudi 8 janvier 2026.\n Du 5 septembre au 30 avril \n10h – 12h30 et 14h – 17h \nFermé le mardi\nDu 2 mai au 4 septembre\n9h30 – 12h30 et 14h – 18h \nFermeture les 1er janvier, 1er mai et 25 décembre.\nDernier accès 60 mn avant la fermeture.\nFermeture exceptionnelle à 16h les 25 décembre et 1er janvier.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Le Controis-en-Sologne",
+        "visiting_services": [
+            "Librairie-boutique qui propose un large éventail de livres et d’objets pour les petits et les grands",
+            "Toilettes",
+            "Parking",
+            "Parking PMR",
+            "Parking à vélos",
+            "Aire de pique-nique en libre accès à l'extérieur du monument",
+            "Interdit aux animaux  sauf chiens guide d’assistance",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Poussettes déconseillées, privilégier le porte bébé"
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Château de Puyguilhem",
+        "url": "https://www.chateau-puyguilhem.fr/",
+        "short_description": "À 34 kilomètres de Périgueux, découvrez l'élégante silhouette Renaissance du château de Puyguilhem.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er au 30 avril\n10h - 12h30 et 14h - 17h30\nFermé le lundi\nDu 2 mai au 31 août\n10h - 12h30 et 14h - 18h30 \nDu 1er au 30 septembre\n10h - 12h30 et 14h - 17h30\nFermé le lundi\nDu 1er octobre au 31 mars\n10h - 12h30 et 14h - 17h30\nFermé le lundi et le mardi\nAttention : dernier accès au monument une heure avant la fermeture.\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre, 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "891 rue Mondot de la Marthonie, 24530 VILLARS",
+        "visiting_services": [
+            "Visite du parc libre.",
+            "Chiens acceptés à l'extérieur et tenus en laisse.",
+            "Poussettes non acceptées au 1er étage des logis Renaissance.",
+            "Dans la cadre d'une animation programmée à heure fixe, veillez à vous présenter en billetterie au moins 15 minutes avant le début de l'animation.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Château d'If",
+        "url": "https://www.chateau-if.fr/",
+        "short_description": "Au large de Marseille, découvrez le château d'If et son panorama unique.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er avril au 30 septembre\n10h - 18h\nDu 1er octobre au 31 mars\n10h - 17h\nFermé les lundis\nAttention : en cas d'intempéries, le château d'If n'est pas ouvert. \nFermeture les 1er janvier, 1er mai et 25 décembre.\nMardi 9 décembre, le château d'If sera exceptionnellement fermé de 13h à 15h15.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires (vivement conseillé)",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "île d'If, 13007 Marseille",
+        "visiting_services": [
+            "Il est interdit de boire de l'alcool, de jeter des pierres sur les goélands et de jeter des pierres des remparts et des terrasses.",
+            "Baignade interdite",
+            "Les couteaux et aérosols sont interdits",
+            "Il n'y a pas de consignes sur l'île. Les valises et gros sacs à dos sont interdits.",
+            "L'île d'if est situé au cœur du parc national des calanques, il est interdit de se débarrasser de vos déchets sur l'île. Merci de rapporter vos déchets.",
+            "Seul les chiens d'assistance sont autorisés dans le monument.",
+            "En période de fortes chaleurs, pensez à prendre de l'eau (un point d'eau est disponible sur le site) et un chapeau.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Terrain assez accidenté. Sol pouvant être glissant : prévoir des chaussures adéquates",
+            "Être vigilant quant à la chaleur en saison estivale",
+            "Nombreuses marches",
+            "Aires de repos",
+            "Toilettes",
+            "Le site est non accessible aux PMR",
+            "Les poussettes ne sont pas autorisées dans l'enceinte du château."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Tours de La Rochelle",
+        "url": "https://www.tours-la-rochelle.fr/",
+        "short_description": "Visitez les trois tours de La Rochelle, vestiges des fortifications maritimes médiévales.",
+        "ticket_price": 9.5,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er octobre au 31 mars\n10h - 12h45 et 14h - 17h30 \nDu 1er avril au 30 juin\n10h - 12h45 et 14h - 18h30 \nDu 1er juillet au 31 août\n10h - 18h30\nDu 1er au 30 septembre\n10h - 12h45 et 14h - 18h30\n La tour Saint-Nicolas est fermée jusqu'à nouvel ordre. Les tours de la Chaîne et de la Lanterne restent ouvertes.\nLes tours de La Rochelle sont fermées exceptionnellement le 6 janvier 2026 toute la journée puis du 19 au 23 janvier 2026 inclus. \nAttention : dernier accès au monument 45 minutes avant la fermeture.\nFermeture les 1er janvier, 1er mai et 25 décembre",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)"
+        ],
+        "address": "Tour de la Chaîne - tour de la Lanterne - tour Saint-Nicolas, Vieux port, Place de la Chaîne, 17000 La Rochelle, , Tél : 05 46 34 11 81, tours.larochelle@monuments-nationaux.fr",
+        "visiting_services": [
+            "Le parcours comprend de nombreuses marches.",
+            "Le monument ne dispose pas de toilettes.",
+            "Les valises et les gros sacs de randonnée sont interdits.",
+            "Les poussettes ne sont pas acceptées dans le circuit de visite mais vous pourrez les déposer dans un endroit sécurisé à l'accueil.",
+            "Les animaux ne sont pas autorisés, même dans un sac de transport.",
+            "Il est interdit de manger dans le monument.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Le monument n’est pas accessible aux mineurs non accompagnés par un responsable majeur.",
+            "Pour les groupes, une réservation à l'avance est nécessaire pour accéder au monument : consultez la page dédiée aux groupes."
+        ],
+        "ticket_price_raw": "Tarif : 9,50 €"
+    },
+    {
+        "name": "Château de Montal",
+        "url": "https://www.chateau-montal.fr/",
+        "short_description": "À 26 kilomètres de Rocamadour, visitez un joyau de la Renaissance française au décor sculpté unique.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 2 mai au 31 août\n10h - 12h30 et 14h - 18h30\nDu 1er septembre au 30 avril\n10h - 12h30 et 14h - 17h30\nFermé le mardi\nAttention : dernier accès au monument 1 heure avant la fermeture.\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre, 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "307 allée Jeanne de Balzac, 46400, Saint-Jean Lespinasse",
+        "visiting_services": [
+            "Chiens non autorisés",
+            "Poussettes non autorisées au premier étage",
+            "Photos autorisées dans le château sans flash",
+            "Dans la cadre d'une animation programmée à heure fixe, veillez à vous présenter en billetterie au moins 15 minutes avant le début de l'animation",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Château de Pierrefonds",
+        "url": "https://www.chateau-pierrefonds.fr/",
+        "short_description": "Découvrez le château de Pierrefonds, réinventé au XIXe siècle par l'architecte Viollet-le-Duc.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 5 septembre au 30 avril\n10h - 17h30\nDu 2 mai au 4 septembre\n9h30 - 18h\nAttention : dernier accès au monument, une heure avant la fermeture.\nFermeture du parc 45 min avant la fermeture du monument.\nFermeture les 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV) uniquement en billetterie",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Rue Viollet-le-Duc, 60350 Pierrefonds",
+        "visiting_services": [
+            "Chiens non autorisés dans le château et tenus en laisse dans le parc",
+            "Poussettes autorisées dans le parc, non autorisées dans le château",
+            "Parking poussettes dans la cour d'honneur",
+            "Photos autorisées dans le château sans flash et sans pied d’appareil photo",
+            "Des sièges-cannes sont à votre disposition en début de visite.",
+            "Des consignes sont à votre disposition à l'accueil du monument.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Villa Cavrois",
+        "url": "https://www.villa-cavrois.fr/",
+        "short_description": "Près de Lille, découvrez la villa Cavrois, monument emblématique de Robert Mallet-Stevens !",
+        "ticket_price": 11.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans (hors groupes scolaires)",
+        "opening_hours": "Du 2 janvier au 31 décembre \n10h - 18h\nFermé le lundi\n\nDernier accès au monument 45 min avant la fermeture\nÉvacuation 15 min avant la fermeture\nFermetures annuelles\nLes 1er janvier, 1er mai et 25 décembre",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV) (uniquement pour les droits d'entrée)",
+            "chèque Lire (uniquement en boutique)",
+            "mandat administratif & Pass culture (réservation de groupes)"
+        ],
+        "address": "60 avenue John Fitzgerald Kennedy, 59170 Croix",
+        "visiting_services": [
+            "Photos autorisées sans flash dans la villa",
+            "Interdiction d'utiliser un trépied ou tout matériel professionnel volumineux sans avoir fait une demande auprès du monument",
+            "Chiens interdits dans le parc et la villa, seuls les chiens-guides sont acceptés",
+            "Poussettes interdites au sein de la villa, elles devront être laissées devant l'entrée principale, sous le auvent à l'intérieur du parc.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 11 €"
+    },
+    {
+        "name": "Cité internationale de la langue française - château de Villers-Cotterêts",
+        "url": "https://www.cite-langue-francaise.fr/",
+        "short_description": "Découvrez un lieu culturel et de vie entièrement dédié à la langue française et aux cultures francophones, au cœur du château de Villers-Cotterêts dans l'Aisne.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Accès au parcours permanent \nDu mardi au dimanche\n10h - 18h30 \nDernier accès à la Cité, une heure avant la fermeture.\nÀ noter : nous conseillons au moins 2h de visite pour découvrir les 1200m² du parcours permanent et sa soixantaine de dispositifs. N'hésitez pas à prévoir votre heure d'arrivée en conséquence pour une visite sereine.\nFermeture le lundi et les 1er janvier, 1er mai et 25 décembre. Fermeture à 17h30 les 24 et 31 décembre (dernier accès à 16h30).\nAccès à la cour des Offices : dès 8h30 du 2 septembre 2025 au 3 juillet 2026, à partir de 9h30 durant les vacances d'été.\nCafé Chez Alexandre\nDu mardi au dimanche\n10h - 18h\nLibrairie L'Arbre à palabres\nDu mardi au dimanche\n10h - 18h45",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "1, place Aristide Briand, 02600 Villers-Cotterêts",
+        "visiting_services": [
+            "Vestiaires en libre-service à votre disposition pour y déposer vos affaires personnelles, à l'exception des bagages volumineux (de dimensions supérieures à 55cm x 35cm x 20cm)",
+            "Mise à disposition de fauteuils roulants sur demande auprès des agents de billetterie",
+            "Poussettes et porte-bébés ventraux autorisés dans la Cité",
+            "Espace à langer à votre disposition au rez-de-chaussée",
+            "Photos autorisées sans flash",
+            "Pique-nique autorisé, sous réserve de repartir avec ses déchets",
+            "Interdiction de fumer sur l’ensemble du site"
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Maison et jardins de Georges Clemenceau",
+        "url": "https://www.maison-de-clemenceau.fr/",
+        "short_description": "Découvrez la villégiature où Georges Clemenceau se ressourça pendant les dix dernières années de sa vie.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 15 mai au 15 septembre\n10h - 12h30 et 14h - 18h30\nDu 16 septembre au 14 mai\n10h - 12h30 et 14h - 17h30\nAttention : dernier accès au monument 45 minutes avant la fermeture.\nFermetures\nFermeture les 1er janvier, 1er mai, 1er novembre et 25 décembre.\nLe monument est fermé tous les lundis.\nFermetures exceptionnelles mercredi 17 décembre 2025 toute la journée, jeudi 18 décembre matin, mardi 6 janvier 2026 toute la journée.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)"
+        ],
+        "address": "76 rue Georges Clemenceau, 85520 Saint-Vincent-sur-Jard, Tél : 02 51 33 40 32, maison.clemenceau@monuments-nationaux.fr",
+        "visiting_services": [
+            "Possibilité de repos au cours de la visite.",
+            "Des sièges pliants et sièges cannes sont disponibles sur demande à l'accueil.",
+            "Le sac FACIL : le kit qui s'adapte à vous ! Le nouveau dispositif d'accessibilité de la maison et jardins de Georges Clemenceau. Ce sac qui contient des objets apaisants sont mis à votre disposition pour la visite du monument. Gratuit et sur demande. Il doit être rendu après votre visite à l'accueil. Dans ce sac, tout est pensé pour vous offrir une visite plus confortable et adaptée à vos besoins : lunettes de soleil pour adoucir la lumière, casque anti-bruit pour se couper des sons trop présents, balle anti-stress pour relâcher la pression. Que vous soyez hypersensible, un peu anxieux, fatigué ou que vous ayez simplement envie de visiter à votre rythme, ce kit est là pour vous accompagner. Ainsi le sac FACIL, Facilite, Accompagne, Calme, Implique, et Libère. Venez visiter le monument en toute sérénité !",
+            "Boucle à induction magnétique à la billetterie et en boutique.",
+            "Plan signalétique tactile.",
+            "Boîte à odeur dans le parcours de visite dans la salle d'exposition.",
+            "Parcours sonore (pour le confort des visiteurs, nous vous conseillons d’apporter vos écouteurs ou votre casque audio. Quelques casques audio sont disponibles à l’accueil sur remise d’une pièce d’identité).",
+            "Librairie boutique.",
+            "Wi-Fi.",
+            "Les valises et les gros sacs de randonnées sont interdits. Les petits sacs (dimensions inférieures au format cabine) sont autorisés.",
+            "Les animaux ne sont pas autorisés, même dans un sac de transport, à l’exception des chiens guides pour les personnes non voyantes ou d’assistance.",
+            "Il est interdit de manger dans le monument.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Les couteaux sont interdits.",
+            "Les trottinettes sont interdites.",
+            "Le monument n’est pas accessible aux mineurs non accompagnés par un responsable majeur.",
+            "Pour les groupes, une réservation à l'avance est nécessaire pour accéder au monument : consultez les onglets dédiés aux groupes."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Château de Castelnau-Bretenoux",
+        "url": "https://www.castelnau-bretenoux.fr/",
+        "short_description": "À 25 kilomètres de Rocamadour, visitez le château fort des barons de Castelnau.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 2 mai au 30 juin\n10h - 12h30 et 14h - 18h30\nDu 1er juillet au 31 août\n10h - 18h30\nDu 1er septembre au 30 avril\n10h - 12h30 et 14h - 17h30\nFermé le mardi\nAttention : dernier accès au monument une heure avant la fermeture.\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre, 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "1 place Jean Mouliérat, 46130 Prudhomat",
+        "visiting_services": [
+            "Chiens tenus en laisse autorisés dans le château, sauf à l’intérieur des appartement",
+            "Poussettes autorisées hors appartements, dans les parties extérieures",
+            "Photos autorisées dans le château sans flash",
+            "Dans la cadre d'une animation programmée à heure fixe, veillez à vous présenter à l'accueil/en billetterie au moins 15 minutes avant le début de l'animation",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Monastère de Saorge",
+        "url": "https://www.monastere-saorge.fr/",
+        "short_description": "Découvrez un ancien couvent de franciscains, remarquable témoignage de l'architecture baroque.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er février au 31 mai\nOuvert tous les jours sauf le lundi \n10h - 13h et 14h -17h\nDu 1er juin au 30 septembre\nOuvert tous les jours\n10h - 18h\nDu 1er octobre au 31 octobre\nOuvert tous les jours sauf le lundi \n10h - 13h et 14h -17h\nAttention : dernier accès au monument 30 minutes avant la fermeture.\nFermeture annuelle du 1er novembre au au 31 janvier\nFermé le 1er mai.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Montée du couvent, 06540 Saorge",
+        "visiting_services": [
+            "Librairie-boutique",
+            "Vente de boissons fraîches",
+            "Toilettes",
+            "Interdit aux chiens (sauf chiens guides et d'assistance)",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Chapelle expiatoire",
+        "url": "https://www.chapelle-expiatoire-paris.fr/",
+        "short_description": "Au cœur du square Louis XVI à Paris, découvrez la Chapelle expiatoire, petite merveille de style néoclassique tardif.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er avril au 30 septembre\n10h - 12h30 et 13h30 - 18h30\nFermé dimanche et lundi\nDu 1er octobre au 31 mars \n10h - 12h30 et 13h30 - 17h \nFermé dimanche, lundi, mardi \nDernier accès au monument, 30 minutes avant la fermeture.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Square Louis XVI, 29, rue Pasquier, 75008 Paris",
+        "visiting_services": [],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Palais Jacques Cœur",
+        "url": "https://www.palais-jacques-coeur.fr/",
+        "short_description": "Découvrez le personnage d'exception que fut Jacques Cœur, marchand, aventurier et argentier du roi Charles VII.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er avril au 30 avril\nVisite libre : 10h - 12h15 et 14h - 17h45\nVisite commentée : 10h30 ; 14h30 ; 15h30 ; 16h15\n\nDu 2 mai au 30 juin\nVisite libre : 9h30 - 12h15 et 14h - 18h15\nVisite commentée : 10h30 ; 14h30 ; 15h30 ; 16h45 \nDu 1er juillet au 31 août\nVisite libre : 10h - 18h15\nVisite commentée : 10h30 ; 11h30 ; 14h30 ; 15h30 ; 16h45\nDu 1er au 30 septembre\nVisite libre : 10h - 12h15 et 14h - 17h45\nVisite commentée : 10h30 ; 14h30 ; 15h30 ; 16h15\n\nDu 1er octobre au 31 mars\nFermeture exceptionnelle le 15 décembre matin\nVisite libre : 9h30 - 12h15 et 14h - 17h15\nVisite commentée : 10h30 ; 14h30 ; 15h45\n À noter : dernier accès au monument 45 min avant la fermeture.\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre, et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "10 bis rue Jacques Cœur, 18000 Bourges",
+        "visiting_services": [
+            "Boutique",
+            "Chiens non autorisés",
+            "Poussettes non autorisées dans le palais",
+            "Photos autorisées",
+            "Grands sacs à dos et valises à roulettes interdites. Pas de consigne.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument\nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Cloître de la Psalette",
+        "url": "https://www.cloitre-de-la-psalette.fr/",
+        "short_description": "Visitez le cloître de la cathédrale Saint-Gatien à Tours, entre gothique et Renaissance.",
+        "ticket_price": 4.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "ATTENTION : le cloître est exceptionnellement fermé jusqu'au 4 janvier 2026 inclus\nDu 8 septembre au 31 octobre\n10h - 12h30 et 14h - 17h30\nDu 1er novembre  au 28 février\n9h30 - 12h30 et 14h - 17h\nDu 1er mars au  3 mai\n10h - 12h30 et 14h - 17h30\nDu 4 mai au 7 septembre\n9h30 - 12h30 et 14h - 18h\nÀ noter : dernier accès au monument, 15 minutes avant la fermeture.\nFermé le dimanche matin toute l'année, les lundis et mardis du 1er octobre au 31 mars.\nFermeture les 1er janvier, 1er mai, 11 novembre après-midi et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)"
+        ],
+        "address": "Cathédrale Saint-Gatien, Rue Lavoisier, 37000 TOURS",
+        "visiting_services": [
+            "Visite libre",
+            "Des documents de visite sont disponibles à la billetterie gratuitement en français, anglais, allemand, espagnol, italien et néerlandais.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 4 €"
+    },
+    {
+        "name": "Château de Champs-sur-Marne",
+        "url": "https://www.chateau-champs-sur-marne.fr/",
+        "short_description": "Découvrez le château de Champs-sur-Marne, joyau de l'architecture classique en Île-de-France.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Ouvert tous les jours sauf le mardi\nDu 1er juin au 30 septembre\n10h - 12h15 et 13h30 - 18h\nDu 1er octobre au 31 mai\n10h - 12h15 et 13h30 - 17h\nDernier accès au château 30 minutes avant la fermeture. Le parc ferme 30 minutes après le château. \nÀ noter : le monument est susceptible de fermer pour diverses manifestations, nous vous invitons à consulter le site internet régulièrement, y compris le jour de votre visite.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture (billetterie et boutique, sans rendu monnaie)",
+            "chèque-vacances (ANCV) uniquement pour la billetterie sans rendu monnaie",
+            "chèque Lire (uniquement en boutique) sans rendu monnaie"
+        ],
+        "address": "31, rue de Paris, 77420 Champs-sur-Marne",
+        "visiting_services": [
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Chiens non autorisés dans le château et dans le parc (sauf chiens guides et d'assistance)",
+            "Poussettes non autorisées dans le château",
+            "Grands sacs à dos et valises non autorisés",
+            "Interdiction de toucher les œuvres exposées dans le château",
+            "Photos autorisées dans le château sans flash",
+            "Pique-niques autorisés dans certaines zones identifiées du parc",
+            "Toilettes",
+            "Ascenseur",
+            "Les photographies de mariage dans le domaine sont soumises à autorisation et à tarification. Nous contacter."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Château de Villeneuve-Lembron",
+        "url": "https://www.chateau-villeneuve-lembron.fr/",
+        "short_description": "Découvrez un étonnant décor peint, ainsi qu'un important mobilier.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 15 mai au 15 septembre\n10h - 12h30 et 14h - 18h30\nFermé le lundi\nVisite uniquement guidée : 10h30, 11h30, 14h30, 15h30 et 16h30.\nDu 16 septembre au 14 mai\n10h - 12h30 et 14h - 17h30\nFermé le lundi et le mardi\nVisite uniquement guidée : 10h30, 14h30 et 16h\nFermeture exceptionnel les dimanches 12 octobre, 9 et 23 novembre 2025\n\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre, 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "63340 Villeneuve-Lembron",
+        "visiting_services": [
+            "Poussettes autorisées dans le parc et dans le château.",
+            "Chiens interdits dans le château et dans le parc sauf chiens guides.",
+            "Photos autorisées dans le château sans flash.",
+            "Interdiction de toucher les œuvres exposées dans le château.",
+            "Interdiction de fumer sur l'ensemble du site, tant à l'intérieur qu'à l'extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieu collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Château d'Oiron",
+        "url": "https://www.chateau-oiron.fr/",
+        "short_description": "Éveillez vos sens et votre curiosité en explorant le patrimoine d’hier et d’aujourd’hui.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit - de 26 ans",
+        "opening_hours": "Du 1er octobre au 31 mai\n10h30 - 17h30 \nDu 1er juin au 30 septembre\n10h30 - 18h30\nComptez 1h30 à 2h pour profiter pleinement de votre visite\nA noter : \ndernier accès au monument, une heure avant la fermeture.\nles salles sont fermées progressivement 30 mn en amont de la fermeture générale du monument\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre et 25 décembre",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "10-12 rue du château, Oiron, 79100 Plaine-et-Vallées",
+        "visiting_services": [
+            "Seuls les chiens guides et d'assistance sont autorisés.",
+            "Poussettes autorisées dans le parc.",
+            "Casiers disponibles au château sur demande à l'accueil.",
+            "Toilettes accessibles.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Site des mégalithes de Locmariaquer",
+        "url": "https://www.site-megalithique-locmariaquer.fr/",
+        "short_description": "Près de Carnac, visitez le site des mégalithes de Locmariaquer.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er octobre au 31 mars 2025\nFermeture le lundi\nBilletterie et accès au site : 10h - 12h30 / 14h - 16h30\nDu 1er au 30 avril\nBilletterie et accès au site : 10h - 12h30/ 14h - 17h30\nDu 2 mai au 6 juillet \nBilletterie et accès au site : 10h - 17h30\nDu 7 juillet au 24 août \nBilletterie et accès au site : 10h - 18h30\n\nDu 25 août au 30 septembre \nBilletterie et accès au site : 10h - 17h30\n\nLa boutique reste ouverte 30 minutes après la fermeture du site.\n\nFermeture les 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Route de Kerlogonan, 56740 Locmariaquer, Tél. : 00 33 (0)2 97 57 37 59",
+        "visiting_services": [
+            "Les animaux domestiques ne sont pas autorisés sur le site même dans un sac de transport sauf les chiens guides et d'assistance",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument.\nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Interdiction de vapoter",
+            "Interdiction de manger et de boire sur le site.",
+            "Pas de consigne pour les bagages \nL'entrée avec valise et gros sac n'est pas autorisé dans le cadre des mesures Vigipirate.",
+            "Librairie boutique",
+            "Sanitaires avec table à langer",
+            "Prévoir une tenue adaptée aux conditions météorologiques pour la visite des monuments en extérieur",
+            "Accès au dolmen en nombre limité",
+            "Visiteurs de moins de 13 ans accompagnés d'un adulte.",
+            "Interdiction de monter sur les monuments et de toucher les stèles gravées dans le dolmen",
+            "Bancs de repos sur le site et cannes-sièges disponibles à l’accueil",
+            "Photos amateurs autorisées sur le site.\nLes professionnels de l'image sont soumis à autorisation de l'administration.",
+            "Survol par drone non autorisé sur le site sauf dérogation. Demande d'autorisation à l'administration des sites : carnac@monuments-nationaux.fr",
+            "En cas de très fortes chaleurs, ou canicule, en fonction de l'alerte vigilance en cours, certaines visites pourraient être modifiées.\n\nIl est recommandé de prévoir de l'eau lors de la visite.\nSe protéger du soleil (chapeau, lunettes, crème solaire)\nPour les personnes les plus sensibles, envisager de décaler sa visite."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Abbaye de Cluny",
+        "url": "https://www.cluny-abbaye.fr/",
+        "short_description": "Découvrez les vestiges d'un centre spirituel, siège du plus grand ordre monastique médiéval d'Occident.",
+        "ticket_price": 11.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "ABBAYE DE CLUNY \nDernier accès à l'abbaye, 45 minutes avant la fermeture\nDu 1er avril au 30 juin\n9h30 - 18h\nDu 1er juillet au 31 août\n9h30 - 19h\nDu 1er au 30 septembre\n9h30 - 18h\nDu 1er octobre au 31 mars\n9h30 - 17h\n MUSÉE D'ART ET D'ARCHÉOLOGIE DE CLUNY\nDernier accès au musée, 30 minutes avant la fermeture\nDu 1er au 30 avril\n10h30 - 12h30 et 14h - 18h\nDu 1er mai au 30 juin \n9h30 - 12h30 et 14h - 18h\nDu 1er juillet au 31 août\n10h-13h et 14h30-18h45\nDu 1er au 30 septembre\n10h-12h30 et 14h-17h45\nDu 1er octobre au 31 mars\n9h30 - 12h30 et 14h - 17h\n ATTENTION \nFermetures exceptionnelles, le 26 janvier et le 24 février 2026.\nFermetures annuelles des deux sites les 1er janvier, 1er mai, 1er novembre, 11 novembre et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Palais du Pape Gélase, Place du 11 août 1944, 71250 Cluny",
+        "visiting_services": [
+            "Librairie-boutique en accès libre",
+            "Chiens d'assistance tenus en laisse autorisés",
+            "Poussettes autorisées",
+            "Photos autorisées sans flash",
+            "Aucune consigne à bagages n'est proposée dans l'enceinte des monuments (possible à l'Office de Tourisme).",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 11 €"
+    },
+    {
+        "name": "Ensemble cathédral du Puy-en-Velay",
+        "url": "https://www.cathedrale-puy-en-velay.fr/",
+        "short_description": "Découvrez les trésors de l'ensemble cathédral du Puy-en-Velay.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 15 mai au 15 septembre\n9h30 - 18h30 (tous les jours)\nDu 16 septembre au 14 mai\n9h30 - 12h15 et 14h - 17h (du mardi au dimanche)\nAttention : dernier accès au monument 30 minutes avant la fermeture.\nFermeture le lundi du 16 septembre au 14 mai, 1er janvier, 1er mai, 1er et 11 novembre, 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "3, rue du Cloître, 43000 Le Puy-en-Velay",
+        "visiting_services": [
+            "Chiens non autorisés (à l'exception des chiens guides d'aveugle).",
+            "Accès déconseillé aux poussettes, nombreux escaliers.",
+            "Photos autorisées dans tous les espaces, sans flash.",
+            "Toilettes à l'intérieur du monument."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Sites préhistoriques de la vallée de la Vézère",
+        "url": "https://www.sites-les-eyzies.fr/",
+        "short_description": "En Dordogne, découvrez une exceptionnelle concentration de sites préhistoriques.",
+        "ticket_price": 0.0,
+        "ticket_price_conditions": "Voir tous les tarifs",
+        "opening_hours": "À noter :\nLes sites préhistoriques de la vallée de la Vézère sont ouverts uniquement dans le cadre de visites guidées.\nLe nombre de visiteurs accueillis quotidiennement est limité. La réservation d'un horaire de visite en ligne est obligatoire. \nGrottes de Font-de-Gaume et des Combarelles, Abri du Cap-Blanc : le contrôle des billets s’effectue sur chacun des sites 30 minutes avant le début de votre visite. Attention, pour l’Abri du Poisson, La Micoque, La Ferrassie, Le Moustier, Laugerie-Haute et les ateliers, merci de vous présenter à l'heure indiquée sur votre billet à l'accueil de la Grotte Font-de-Gaume (Les Eyzies).\nToutes les personnes prenant part à une visite des grottes, abris, gisements ou à un atelier doivent être en possession d'un billet.\n  BILLETTERIE EN LIGNE\n Hall d'accueil, billetterie et librairie-boutique de la Grotte de Font-de-Gaume \n4 avenue des Grottes - 24620 Les Eyzies\nTél. : 05 53 06 86 00\nfontdegaume@monuments-nationaux.fr\nDu 15 mai au 15 septembre\n9h30 - 17h30\nFermé le samedi\nDu 16 septembre au 14 mai\n9h30 - 12h30 et 14h - 17h30\nFermé le samedi et les 1er janvier, 1er mai et 25 décembre\n Billetterie et librairie-boutique de l'Abri du Cap-Blanc\nD48 - 24620 Marquay\nTél. : 05 53 59 60 30\ncapblanc@monuments-nationaux.fr\nDu 15 mai au 15 septembre\n10h - 18h\nFermé le samedi\nDu 16 septembre au 14 mai\n9h30 - 12h30 et 14h - 17h30\nFermé le samedi et les 1er janvier, 1er mai et 25 décembre",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Sites préhistoriques de la vallée de la Vézère, Hall d'accueil - Grotte de Font-de-Gaume, 4 avenue des Grottes, 24620 Les Eyzies",
+        "visiting_services": [],
+        "ticket_price_raw": "Tarif : À partir de"
+    },
+    {
+        "name": "Maison de George Sand",
+        "url": "https://www.maison-george-sand.fr/",
+        "short_description": "Au cœur du Berry, entrez dans l'intimité d'une grande écrivaine du XIXe siècle : George Sand.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "MAISON DE GEORGE SAND\nVisite uniquement commentée (réservation recommandée)\nDu 1er octobre au 31 mars\nHors vacances de la Toussaint : 10h45 ; 14h15 ; 15h30\nWeek-end d’octobre et vacances de la Toussaint : 10h45 ; 11h15 ; 14h15 ; 15h ; 15h45\nFermeture exceptionnelle le 15 décembre\n\nDu 1er avril au 30 juin\n10h15 ; 11h15 ; 14h15 ; 15h ; 15h45 ; 16h30\nDu 1er juillet au 31 août\n10h15 ; 11h ; 11h30 ; 14h00 ; 14h30 ; 15h ; 15h30 ; 16h ; 16h30 ; 17h00\n \nDu 1er au 31 septembre\n10h15 ; 11h15 ; 14h15 ; 15h ; 15h45 ; 16h30\n JARDIN ET PARC\nVisite libre\nDu 1er avril au 30 juin \n10h - 12h30 et 14h - 18h\nDu 1er juillet au 31 août \n9h30 - 18h30 \nDu 1er au 30 septembre\n10h - 12h30 et 14h - 18h\nDu 1er octobre au 31 mars \n10h - 12h30 et 13h30 - 17h\n Attention : dernier accès au cimetière familial et au jardin 30 minutes avant la fermeture.\nFermeture les 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "2 place Sainte-Anne, 36400 Nohant-Vic",
+        "visiting_services": [
+            "Boutique",
+            "Restaurant/salon de thé \"Le p'tit bonheur d'Aurore\" ouvert d'avril à octobre",
+            "Chiens autorisés uniquement tenus en laisse dans le jardin et le parc",
+            "Poussettes autorisées dans le jardin et le parc, non autorisées dans la maison",
+            "Parc et jardin fermés en cas d’alerte météo",
+            "Photos autorisées dans la maison sans flash",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument\nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Sainte-Chapelle",
+        "url": "https://www.sainte-chapelle.fr/",
+        "short_description": "Laissez-vous éblouir par les 1113 vitraux de ce joyau du gothique rayonnant.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er avril au 30 septembre\n9h - 19h\nDu 1er octobre au 31 mars\n9h - 17h\nÀ noter : dernier accès au monument, 30 minutes avant la fermeture.\nFermeture les 1er janvier, 1er mai et 25 décembre",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "10, boulevard du Palais, 75001 Paris",
+        "visiting_services": [
+            "Casques de moto",
+            "Aérosols",
+            "Couteaux, fourchettes et objets tranchants",
+            "Ciseaux",
+            "Bouteilles en verre",
+            "Les bagages/sacs volumineux",
+            "Trottinettes, planches à roulettes et rollers"
+        ],
+        "ticket_price_raw": "Tarif : 13€"
+    },
+    {
+        "name": "Tours de la cathédrale de Reims",
+        "url": "https://www.cathedrale-reims.fr/",
+        "short_description": "Découvrez un chef-d’œuvre de l’architecture gothique, sa statuaire et sa charpente du XXe siècle.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 15 février au 5 mai\nVisites commentées du mardi au samedi à 10h, 11h, 14h, 15h et 16h ; le dimanche à 14h, 15h et 16h\nDu 6 mai au 8 septembre\nVisites commentées du mardi au samedi à 10h, 11h, 14h, 15h, 16h et 17h ; le dimanche à 14h, 15h, 16h et 17h\nDu 9 septembre au 15 novembre\nVisites commentées du mardi au samedi à 10h, 11h, 14h, 15h et 16h ; le dimanche à 14h, 15h et 16h\nOuverture exceptionnelle les lundis 21 avril et 9 juin 2025 à 14h, 15h et 16h \nFermetures le 1er mai, le matin des fêtes de l'Ascension et de la Pentecôte et du 16 novembre au 14 février",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Place du Cardinal Luçon, 51100 Reims",
+        "visiting_services": [
+            "249 marches",
+            "Photos autorisées",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument.\nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics,deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Château ducal de Cadillac",
+        "url": "https://www.chateau-cadillac.fr/",
+        "short_description": "À 35 km au sud-est de Bordeaux, visitez ce château ducal, ses histoires et collections.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "De 26 mai au 28 septembre 2025\n10h - 13h15 et 14h - 18h\nOuvert tous les jours\nDu 29 septembre 2025 à fin mai 2026\n10h - 12h30 et 14h - 17h30\nDu mardi au dimanche\nÀ noter : dernier accès au monument, 1h avant la fermeture.\nFermeture 1 heure plus tôt les 24 et 31 décembre. \nFermeture annuelle les 1er janvier, lundi de Pâques, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "Espèces",
+            "Cartes bancaires",
+            "Chèque",
+            "Chèque-vacances - ANCV (droit d'entrée)",
+            "Chèque Culture (sur les produits en boutique)"
+        ],
+        "address": "4, place de la Libération, 33410 Cadillac-sur-Garonne",
+        "visiting_services": [
+            "Durée de visite conseillée : 1h30.",
+            "4 niveaux à visiter (appartements ducaux, royaux, sous-sols et « château-prison »).",
+            "Parkings devant le château (pensez à vous munir d’un disque bleu) et dans la ville (au pied des remparts).",
+            "Document de visite (disponible en français, anglais, allemand, italien, espagnol et néerlandais) et dépliant de la programmation culturelle.",
+            "Librairie-boutique.",
+            "Toilettes, accessibles aux personnes à mobilité réduite.",
+            "Interdit aux chiens, sauf chiens guides et d’assistance.",
+            "Poussettes non autorisées, privilégiez les porte-bébés.",
+            "Jardin du château géré par la ville de Cadillac-sur-Garonne ouvert au public du mardi au vendredi de 9h à 17h."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Cloître de la cathédrale de Bayonne",
+        "url": "https://www.cloitre-bayonne.fr/",
+        "short_description": "Situé au cœur de Bayonne, déambulez dans un chef-d'œuvre médiéval inscrit au patrimoine mondial de l'UNESCO.",
+        "ticket_price": 0.0,
+        "ticket_price_conditions": null,
+        "opening_hours": "Attention !\nFermetures exceptionnelles :\n- du 13 au 15 décembre 2025 inclus.\n- du 22 décembre au 1er janvier inclus.\nNous nous excusons pour la gêne occasionnée.\n\nDu 19 mai au 21 septembre 2025\n9h - 12h30 et 14h - 18h\nOuvert tous les jours\nDu 22 septembre 2025 à la mi-mai 2026\n9h - 12h30 et 14h - 17h\nOuvert tous les jours\nÀ noter : dernier accès au monument, 20 minutes avant la fermeture.\n\nFermeture les 1er janvier et 25 décembre.",
+        "payment_methods": [],
+        "address": "Place Pasteur, 64100 Bayonne",
+        "visiting_services": [
+            "Accès PMR",
+            "Chiens en laisse autorisés"
+        ],
+        "ticket_price_raw": "Tarif : Gratuit"
+    },
+    {
+        "name": "Château de La Motte Tilly",
+        "url": "https://www.chateau-la-motte-tilly.fr/",
+        "short_description": "Aux lisières de l’Aube et de la Seine-et-Marne, surplombant la Seine, visitez le château de La Motte Tilly, son parc arboré et son potager.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Château\n(Le château se visite uniquement en visite guidée ! La réservation en ligne est vivement conseillée.)\nDu 15 avril au 14 octobre\nDu mardi au dimanche\nà 10h30, 11h30, 14h, 15h, 16h et 17h\nDu 15 octobre au 14 avril\nDu mercredi au dimanche\nà 10h30, 11h30, 14h, 15h et 16h\nParc\n(L'accès au parc est gratuit toute l'année.)\nDu 15 avril au 14 octobre\nDu mardi au dimanche\n10h - 18h \nDu 15 octobre au 14 avril\nDu mercredi au dimanche\n10h - 17h\nAttention : Fermeture les 1er janvier, 1er mai et 25 décembre",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "D951, 10400 La Motte Tilly",
+        "visiting_services": [
+            "Chiens autorisés uniquement en laisse dans le parc. Chiens guides d'aveugles autorisés également dans le château.",
+            "Poussettes autorisées dans le parc, mais non autorisées dans le château.",
+            "Les pique-niques sont autorisés dans l'enceinte du domaine.",
+            "Photos autorisées dans le château sans flash.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Abbaye du Bec-Hellouin",
+        "url": "https://www.bec-hellouin.fr/",
+        "short_description": "Découvrez ce haut-lieu du rayonnement bénédictin dès le XIe siècle.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Visite libre du parc et de l’église abbatiale tous les jours, même le mardi. Les portes sont ouvertes de 9h à 21h.\nLe monument se visite uniquement en visite guidée (pas de visite le mardi).\n\nD'avril à septembre \nTous les jours sauf le mardi\n10h30, 15h, 16h\nLe dimanche\n12h, 15h, 16h\nD'octobre à mars\nTous les jours sauf le mardi\n10h30 et 15h30\nLe samedi \n10h30, 15h et 16h\nLes dimanches et jours de fêtes \n12h, 15h et 16h",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque"
+        ],
+        "address": "Notre-Dame du Bec, 27800 Le Bec-Hellouin",
+        "visiting_services": [],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Abbaye de Beaulieu-en-Rouergue",
+        "url": "https://www.beaulieu-en-rouergue.fr/",
+        "short_description": "Découvrez une ancienne abbaye cistercienne, devenue l’écrin d’une exceptionnelle collection d’art moderne qui dialogue avec un jardin aux mille roses.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er février au 31 mai\n10h - 12h30 et 14h - 17h\nOuvert le mardi sur réservation pour les groupes\nFermé les lundi et mardi\nDu 1er juin au 30 septembre\n10h - 18h\nOuvert tous les jours\n\nDu 1er octobre à la fin des vacances de Noël \n10h - 12h30 et 14h - 17h\nOuvert le mardi sur réservation pour les groupes\nFermé les lundi et mardi\nFermé en janvier (hors vacances scolaires) et les 1er janvier, 1er mai, 1er et 11 novembre et 25 décembre.\nÀ noter : dernier accès au monument 45 minutes avant la fermeture.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "1086 route de l'abbaye, 82 330 Ginals",
+        "visiting_services": [
+            "Toilettes dans l’enceinte du monument (accessibles uniquement avec un droit d'entrée)",
+            "Consignes (selon les lois en vigueur - Vigipirate)",
+            "Chiens autorisés dans le parc et dans l'abbaye, tenus en laisse",
+            "Poussettes autorisées, 1er étage non accessible",
+            "Photos autorisées sans flash",
+            "Espace restauration, avec salle intérieure et terrasse ombragée, ouvert du 1er juin au 30 septembre",
+            "Interdiction de fumer sur l'ensemble du site, tant à l'extérieur qu'à l'intérieur du monument (en application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.)"
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Tours et remparts d’Aigues-Mortes",
+        "url": "https://www.aigues-mortes-monument.fr/",
+        "short_description": "Partez à l’assaut du donjon de Saint Louis et arpentez les 1640 mètres de remparts qui ceinturent la ville d’Aigues-Mortes.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 2 mai au 31 août\n10h - 19h\nDu 1er septembre au 30 avril\n10h - 17h30\nLes 24 et 31 décembre\n10h - 16h30\nÀ noter : \ndernier accès au monument, 45 minutes avant la fermeture.\nune heure avant la fermeture, le public peut visiter au choix l'espace de médiation et la tour de Constance ou les remparts.\nFermeture les 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Logis du Gouverneur, 30220 Aigues-Mortes",
+        "visiting_services": [
+            "Documents de visite en 6 langues (français, anglais, allemand, italien, espagnol, néerlandais)",
+            "Visite commentée de la tour de Constance (selon disponibilités)",
+            "Audioguides disponibles en 4 langues (bientôt disponibles en téléchargement)",
+            "Attention, circuit fortement exposé au soleil en été",
+            "Une heure avant la fermeture, le public peut visiter au choix l'espace de médiation et la tour de Constance ou les remparts.",
+            "Le circuit de visite n'est pas accessible aux poussettes, qui doivent être déposées à l'accueil.",
+            "Le monument est vaste : les enfants doivent rester à tout moment sous la surveillance d'un adulte.",
+            "Les animaux sont interdits.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Trésor de la cathédrale de Lyon",
+        "url": "https://www.tresor-cathedrale-lyon.fr/",
+        "short_description": "Découvrez une collection de pièces emblématiques, de l’époque byzantine au XIXe siècle, d'une qualité exceptionnelle.",
+        "ticket_price": 0.0,
+        "ticket_price_conditions": "Voir tous les tarifs",
+        "opening_hours": "Du 15 mai au 15 septembre\nLundi : fermé\nMardi : 9h30 - 12h30 et 13h30 - 18h\nMercredi : 11h30 - 12h30 et 13h30 - 18h\nDu jeudi au samedi : 9h30- 12h30 et 13h30 - 18h\nDimanche : 13h30 - 18h\nDu 16 septembre au 14 mai\nLundi :  fermé\nMardi : 10h - 12h30 et 13h30 - 17h30\nMercredi : 11h30 - 12h30 et 13h30 - 17h30\nDu jeudi au samedi : 10h - 12h30 et 13h30 - 17h30 \nDimanche : 13h30 - 17h30 \nAttention : fermé le 1er janvier, 1er mai et 25 décembre",
+        "payment_methods": [],
+        "address": "Place Saint-Jean, B.P. 5016, 69005 Lyon, 04 78 92 82 29",
+        "visiting_services": [
+            "Chiens d'assistance autorisés",
+            "Poussettes autorisées",
+            "Sacs non autorisés",
+            "Photos autorisées sans flash",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : gratuit"
+    },
+    {
+        "name": "Horloge astronomique de Besançon",
+        "url": "https://www.horloge-astronomique-besancon.fr/",
+        "short_description": "Au sein de la cathédrale, découvrez une exceptionnelle horloge astronomique construite au XIXe siècle.",
+        "ticket_price": 5.0,
+        "ticket_price_conditions": "Gratuit - de 26 ans",
+        "opening_hours": "Du 1er avril au 31 octobre\n10h - 12h30 et 14h - 18h\nFermé le lundi\nVacances de Toussaint, de Noël, d'Hiver et de Pâques\n10h - 12h30 et 14h - 18h\nFermé le lundi\nAttention : \nDernier accès au monument 30mn avant la fermeture du monument.\nLe 24 et 31 décembre, l'Horloge astronomique fermera exceptionnellement à 17h.\nFermeture les 1er janvier, 1er mai, le 11 novembre et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)"
+        ],
+        "address": "25 rue du chapitre, 25000 Besançon",
+        "visiting_services": [
+            "Billetterie sur place ou e-billetterie",
+            "Photos autorisées dans le monument sans flash.",
+            "Salle exiguë : jauge de 20 personnes maximum",
+            "Visites commentées sans supplément à 10h30, 14h30, 15h30 et 16h30."
+        ],
+        "ticket_price_raw": "Tarif : 5€"
+    },
+    {
+        "name": "Site archéologique de Montcaret",
+        "url": "https://www.villa-montcaret.fr/",
+        "short_description": "Découvrez le site de Montcaret et ses thermes privés aux exceptionnels pavements de mosaïque.",
+        "ticket_price": 5.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 26 mai au 28 septembre 2025\n9h30-12h45 et 14h-18h\nDu mardi au dimanche\nDu 29 septembre 2025 à fin mai 2026\n10h - 12h30 et 14h - 17h30\nDu mardi au dimanche\n\nAttention : dernier accès au monument, 45 minutes avant la fermeture.\n\nFermeture les 1er janvier, lundi de Pâques, 1er mai, 1er et 11 novembre et 25 décembre.",
+        "payment_methods": [
+            "Carte bancaire (sauf American express)",
+            "Espèces",
+            "Chèque",
+            "Chèques-Vacances (droit d’entrée)",
+            "Chèques Culture (produits en boutique)"
+        ],
+        "address": "1 rue des Anciennes Postes, 24230 Montcaret",
+        "visiting_services": [
+            "Durée de visite conseillée : 1h.",
+            "Document de visite gratuit (disponible en français, anglais, allemand, néerlandais, italien et espagnol).",
+            "Panneaux d’interprétation.",
+            "Salle d’exposition.",
+            "Parking pour autocars à 200m, gratuit.",
+            "Librairie-boutique.",
+            "Chiens interdits sauf chiens guides d'aveugle ou d'assistance.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 5 €"
+    },
+    {
+        "name": "Château de Haroué",
+        "url": "https://www.chateau-haroue.fr/",
+        "short_description": "Découvrez le château de Haroué, chef-d'œuvre du XVIIIe siècle à 30 km de Nancy.",
+        "ticket_price": 11.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 4 novembre au 19 décembre\nChâteau ouvert uniquement sur réservation pour les groupes \nLes réservations doivent être effectuées une semaine au moins avant la date de visite.\nDu 20 décembre au 30 décembre \n10h - 12h30 et 14h - 18h\nHoraires des visites guidées\nSemaine et week-end : 10h30, 11h30, 14h30 et 15h30\nFermeture les lundis 22 et 29 décembre, les 24, 25, 26 et 31 décembre et les 1er et 2 janvier",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Place du Château, 54740 Haroué",
+        "visiting_services": [
+            "Les valises et les gros sacs de randonnées sont interdits. Les petits sacs (dimensions inférieures au format cabine) sont autorisés.",
+            "Les photographies avec flash sont interdites.",
+            "Les animaux ne sont pas autorisés.",
+            "Les vélos sont interdits.",
+            "Il est interdit manger dans le monument.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument.\nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 11 €"
+    },
+    {
+        "name": "Hôtel de la Marine",
+        "url": "https://www.hotel-de-la-marine.paris/",
+        "short_description": "Découvrez un joyau du XVIIIe siècle place de la Concorde.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Tous les jours : 10h30 - 19h\nNocturne le vendredi jusqu'à 21h30 \nAttention : dernier accès au monument 45 minutes avant la fermeture\nLes créneaux du mardi après-midi, jeudi matin et la première nocturne du mois sont réservés en priorité aux visites en groupe.\nFermeture les 1er janvier, 1er mai et 25 décembre.\nLe premier du dimanche du mois est gratuit de novembre à mars à l’Hôtel de la Marine. L’accès au monument se fait uniquement le jour même, sans réservation, selon l’ordre d’arrivée et dans la limite des places disponibles.",
+        "payment_methods": [],
+        "address": "2, Place de la Concorde, 75008 Paris",
+        "visiting_services": [
+            "Toilettes gratuites au sein du monument",
+            "Table à langer",
+            "Local à poussettes",
+            "Prêt de porte-bébés",
+            "Vestiaire avec casiers 40 x 40 cm",
+            "Prêt de fauteuils roulants et de cannes-sièges",
+            "Wifi gratuit et public dans l'ensemble du monument",
+            "Restaurant Mimosa et Café Lapérouse accessibles sans billet d'entrée",
+            "Librairie-boutique accessible sans billet d'entrée tous les jours de 11h à 19h15 et en nocturne le vendredi jusqu'à 21h45",
+            "Photos autorisées dans les espaces de visite sans flash",
+            "Animaux de compagnie non autorisés au sein du monument à l’exception des chiens guides pour aveugles et malvoyants, conformément à la loi",
+            "Sacs et valises, même de petite taille, non autorisés dans le monument en raison du plan Vigipirate",
+            "Poussettes non autorisées dans les espaces de visite",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument"
+        ],
+        "ticket_price_raw": "Tarif : à partir de 13 €"
+    },
+    {
+        "name": "Forteresse de Salses",
+        "url": "https://www.forteresse-salses.fr/",
+        "short_description": "Visitez une imposante forteresse du XVIe siècle située entre les étangs de Salses et les Corbières.",
+        "ticket_price": 7.5,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er avril au 30 septembre \n10h - 18h30\nDu 1er octobre au 31 mars\n10h - 12h45 et 14h - 17h15\nAttention : \nDernier billet délivré 45 minutes avant la fermeture du monument.\nFermeture les 1er janvier, 1er mai, 1er novembre, 11 novembre et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Le Portichol, 66600 Salses-le-Château",
+        "visiting_services": [
+            "Stationnement interdit aux abords de la forteresse (Par arrêté Préfectoral).",
+            "Parking municipal ouvert toute l’année, payant et surveillé de mi-juin à mi-septembre.",
+            "Autres places de parking disponibles près de l'aire de jeux pour enfants.",
+            "Pour les camping-cars, il est conseillé de se garer sur le parking de la cave Arnaud de Villeneuve.",
+            "Parking vélo disponible",
+            "Les poussettes sont autorisées uniquement dans les parties basses du monument",
+            "Librairie boutique",
+            "Distributeur de boissons et friandises",
+            "Les pique-niques sont interdits mais possible à l'extérieur du monument.",
+            "Les animaux sont interdits, sauf les chiens d'assistance.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7,5 €"
+    },
+    {
+        "name": "Château de Talcy",
+        "url": "https://www.chateau-talcy.fr/",
+        "short_description": "Visitez ce domaine agricole édifié au XVIe siècle au destin marqué par les poètes.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Fermeture exceptionnelle le jeudi 8 janvier 2026.\nDu 5 septembre au 30 avril\n10h – 12h30\n14h – 17h  \nFermé le mardi\nDu 2 mai au 4 septembre\n9h30 – 12h30\n14h – 18h \nFermeture les 1er janvier, 1er mai et 25 décembre.\nDernier accès 60 mn avant la fermeture.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Château de Talcy, 41370 Talcy",
+        "visiting_services": [
+            "Librairie-boutique qui propose un large éventail de livres et d’objets pour les grands et les petits",
+            "Toilettes",
+            "Parking",
+            "Parking PMR",
+            "Parking à vélos",
+            "Aire de pique-nique en libre accès à l'extérieur du monument",
+            "Interdit aux animaux",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Poussettes autorisées pour les extérieurs et le jardin, interdites à l’intérieur du château"
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Crypte et tour de la cathédrale de Bourges",
+        "url": "https://www.bourges-cathedrale.fr/",
+        "short_description": "Visitez la crypte et la tour de la cathédrale de Bourges, inscrite par l’UNESCO sur la liste du patrimoine mondial.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "CRYPTE \nVisite uniquement commentée (tous les jours sauf le dimanche matin)\nAvril \n10h15 ; 11h15 ; 14h30 ; 15h45 ; 17h\nMai - août\n10h ; 11h15 ; 14h30 ; 16h ; 17h30\n\nSeptembre \n10h15 ; 11h15 ; 14h30 ; 15h45 ; 17h\n\nOctobre - mars \nFermetures exceptionnelles : 30 novembre, 15 décembre matin et 26 décembre\n10h ; 11h15 ; 14h30 ; 15h30 ; 16h30\n  TOUR \nVisite uniquement accompagnée et réservée aux individuels\n(les vendredis et samedis toute la journée, les dimanches après-midi et jours fériés) \nDu 3 juillet au 30 août \n9h45 ; 10h45 ; 14h15 ; 15h15 ; 16h15 ; 17h15 \n Fermetures : dimanche matin, 1er janvier, 1er mai, 1er et 11 novembre, et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)"
+        ],
+        "address": "place Etienne Dolet, 18000 Bourges",
+        "visiting_services": [
+            "Crypte : 2 personnes minimum / 49 personnes maximum",
+            "Tour : 2 personnes minimum / 18 personnes maximum. Déconseillée aux femmes enceintes et personnes souffrant de problèmes cardiaques",
+            "Chiens non autorisés",
+            "Photos autorisées sans pied"
+        ],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Sites et musée archéologiques de Montmaurin",
+        "url": "https://www.montmaurin-archeo.fr/",
+        "short_description": "Découvrez les vestiges de la villa gallo-romaine de Lassalles, l'une des plus vastes connues en France.",
+        "ticket_price": 5.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er mai au 31 août\nMusée : 10h - 18h \nVilla Lassalles : 10h - 12h30 et 14h - 18h \nSite fermé le lundi\nDu 1er septembre au 30 avril \nMusée : 10h - 12h30 et 14h - 17h30 \nVilla Lassalles : sur réservation \nSite fermé les lundi et mardi \nFermé les 1er janvier, 1er mai, 1er novembre, 11novembre et 25 décembre.\nAttention : dernier accès 45 minutes avant la fermeture.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "1 route de Blajan, 31 350 Montmaurin",
+        "visiting_services": [
+            "Poussettes autorisées",
+            "Photos autorisées",
+            "Les chiens ne sont pas autorisés, ni dans le musée, ni dans la villa",
+            "Interdiction de fumer sur l'ensemble du site, tant à l'extérieur qu'à l'intérieur du monument (en application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.)"
+        ],
+        "ticket_price_raw": "Tarif : 5 €"
+    },
+    {
+        "name": "Site archéologique de Glanum",
+        "url": "https://www.site-glanum.fr/",
+        "short_description": "Visitez un oppidum gaulois installé au cœur du massif des Alpilles, au carrefour de grandes voies de circulation.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans.",
+        "opening_hours": "Du 1er avril au 30 septembre\n9h30 - 18h   \nDu 1er octobre au 31 mars\n10h - 17h (10h - 16h les 24 et 31 décembre) - Fermé les lundis \nATTENTION : fermeture exceptionnelle le mardi 16/12\nÀ noter : dernier accès au monument, 45 minutes avant la fermeture.\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre, 21 et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Avenue Vincent Van-Gogh, 13 210 Saint-Rémy-de-Provence",
+        "visiting_services": [],
+        "ticket_price_raw": "Tarif : 9 €"
+    },
+    {
+        "name": "Château de Chareil-Cintrat",
+        "url": "https://www.chareil-cintrat.fr/",
+        "short_description": "Partez pour un voyage à travers l'art et l'humanisme de la Renaissance grâce à son décor peint.",
+        "ticket_price": 5.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans.",
+        "opening_hours": "Du 15 juin au 15 septembre\n10h - 12h et 14h - 18h\nFermé les lundis\nLe château est fermé les 30 et 31 août.\nDu 16 septembre au 14 juin\nOuvert sur rendez-vous pour les groupes. \nÀ noter : dernier accès au monument, une heure avant la fermeture.\nAccès libre au parc au cours de la dernière heure.\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre, 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "03140 Chareil-Cintrat",
+        "visiting_services": [
+            "Pour les réservations par téléphone au 04 73 53 14 55 ou par mail à chateau-chareil-cintrat@monuments-nationaux.fr",
+            "Chiens non autorisés dans le château et dans le parc sauf chiens guides et d'assistance.",
+            "Poussettes autorisées.",
+            "Photos autorisées dans le château sans flash.",
+            "Interdiction de fumer sur l'ensemble du site, tant à l'intérieur qu'à l'extérieur du monument. En application du décret n°2025-582 du 7 juin 2025 relatif au espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 5 €"
+    },
+    {
+        "name": "Abbaye de La Sauve-Majeure",
+        "url": "https://www.abbaye-la-sauve-majeure.fr/",
+        "short_description": "À 25 km de Bordeaux, découvrez l'abbaye de La Sauve-Majeure, patrimoine mondial UNESCO",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 26 mai au 28 septembre 2025 \n10h - 13h15 et 14h - 18h\nOuvert tous les jours\nDu 29 septembre 2025 à la fin mai 2026\n10h30 - 13h et 14h - 17h30\nDu mardi au dimanche\n À noter : dernier accès au monument, 45 min avant la fermeture.\nFermeture les 1er janvier, lundi de Pâques, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "Espèces",
+            "Carte bancaire (sauf American express)",
+            "Chèque",
+            "Chèque-vacances (droit d'entrée)",
+            "Chèque Culture (droit d'entrée et produits en boutique)",
+            "Chèque Lire (sur les produits en boutique)"
+        ],
+        "address": "14, rue de l'abbaye, 33670 La Sauve",
+        "visiting_services": [
+            "Durée de visite conseillée : 1h de visite.",
+            "Document de visite (disponible en français, anglais, allemand, italien, espagnol, néerlandais et portugais) et dépliant de la programmation culturelle.",
+            "Panneaux d’interprétation.",
+            "Espace lapidaire modernisé.",
+            "Parking le long du mur de l’abbaye et place St Jean.",
+            "Librairie-boutique.",
+            "Toilettes.",
+            "Chiens autorisés, tenus en laisse.",
+            "L'accès au sommet de la tour nécessite un bon état de santé.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Fort Saint-André",
+        "url": "https://www.fort-saint-andre.fr/",
+        "short_description": "Découvrez une ancienne sentinelle offrant un panorama exceptionnel du palais des papes au mont Ventoux.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er juin au 13 juillet \n10h - 13h et 14h - 18h\nDu 14 juillet au 31 août \n9h - 13h et 14h - 18h\nDu 1er au 30 septembre \n10h - 13h et 14h - 18h\nDu 1er octobre au 31 mai\n10h - 13h et 14h - 17h\nAttention : dernier accès au monument, une heure avant la fermeture.\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre, 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "57A, rue Montée du Fort, 30400 Villeneuve-Lez-Avignon",
+        "visiting_services": [
+            "Tenues correctes (torse nu, pieds nus et maillot de bain interdits)",
+            "Chiens tenus en laisse acceptés",
+            "Trépied pour photos et drone interdits",
+            "En cas d'orage, pluie ou vent violent, fortes chaleurs les espaces extérieurs (terrasses du chemin de ronde, accès chapelle) sont susceptibles d'être fermés.",
+            "Sol accidenté",
+            "Nombreuses marches : 200",
+            "Le fort ne dispose pas de consignes, les sacs à dos et valises sont interdits dans l'enceinte du monument.",
+            "Les couteaux et aérosols sont interdits.",
+            "En période de forte chaleur pensez à venir avec une bouteille d'eau (un point d'eau est disponible au départ du parcours de visite) et un chapeau.",
+            "Prévoir de bonnes chaussures",
+            "Une salle d’introduction à la visite avec une vidéo et des panneaux en français est accessible au début du parcours.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Maison Ernest Renan",
+        "url": "https://www.maison-ernest-renan.fr/",
+        "short_description": "Découvrez la maison d'enfance d'Ernest Renan à Tréguier, petite cité de Bretagne.",
+        "ticket_price": 5.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 2 avril au 27 septembre 2025\n\n10h30 - 13h et 14h - 18h\nDu mercredi au dimanche\nAttention : dernier accès au monument, 30 mn avant la fermeture.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "20, rue Ernest Renan, 22220 TREGUIER, Tél. : 33 / (0)2 96 92 45 63",
+        "visiting_services": [
+            "Chiens non autorisés dans la Maison",
+            "Poussettes autorisées dans le jardin, non autorisées dans la Maison.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument.\nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Photos non professionnelles autorisées dans la Maison et le jardin.",
+            "Photos professionnelles - sur demande"
+        ],
+        "ticket_price_raw": "Tarif : 5 €"
+    },
+    {
+        "name": "Cathédrale de Chartres",
+        "url": "https://www.chartres-cathedrale.fr/",
+        "short_description": "Découvrez une cathédrale dont l'architecture a marqué l'art gothique, ainsi que son Trésor, l'un des plus emblématiques de France.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Fermeture exceptionnelle le vendredi 23 janvier 2026.\nDu 5 septembre au 30 avril\n10h – 12h45 et 14h – 17h\nDu 2 mai au 4 septembre\n10h – 12h45 et 14h – 18h\nÀ noter : Dernière visite à 16h45.\nFermetures annuelles les 1er janvier, 1er mai et 25 décembre. Fermé le dimanche matin.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "16 Cloître Notre-Dame, 28000 Chartres",
+        "visiting_services": [
+            "Parking public Chartres cathédrale ou Chartres cœur de ville",
+            "Interdit aux chiens",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Valises non autorisées",
+            "Poussettes interdites pour la visite des hauteurs",
+            "Les visites guidées sont proposées uniquement en français"
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Grotte de Pair-non-Pair",
+        "url": "https://www.pair-non-pair.fr/",
+        "short_description": "Découvrez la grotte de Pair-non-Pair, une des plus anciennes grottes ornées au monde.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "La grotte est ouverte uniquement dans le cadre de visites guidées. La réservation d'un horaire de visite en ligne est obligatoire.  En savoir plus\nBILLETTERIE EN LIGNE\n L'accueil, l'espace muséographique et la boutique sont ouverts\nDu 1er juin au 30 septembre\n9h30 - 12h30 et 14h - 18h30\nDu 1er octobre au 31 mai\n9h30 - 12h30 et 14h - 17h30\nFermeture les lundis, 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "2, Chemin de Pair-non-Pair, 33710 Prignac et Marcamps",
+        "visiting_services": [],
+        "ticket_price_raw": "Tarif : 13 €"
+    },
+    {
+        "name": "Domaine national du château de Coucy",
+        "url": "https://www.chateau-coucy.fr/",
+        "short_description": "Au nord de Soissons, découvrez les impressionnants vestiges du château fort de Coucy !",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Ouvert tous les jours\n\nDu 5 septembre au 30 avril\n10h - 13h et 14h - 17h30\nDu 2 mai au 4 septembre\n10h - 13h et 14h - 18h30\n Attention : dernier accès au monument, 45 minutes avant la fermeture.\nFermeture les 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)",
+            "passion monuments"
+        ],
+        "address": "Rue du château, 02380 Coucy le Château Auffrique",
+        "visiting_services": [
+            "Chiens autorisés uniquement tenus en laisse dans le parc",
+            "Poussettes autorisées dans le château",
+            "Photos autorisées dans le château",
+            "Toilettes",
+            "Interdiction d'escalader les murailles, de grimper sur les pierres",
+            "Environ 40 marches (tour de la terrasse, salle des souterrains)"
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Domaine national de Saint-Cloud",
+        "url": "https://www.domaine-saint-cloud.fr/",
+        "short_description": "Aux portes de Paris, visitez 460 hectares de jardins animés de fontaines et de sculptures.",
+        "ticket_price": 0.0,
+        "ticket_price_conditions": null,
+        "opening_hours": "Mars, avril, septembre, octobre\n7h30 - 20h50\nMai à août\n7h30 - 21h50\nNovembre à février\n7h30 - 19h50",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque"
+        ],
+        "address": "1 avenue de la grille d'honneur, 92210 Saint-Cloud",
+        "visiting_services": [
+            "Chiens autorisés dans le domaine tenus en laisse",
+            "Pique-niques autorisés",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument.\nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : Gratuit"
+    },
+    {
+        "name": "Cloître de la cathédrale de Fréjus",
+        "url": "https://www.cloitre-frejus.fr/",
+        "short_description": "Visitez le cloître de la cathédrale Saint-Léonce, édifié au XIIIe siècle, et admirez son étonnant plafond peint orné d'un bestiaire unique.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 28 avril au 31 août\n10h - 18h\nDu 1er septembre au 27 avril \n10h - 13h et 14h - 17h\nFermé le lundi\nÀ noter : dernier accès au monument 30 minutes avant la fermeture\n Les 24 et 31 décembre, le monument ferme ses portes à 16h.\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre, 25 décembre",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "58, rue du Cardinal Fleury, 83600 Fréjus",
+        "visiting_services": [
+            "Les animaux (à l'exception des chiens thérapeutiques ou chiens guides d'aveugle) sont interdits dans l'enceinte du monument.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. \nEn application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Château de Gramont",
+        "url": "https://www.chateau-gramont.fr/",
+        "short_description": "Découvrez une belle demeure Renaissance dominant les collines de Gascogne.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er janvier au 31 mars\nWeek-end et vacances scolaires : 10h - 12h30 et 14h - 17h30 \nHors vacances scolaires : du mardi au vendredi sur réservation\nDu 1er avril au 30 avril\n10h - 12h30 et 14h - 17h30 \nDu 1er mai au 31 août \n10h - 12h30 et 14h - 18h30\nDu 1er septembre au 31 octobre\n10h - 12h30 et 14h - 17h30 \nDu 1er novembre au 31 décembre\nWeek-end et vacances scolaires : 10h - 12h30 et 14h - 17h30 \nHors vacances scolaires : du mardi au vendredi sur réservation\nFermé le lundi toute l'année. \nDernier accès au monument, 45 min avant la fermeture.\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "5 place du château, 82 120 GRAMONT",
+        "visiting_services": [
+            "Chiens non-autorisés dans l'enceinte du château.",
+            "Poussettes autorisées dans le parc, non autorisées dans le château.",
+            "Photos autorisées dans le château sans flash.",
+            "Interdiction de fumer sur l'ensemble du site, tant à l'extérieur qu'à l'intérieur du monument (en application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.)"
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Abbaye du Mont-Saint-Michel",
+        "url": "https://www.abbaye-mont-saint-michel.fr/",
+        "short_description": "Découvrez l'abbaye du Mont-Saint-Michel, un des premiers sites inscrits sur la liste du patrimoine mondial de l'UNESCO.",
+        "ticket_price": 13.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 1er mai au 31 août\n9h - 19h\nDu 1er septembre au 30 avril\n9h30 - 18h\nFermeture de l'abbaye les 1er janvier, 1er mai et 25 décembre.\nFermeture exceptionnelle de l'abbaye le 5 octobre 2025 pour la visite, mais ouverte à la musique dans le cadre du Festival Via Aeterna.\n À noter : \nDernière entrée autorisée 1h avant la fermeture.\nDernier créneau groupe accessible sur réservation 1h30 avant la fermeture.\nDernier retrait des tablettes 1h30 avant la fermeture.\nLes mineurs doivent obligatoirement être accompagnés d’une personne majeure pour entrer et visiter l’abbaye. \nLe village du Mont-Saint-Michel est une commune et par conséquent est accessible librement sans réservation, billet ou contrainte horaire.",
+        "payment_methods": [],
+        "address": "50170 Le Mont-Saint-Michel",
+        "visiting_services": [
+            "Le ticket d’entrée du monument donne accès à l’ensemble des espaces ouverts à la visite, expositions temporaires incluses",
+            "De par sa situation au sommet du rocher et le grand nombre de marches, l’accès à l’abbaye nécessite un bon état de santé. Le monument est difficile d'accès pour les PMR, les personnes souffrant de certaines pathologies et les poussettes. Nous vous remercions de plier ces dernières pour accéder à l'abbaye.",
+            "Certains espaces extérieurs peuvent être fermés en cas de mauvaises conditions climatiques",
+            "Sanitaires gratuits en début et en milieu de parcours, équipés de tables à langer\nAttention ! Pour des raisons de maintenance, le nombre de toilettes en début de parcours est limité jusqu'à la fin du mois d'août 2025. Nous vous remercions pour votre compréhension.",
+            "Une librairie-boutique est accessible avec ou sans billet d'entrée",
+            "Les animaux de compagnie ne sont pas acceptés, y compris dans un sac de transport",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument : en application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac.",
+            "Nous vous remercions de ne pas manger dans l'enceinte du monument, dans les espaces intérieurs comme extérieurs."
+        ],
+        "ticket_price_raw": "Tarif : 13€"
+    },
+    {
+        "name": "Château de Rambouillet",
+        "url": "https://www.chateau-rambouillet.fr/",
+        "short_description": "Entrez dans l’intimité de l’un des séjours favoris des princes, rois, et présidents de la République.",
+        "ticket_price": 11.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Le Château, la Laiterie de la Reine et la Chaumière sont ouverts tous les jours sauf les mardis.\nFermés le 1er janvier, le 1er mai et le 25 décembre\nHoraires du château\nDu 1er avril au 30 septembre\n10h - 12h et 13h30 - 18h\nDu 1er octobre au 31 mars\n10h - 12h et 13h30 - 17h\nHoraires de la Laiterie de la Reine et de la Chaumière aux coquillages\nDu 1er avril au 30 septembre\n10h - 12h et 13h30 - 18h\nDu 1er octobre au 31 mars\n13h30 - 17h\nHoraires du parc\nDu 1er avril au 30 septembre\n8h30 - 20h\nDu 1er octobre au 31 mars\n8h30 - 18h\nAccès libre au parc\n À noter :\nDernier accès dans les monuments et le parc, 30 minutes avant la fermeture.\nDu 20 novembre au 24 décembre, le parcours de visite du château accueillera les installations techniques et les décors du spectacle \"Le fabuleux Noël\". \n Fermetures exceptionnelles du château\nTous les weekends du 29 novembre au 21 décembre : visite du château uniquement dans le cadre du spectacle Le Fabuleux Noël. Laiterie et Chaumière fermées.\nLe lundi 22 décembre matin : fermeture du château pour le démontage des décors du spectacle Le Fabuleux Noël. \nLe samedi 30 mai matin : fermeture du château en raison d'un projet avec des scolaires (projet ACTE \"Art, Design et Diplomatie\")",
+        "payment_methods": [],
+        "address": "78120 Rambouillet",
+        "visiting_services": [
+            "Parkings gratuits et ombragés dans le parc, à 5 minutes à pied du château.",
+            "1200 mètres séparent le château de la Laiterie de la Reine. Prévoir ensuite quelques minutes de marche à travers le Jardin anglais pour vous rendre à la Chaumière aux coquillages.",
+            "Librairie-boutique dans le château.",
+            "Toilettes au château uniquement",
+            "Le château est situé en cœur de ville, à proximité immédiate de nombreux commerces et points de restauration",
+            "Pas de consignes. Grands sacs et valises non-autorisés. Les sacs à dos sont portés sur le ventre pendant toute la durée de la visite.",
+            "Poussette et porte-bébé dorsal de randonnée non-autorisés en intérieur. Attention, pas de local de stockage. Prévoir un porte-bébé ventral.",
+            "Chiens tenus en laisse dans le parc. Non autorisés dans les monuments, hors chiens guides.",
+            "Photos autorisées sans flash dans les monuments.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 11 €"
+    },
+    {
+        "name": "Château de Carrouges",
+        "url": "https://www.chateau-carrouges.fr/",
+        "short_description": "Une demeure de prestige, une histoire de famille !",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - 26 ans",
+        "opening_hours": "De janvier à avril :\nChâteau : 10h - 12h30 et 14h - 17h\nParc : 10h - 17h\nDe mai à août : \nChâteau : 10h - 12h45 et 14h - 18h\nParc : 10h - 18h\nDe septembre à décembre :\nChâteau : 10h - 12h30 et 14h - 17h\nParc : 10h - 17h\nLes 24 et 31 décembre : fermeture à 16h.\nÀ noter : dernier accès 30 min avant la fermeture.\nOuvert tous les jours sauf 1er janvier, 1er mai , 1er et 11 novembre et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "61320 Carrouges",
+        "visiting_services": [
+            "Le Parc, la cour intérieure du château, les salles basses du donjon, les salles de chasse ainsi que certaines expositions sont accessibles gratuitement et librement.",
+            "Pour les groupes, une réservation en avance peut être nécessaire pour accéder au monument et/ou aux expositions temporaires. Consultez les onglets dédiés aux groupes.",
+            "Les animaux tenus en laisse sont autorisés dans le Parc. Dans le château, seuls les chiens-guides et animaux d'assistance sont autorisés.",
+            "Les chiens sont exceptionnellement interdits sur tout le domaine au cours de la journée événement annuelle \"A cor et à cri\".",
+            "Le Château de Carrouges n'est pas ou que peu chauffé. Prévoyez une tenue adaptée",
+            "Une librairie-boutique vous attend pour rapporter un souvenir, trouver un livre sur le château ou juste vous faire plaisir !",
+            "Les poussettes sont autorisées dans le Parc",
+            "Les photos sont autorisées dans le château (sans flash)",
+            "Le château est équipé de toilettes avec un espace change-bébé",
+            "Il est interdit de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument, en application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac"
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Château d'Aulteribe",
+        "url": "https://www.chateau-aulteribe.fr/",
+        "short_description": "Découvrez une architecture médiévale restaurée à l'époque romantique.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Visite uniquement commentée\nDu 15 mai au 15 septembre \n10h - 12h30 et 14h - 18h30\nVisite uniquement guidée : 10h15 ; 11h15 ; 14h15 ; 15h15 ; 16h15 ; 17h15\nFermé les lundis\nDu 16 septembre au 14 mai  \n10h - 12h30 et 14h-17h30\nVisite uniquement guidée : 10h30 ; 14h30 ; 16h\nFermé les lundis \nFermé les mardis sauf pour les groupes\nÀ noter : Accès libre au parc jusqu'à 19h30.\n\nFermeture les 1er janvier, 1er mai, 1 et 11 novembre, 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "63120 Sermentizon",
+        "visiting_services": [
+            "Photos autorisées sans flash dans le monument",
+            "Chiens interdits sauf chiens guides, Chiens tenus en laisse autorisé dans le parc",
+            "Interdit de toucher les œuvres dans le château",
+            "Poussettes autorisées",
+            "Grands sacs et valises à roulettes interdites",
+            "Nourriture interdite dans l'enceinte du monument",
+            "Interdiction de fumer sur l'ensemble du site, tant à l'intérieur qu'à l'extérieur du monument. En application du décret n°2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Trophée d'Auguste",
+        "url": "https://www.trophee-auguste.fr/",
+        "short_description": "Découvrez le trophée d'Auguste, un des rares édifices de ce type encore conservés aujourd'hui.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Ouvert tous les jours sauf le lundi\nDu 2 mai au 31 août\n10h - 18h\nDu 1er septembre au 30 avril\n10h - 13h et 14h - 17h\nÀ noter : dernier accès 30 minutes avant la fermeture\nFermeture les 1er janvier, 1er mai, 1er et 11 novembre, 25 décembre\nFermeture anticipée à 15h30 les 24 et 31 décembre",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Cours Albert 1er, 06320 La Turbie",
+        "visiting_services": [
+            "Librairie-boutique",
+            "Toilettes à l'extérieur du site, place de la Crémaillère",
+            "Interdit aux chiens (sauf chiens guides et d'assistance autorisés)",
+            "Pique - nique et jeux de ballons interdits",
+            "Le site ne dispose pas de consigne. Les bagages ne sont pas autorisés.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Site gallo-romain de Sanxay",
+        "url": "https://www.site-galloromain-de-sanxay.fr/",
+        "short_description": "Découvrez le site archéologique de Sanxay, l'une des villes gallo-romaines majeures de l’antique province d'Aquitaine, occupée du Ier au IVe siècle de notre ère.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Du 16 septembre au 14 mai\n10h - 13h et 14h - 17h\nFermé le lundi et le mardi\nDu 15 mai au 15 septembre \n10h - 13h et 14h - 18h\nFermé le lundi\nÀ noter : dernier accès au monument 1h avant la fermeture.\nFermeture annuelle les 1er janvier, 1er mai, 1er novembre, 11 novembre et 25 décembre, ainsi que les deux premières semaines du mois de janvier après les vacances scolaires.\nFermetures exceptionnelles : jeudi 4 décembre, vendredi 12 décembre, jeudi 17 décembre et vendredi 19 décembre toute la journée.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV)"
+        ],
+        "address": "Route de Ménigoute, 86600 Sanxay, Tél : 05 49 53 61 48, galloromain.sanxay@monuments-nationaux.fr",
+        "visiting_services": [
+            "Possibilité de repos au cours de la visite et à l'extérieur.",
+            "Pique-nique possible sur le site du 15 mai au 15 septembre de 10h à 18h.",
+            "Librairie-boutique.",
+            "Les valises et les gros sacs de randonnées sont interdits. Les petits sacs (dimensions inférieures au format cabine) sont autorisés.",
+            "Les animaux ne sont pas autorisés, même dans un sac de transport, à l’exception des chiens guides pour les personnes non voyantes ou d’assistance.",
+            "Interdiction de fumer sur l’ensemble du site, tant à l’intérieur qu’à l’extérieur du monument. En application du décret n° 2025-582 du 27 juin 2025 relatif aux espaces sans tabac, les lieux collectifs extérieurs où enfants et adolescents peuvent être présents ou exposés, notamment les parcs et jardins publics, deviennent des espaces sans tabac."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Arc de triomphe",
+        "url": "https://www.paris-arc-de-triomphe.fr/",
+        "short_description": "En haut des Champs-Élysées, sur la place de l’Étoile, visitez l’Arc de triomphe, symbole national.",
+        "ticket_price": 16.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans.",
+        "opening_hours": "Du 1er avril au 30 septembre\nDu mercredi au lundi 10h - 23h\nLes mardis 11h - 23h\nDu 1er octobre au 31 mars\nDu mercredi au lundi 10h - 22h30\nLes mardis 11h - 22h30\nÀ noter : dernier accès au monument, 45 minutes avant la fermeture.\nAccès libre à la Tombe du Soldat inconnu. \nOuvertures exceptionnelles le 25 décembre 2025 et 1er janvier 2026, de 10h à 17h30 (dernier accès à 16h30).",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture (UP)",
+            "chèque-vacances (ANCV)",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "Place Charles de Gaulle, 75008 Paris",
+        "visiting_services": [
+            "Escaliers de 284 marches pour accéder à la terrasse. Un ascenseur est disponible uniquement aux personnes en ayant le besoin, sans nécessité de réserver au préalable.",
+            "Bagage maximum autorisé : 40x40x20cm.",
+            "Pas de consigne au monument mais l'office du tourisme de Paris répertorie tous les lieux de consignes et bagages dans la capitale.",
+            "Poussettes interdites à l’intérieur du monument. Il est toutefois possible de la déposer aux agents du contrôle d’accès et de la récupérer à la fin de votre visite.",
+            "Chiens interdits, à l'exception des chiens guides accompagnant les personnes malvoyantes.",
+            "Objets interdits dans le monument : drapeaux, banderoles, perche à selfie, trépied, trottinettes, rollers, objets tranchants, bouteilles en verre, armes."
+        ],
+        "ticket_price_raw": "Tarif : 16 €"
+    },
+    {
+        "name": "Domaine national du Palais-Royal",
+        "url": "https://www.domaine-palais-royal.fr/",
+        "short_description": "Au cœur de Paris, face au Louvre, visitez un \"village dans la ville\".",
+        "ticket_price": 0.0,
+        "ticket_price_conditions": null,
+        "opening_hours": "Du 1er avril au 30 septembre \n8h - 22h30\nDu 1er octobre au 31 mars\n8h - 20h30",
+        "payment_methods": [],
+        "address": "8 rue Montpensier, 75001 Paris",
+        "visiting_services": [],
+        "ticket_price_raw": "Not found"
+    },
+    {
+        "name": "Maison des Jardies",
+        "url": "https://www.maison-des-jardies.fr/",
+        "short_description": "À Sèvres, visitez la maison des Jardies, liée au souvenir de deux grands hommes : Balzac et Gambetta.",
+        "ticket_price": 7.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans",
+        "opening_hours": "Ouvert les mercredis, les jeudis et un week-end sur deux (sauf exception).\nVisite commentée à 14h30, puis visite libre de 16h à 18h30.\nÀ noter : dernier accès au monument 30 minutes avant la fermeture.\nFermé les 1er janvier, 1er mai et 25 décembre.\nPour découvrir les jours et horaires d'ouverture de la maison des Jardies, rendez-vous dans l'agenda.",
+        "payment_methods": [],
+        "address": "14, avenue Gambetta, 92310 Sèvres",
+        "visiting_services": [
+            "Poussettes non autorisées.",
+            "Photos autorisées sans flash.",
+            "Des consignes sont à disposition.",
+            "La maison comporte des escaliers et ne dispose pas d'ascenseur."
+        ],
+        "ticket_price_raw": "Tarif : 7 €"
+    },
+    {
+        "name": "Château de Voltaire",
+        "url": "https://www.chateau-ferney-voltaire.fr/",
+        "short_description": "Découvrez le château où Voltaire passa les vingt dernières années de sa vie.",
+        "ticket_price": 9.0,
+        "ticket_price_conditions": "Gratuit pour les - de 26 ans de l'UE",
+        "opening_hours": "Ouvert tous les jours\nDu 1er octobre au 31 mars\n10h - 17h\nDu 1er avril au 30 septembre\n10h - 18h\n\nAttention : dernier accès au monument 45 minutes avant la fermeture. Évacuation 15 minutes avant la fermeture.\nFermeture les 1er janvier, 1er mai et 25 décembre.",
+        "payment_methods": [
+            "espèces",
+            "cartes bancaires",
+            "chèque",
+            "chèque Culture",
+            "chèque-vacances (ANCV) - monnaie non rendue",
+            "chèque Lire (uniquement en boutique)"
+        ],
+        "address": "1, allée du Château, 01210 Ferney-Voltaire",
+        "visiting_services": [],
+        "ticket_price_raw": "Tarif : 9 €"
+    }
+]
