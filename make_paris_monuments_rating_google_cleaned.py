@@ -11,8 +11,9 @@ INPUT_FILES = [
 ]
 
 OUT_STEM = "paris_monuments_rating_google_cleaned"
-OUT_CSV = Path(f"{OUT_STEM}.csv")
-OUT_JSON = Path(f"{OUT_STEM}.json")
+OUT_DIR = Path("./data_googleMap")
+OUT_CSV = OUT_DIR / f"{OUT_STEM}.csv"
+OUT_JSON = OUT_DIR / f"{OUT_STEM}.json"
 
 
 def to_numeric(series: pd.Series) -> pd.Series:
@@ -30,6 +31,8 @@ def main() -> None:
     missing = [str(p) for p in INPUT_FILES if not p.exists()]
     if missing:
         raise FileNotFoundError("Missing input files:\n  - " + "\n  - ".join(missing))
+
+    OUT_DIR.mkdir(parents=True, exist_ok=True)  # <-- added (optional but safe)
 
     frames = []
     for p in INPUT_FILES:
