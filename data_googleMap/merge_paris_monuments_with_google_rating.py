@@ -15,9 +15,9 @@ not_found = []
 
 
 # Paths
-GOOGLE_CSV = Path("./data_googleMap/paris_monuments_rating_google_cleaned.csv")
-FR_CSV     = Path("./paris_monuments_cleaned.csv")
-EN_CSV     = Path("./paris_monuments_translated.csv")
+GOOGLE_CSV = Path("./paris_monuments_rating_google_cleaned.csv")
+FR_CSV     = Path("../paris_monuments_cleaned.csv")
+EN_CSV     = Path("../paris_monuments_translated.csv")
 
 OUT_CSV  = Path("./paris_monuments_merged.csv")
 OUT_JSON = Path("./paris_monuments_merged.json")

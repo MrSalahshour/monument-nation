@@ -5,13 +5,13 @@ import pandas as pd
 from pathlib import Path
 
 INPUT_FILES = [
-    Path("./data_googleMap/GoogleMap_Monument.csv"),
-    Path("./data_googleMap/GoogleMap_Museum.csv"),
-    Path("./data_googleMap/GoogleMap_TouristAttraction.csv"),
+    Path("./GoogleMap_Monument.csv"),
+    Path("./GoogleMap_Museum.csv"),
+    Path("./GoogleMap_TouristAttraction.csv"),
 ]
 
 OUT_STEM = "paris_monuments_rating_google_cleaned"
-OUT_DIR = Path("./data_googleMap")
+OUT_DIR = Path("./")
 OUT_CSV = OUT_DIR / f"{OUT_STEM}.csv"
 OUT_JSON = OUT_DIR / f"{OUT_STEM}.json"
 
