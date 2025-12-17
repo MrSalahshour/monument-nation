@@ -47,12 +47,15 @@ The pipeline performs the following steps:
 Run the scripts in the following order to execute the full pipeline.
 
 ### 1. Collect Monument Links
-Scrapes the main listing page to gather URLs for all available monuments.
+Scrapes the main listing page to gather URLs for all available monuments along with their geographic coordinates.
 ```bash
 python get_monument_links.py
-````
+```
 
-* **Output**: `monument_urls.txt`
+* **Output**: 
+  * `monument_urls.txt` - Plain text list of URLs (backward compatibility)
+  * `monument_urls_with_coords.json` - Structured JSON with name, URL, latitude, and longitude
+  * `monument_urls_with_coords.csv` - CSV format with monument names and coordinates
 
 ### 2. Extract Monument Details
 

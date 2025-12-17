@@ -1,0 +1,566 @@
+[
+    {
+        "name": "Abbaye de Beaulieu-en-Rouergue",
+        "url": "https://www.beaulieu-en-rouergue.fr/",
+        "latitude": 44.2101,
+        "longitude": 1.854
+    },
+    {
+        "name": "Abbaye de Charroux",
+        "url": "https://www.abbaye-charroux.fr/",
+        "latitude": 46.1437,
+        "longitude": 0.4046
+    },
+    {
+        "name": "Abbaye de Cluny",
+        "url": "https://www.cluny-abbaye.fr/",
+        "latitude": 46.4348,
+        "longitude": 4.658
+    },
+    {
+        "name": "Abbaye de La Sauve-Majeure",
+        "url": "https://www.abbaye-la-sauve-majeure.fr/",
+        "latitude": 44.7689,
+        "longitude": -0.3118
+    },
+    {
+        "name": "Abbaye de Montmajour",
+        "url": "https://www.abbaye-montmajour.fr/",
+        "latitude": 43.7056,
+        "longitude": 4.6639
+    },
+    {
+        "name": "Abbaye du Bec-Hellouin",
+        "url": "https://www.bec-hellouin.fr/",
+        "latitude": 49.230782,
+        "longitude": 0.722705
+    },
+    {
+        "name": "Abbaye du Mont-Saint-Michel",
+        "url": "https://www.abbaye-mont-saint-michel.fr/",
+        "latitude": 48.636,
+        "longitude": -1.5114
+    },
+    {
+        "name": "Abbaye du Thoronet",
+        "url": "https://www.le-thoronet.fr/",
+        "latitude": 43.460546,
+        "longitude": 6.263665
+    },
+    {
+        "name": "Alignements de Carnac",
+        "url": "https://www.menhirs-carnac.fr/",
+        "latitude": 47.5926,
+        "longitude": -3.0825
+    },
+    {
+        "name": "Arc de triomphe",
+        "url": "https://www.paris-arc-de-triomphe.fr/",
+        "latitude": 48.873532,
+        "longitude": 2.295953
+    },
+    {
+        "name": "Basilique cathédrale Saint-Denis",
+        "url": "https://www.saint-denis-basilique.fr/",
+        "latitude": 48.935461,
+        "longitude": 2.359835
+    },
+    {
+        "name": "Cairn de Barnenez",
+        "url": "https://www.barnenez.fr/",
+        "latitude": 48.6402,
+        "longitude": -3.8222
+    },
+    {
+        "name": "Cap Moderne, Eileen Gray et Le Corbusier au Cap Martin",
+        "url": "https://capmoderne.monuments-nationaux.fr/",
+        "latitude": 43.76,
+        "longitude": 7.45
+    },
+    {
+        "name": "Cathédrale de Besançon et son horloge astronomique",
+        "url": "https://www.horloge-astronomique-besancon.fr/",
+        "latitude": 47.237829,
+        "longitude": 6.024054
+    },
+    {
+        "name": "Cathédrale et trésor de Chartres",
+        "url": "https://www.chartres-cathedrale.fr/",
+        "latitude": 48.443854,
+        "longitude": 1.489012
+    },
+    {
+        "name": "Chapelle des moines de Berzé-la-Ville",
+        "url": "https://www.chapelle-des-moines.fr/",
+        "latitude": 46.3635,
+        "longitude": 4.7004
+    },
+    {
+        "name": "Chapelle expiatoire",
+        "url": "https://www.chapelle-expiatoire-paris.fr/",
+        "latitude": 48.8737,
+        "longitude": 2.323
+    },
+    {
+        "name": "Château d'Angers",
+        "url": "https://www.chateau-angers.fr/",
+        "latitude": 47.470071,
+        "longitude": -0.560073
+    },
+    {
+        "name": "Château d'Assier",
+        "url": "https://www.chateau-assier.fr/",
+        "latitude": 44.6748,
+        "longitude": 1.878194
+    },
+    {
+        "name": "Château d'Aulteribe",
+        "url": "https://www.chateau-aulteribe.fr/",
+        "latitude": 45.762662,
+        "longitude": 3.501037
+    },
+    {
+        "name": "Château d'Azay-le-Rideau",
+        "url": "https://www.azay-le-rideau.fr/",
+        "latitude": 47.260245,
+        "longitude": 0.466957
+    },
+    {
+        "name": "Château d'If",
+        "url": "https://www.chateau-if.fr/",
+        "latitude": 43.2798,
+        "longitude": 5.3251
+    },
+    {
+        "name": "Château d'Oiron",
+        "url": "https://www.chateau-oiron.fr/",
+        "latitude": 46.9518,
+        "longitude": -0.0774
+    },
+    {
+        "name": "Château de Bouges",
+        "url": "https://www.chateau-bouges.fr/",
+        "latitude": 47.0424,
+        "longitude": 1.6729
+    },
+    {
+        "name": "Château de Bussy-Rabutin",
+        "url": "https://www.chateau-bussy-rabutin.fr/",
+        "latitude": 47.5612,
+        "longitude": 4.525
+    },
+    {
+        "name": "Château de Carrouges",
+        "url": "https://www.chateau-carrouges.fr/",
+        "latitude": 48.5601,
+        "longitude": -0.1543
+    },
+    {
+        "name": "Château de Castelnau-Bretenoux",
+        "url": "https://www.castelnau-bretenoux.fr/",
+        "latitude": 44.8993,
+        "longitude": 1.8255
+    },
+    {
+        "name": "Château de Chareil-Cintrat",
+        "url": "https://www.chareil-cintrat.fr/",
+        "latitude": 46.261101,
+        "longitude": 3.231354
+    },
+    {
+        "name": "Château de Châteaudun",
+        "url": "https://www.chateau-chateaudun.fr/",
+        "latitude": 48.0704,
+        "longitude": 1.3277
+    },
+    {
+        "name": "Château de Coucy",
+        "url": "https://www.chateau-coucy.fr/",
+        "latitude": 49.5203,
+        "longitude": 3.3212
+    },
+    {
+        "name": "Château de Fougères-sur-Bièvre",
+        "url": "https://www.fougeres-sur-bievre.fr/",
+        "latitude": 47.447739,
+        "longitude": 1.343808
+    },
+    {
+        "name": "Château de Gramont",
+        "url": "https://www.chateau-gramont.fr/",
+        "latitude": 43.9366,
+        "longitude": 0.7676
+    },
+    {
+        "name": "Château de Haroué",
+        "url": "https://www.chateau-haroue.fr/",
+        "latitude": 48.46554,
+        "longitude": 6.181291
+    },
+    {
+        "name": "Château de La Motte Tilly",
+        "url": "https://www.chateau-la-motte-tilly.fr/",
+        "latitude": 48.467152,
+        "longitude": 3.431458
+    },
+    {
+        "name": "Château de Maisons",
+        "url": "https://www.chateau-maisons.fr/",
+        "latitude": 48.9475,
+        "longitude": 2.1532
+    },
+    {
+        "name": "Château de Montal",
+        "url": "https://www.chateau-montal.fr/",
+        "latitude": 44.8606,
+        "longitude": 1.8683
+    },
+    {
+        "name": "Château de Pierrefonds",
+        "url": "https://www.chateau-pierrefonds.fr/",
+        "latitude": 49.347,
+        "longitude": 2.9802
+    },
+    {
+        "name": "Château de Puyguilhem",
+        "url": "https://www.chateau-puyguilhem.fr/",
+        "latitude": 45.4258,
+        "longitude": 0.7449
+    },
+    {
+        "name": "Château de Rambouillet, Laiterie de la Reine et Chaumière aux coquillages",
+        "url": "https://www.chateau-rambouillet.fr/",
+        "latitude": 48.645413,
+        "longitude": 1.817324
+    },
+    {
+        "name": "Château de Talcy",
+        "url": "https://www.chateau-talcy.fr/",
+        "latitude": 47.769129,
+        "longitude": 1.444667
+    },
+    {
+        "name": "Château de Villeneuve-Lembron",
+        "url": "https://www.chateau-villeneuve-lembron.fr/",
+        "latitude": 45.478005,
+        "longitude": 3.185902
+    },
+    {
+        "name": "Château de Vincennes",
+        "url": "https://www.chateau-de-vincennes.fr/",
+        "latitude": 48.8426,
+        "longitude": 2.4355
+    },
+    {
+        "name": "Château de Voltaire à Ferney",
+        "url": "https://www.chateau-ferney-voltaire.fr/",
+        "latitude": 46.2576,
+        "longitude": 6.1035
+    },
+    {
+        "name": "Château ducal de Cadillac",
+        "url": "https://www.chateau-cadillac.fr/",
+        "latitude": 44.6377,
+        "longitude": -0.3196
+    },
+    {
+        "name": "Château et parc de Champs-sur-Marne",
+        "url": "https://www.chateau-champs-sur-marne.fr/",
+        "latitude": 48.8524,
+        "longitude": 2.6049
+    },
+    {
+        "name": "Château et parc de Jossigny",
+        "url": "https://www.chateau-jossigny.fr/",
+        "latitude": 48.835371,
+        "longitude": 2.753144
+    },
+    {
+        "name": "Château et remparts de la cité de Carcassonne",
+        "url": "https://www.remparts-carcassonne.fr/",
+        "latitude": 43.212161,
+        "longitude": 2.353663
+    },
+    {
+        "name": "Cité internationale de la langue française au château de Villers-Cotterêts",
+        "url": "https://www.cite-langue-francaise.fr/",
+        "latitude": 49.255846,
+        "longitude": 3.09185
+    },
+    {
+        "name": "Cloître de la Cathédrale de Bayonne",
+        "url": "https://www.cloitre-bayonne.fr/",
+        "latitude": 43.4903,
+        "longitude": -1.4773
+    },
+    {
+        "name": "Cloître de la cathédrale de Fréjus",
+        "url": "https://www.cloitre-frejus.fr/",
+        "latitude": 43.4332,
+        "longitude": 6.737
+    },
+    {
+        "name": "Cloître de la Psalette",
+        "url": "https://www.cloitre-de-la-psalette.fr/",
+        "latitude": 47.395566,
+        "longitude": 0.693857
+    },
+    {
+        "name": "Colonne de Juillet, place de la Bastille",
+        "url": "https://www.colonne-de-juillet.fr/",
+        "latitude": 48.8532,
+        "longitude": 2.3691
+    },
+    {
+        "name": "Colonne de la Grande Armée à Wimille",
+        "url": "https://www.colonne-grande-armee.fr/",
+        "latitude": 50.739895,
+        "longitude": 1.618385
+    },
+    {
+        "name": "Conciergerie",
+        "url": "https://www.paris-conciergerie.fr/",
+        "latitude": 48.8562,
+        "longitude": 2.3458
+    },
+    {
+        "name": "Crypte et tour de la cathédrale de Bourges",
+        "url": "https://www.bourges-cathedrale.fr/",
+        "latitude": 47.0824,
+        "longitude": 2.3985
+    },
+    {
+        "name": "Domaine national de Saint-Cloud",
+        "url": "https://www.domaine-saint-cloud.fr/",
+        "latitude": 48.83375,
+        "longitude": 2.196465
+    },
+    {
+        "name": "Domaine national du Palais-Royal",
+        "url": "https://www.domaine-palais-royal.fr/",
+        "latitude": 48.865174,
+        "longitude": 2.33699
+    },
+    {
+        "name": "Ensemble cathédral du Puy-En-Velay",
+        "url": "https://www.cathedrale-puy-en-velay.fr/",
+        "latitude": 45.0458,
+        "longitude": 3.884699
+    },
+    {
+        "name": "Ensérune, oppidum et musée archéologique",
+        "url": "https://www.enserune.fr/",
+        "latitude": 43.3103,
+        "longitude": 3.1152
+    },
+    {
+        "name": "Fort Saint-André à Villeneuve-lez-Avignon",
+        "url": "https://www.fort-saint-andre.fr/",
+        "latitude": 43.966073,
+        "longitude": 4.801176
+    },
+    {
+        "name": "Forteresse de Salses",
+        "url": "https://www.forteresse-salses.fr/",
+        "latitude": 42.83963,
+        "longitude": 2.918754
+    },
+    {
+        "name": "Grotte de Pair-non-Pair",
+        "url": "https://www.pair-non-pair.fr/",
+        "latitude": 45.0396,
+        "longitude": -0.5019
+    },
+    {
+        "name": "Hôtel de la Marine",
+        "url": "https://www.hotel-de-la-marine.paris/",
+        "latitude": 48.866679,
+        "longitude": 2.322897
+    },
+    {
+        "name": "Hôtel de Sade",
+        "url": "https://www.hotel-de-sade.fr/",
+        "latitude": 43.7891,
+        "longitude": 4.831
+    },
+    {
+        "name": "Hôtel de Sully",
+        "url": "https://www.hotel-de-sully.fr/",
+        "latitude": 48.854403,
+        "longitude": 2.363695
+    },
+    {
+        "name": "Maison d'Ernest Renan à Tréguier",
+        "url": "https://www.maison-ernest-renan.fr/",
+        "latitude": 48.788,
+        "longitude": -3.2292
+    },
+    {
+        "name": "Maison de George Sand à Nohant",
+        "url": "https://www.maison-george-sand.fr/",
+        "latitude": 46.625,
+        "longitude": 1.9753
+    },
+    {
+        "name": "Maison de Georges Clemenceau à Saint-Vincent-sur-Jard",
+        "url": "https://www.maison-de-clemenceau.fr/",
+        "latitude": 46.406892,
+        "longitude": -1.546952
+    },
+    {
+        "name": "Maison des Jardies à Sèvres",
+        "url": "https://www.maison-des-jardies.fr/",
+        "latitude": 48.8272,
+        "longitude": 2.1988
+    },
+    {
+        "name": "Monastère de Saorge",
+        "url": "https://www.monastere-saorge.fr/",
+        "latitude": 43.9885,
+        "longitude": 7.552
+    },
+    {
+        "name": "Monastère royal de Brou à Bourg-en-Bresse",
+        "url": "https://www.monastere-de-brou.fr/",
+        "latitude": 46.1968,
+        "longitude": 5.2377
+    },
+    {
+        "name": "Palais du Tau à Reims",
+        "url": "https://www.palais-du-tau.fr/",
+        "latitude": 49.2528,
+        "longitude": 4.0335
+    },
+    {
+        "name": "Palais Jacques Cœur",
+        "url": "https://www.palais-jacques-coeur.fr/",
+        "latitude": 47.0843,
+        "longitude": 2.3938
+    },
+    {
+        "name": "Panthéon",
+        "url": "https://www.paris-pantheon.fr/",
+        "latitude": 48.846198,
+        "longitude": 2.3464
+    },
+    {
+        "name": "Sainte-Chapelle",
+        "url": "https://www.sainte-chapelle.fr/",
+        "latitude": 48.8554,
+        "longitude": 2.345
+    },
+    {
+        "name": "Site archéologique de Glanum",
+        "url": "https://www.site-glanum.fr/",
+        "latitude": 43.773645,
+        "longitude": 4.833116
+    },
+    {
+        "name": "Site des mégalithes de Locmariaquer",
+        "url": "https://www.site-megalithique-locmariaquer.fr/",
+        "latitude": 47.5727,
+        "longitude": -2.9564
+    },
+    {
+        "name": "Site gallo-romain de Sanxay",
+        "url": "https://www.site-galloromain-de-sanxay.fr/",
+        "latitude": 46.4935,
+        "longitude": -0.0229
+    },
+    {
+        "name": "Sites et musée archéologiques de Montmaurin",
+        "url": "https://www.montmaurin-archeo.fr/",
+        "latitude": 43.2243,
+        "longitude": 0.6366
+    },
+    {
+        "name": "Sites préhistoriques de la vallée de la Vézère",
+        "url": "https://www.sites-les-eyzies.fr/",
+        "latitude": 44.9361,
+        "longitude": 1.0136
+    },
+    {
+        "name": "Tour Pey-Berland à Bordeaux",
+        "url": "https://www.pey-berland.fr/",
+        "latitude": 44.8376,
+        "longitude": -0.5765
+    },
+    {
+        "name": "Tours de la cathédrale de Reims",
+        "url": "https://www.cathedrale-reims.fr/",
+        "latitude": 49.2534,
+        "longitude": 4.033
+    },
+    {
+        "name": "Tours de la cathédrale Notre-Dame de Paris",
+        "url": "https://www.tours-notre-dame-de-paris.fr/",
+        "latitude": 48.853025,
+        "longitude": 2.350115
+    },
+    {
+        "name": "Tours de La Rochelle",
+        "url": "https://www.tours-la-rochelle.fr/",
+        "latitude": 46.1553,
+        "longitude": -1.1527
+    },
+    {
+        "name": "Tours et remparts d'Aigues-Mortes",
+        "url": "https://www.aigues-mortes-monument.fr/",
+        "latitude": 43.5672,
+        "longitude": 4.1926
+    },
+    {
+        "name": "Tours et trésor de la cathédrale d'Amiens",
+        "url": "https://www.cathedrale-amiens.fr/",
+        "latitude": 49.895,
+        "longitude": 2.302222
+    },
+    {
+        "name": "Trophée d'Auguste à la Turbie",
+        "url": "https://www.trophee-auguste.fr/",
+        "latitude": 43.7454,
+        "longitude": 7.4007
+    },
+    {
+        "name": "Trésor de la cathédrale d'Autun",
+        "url": "https://www.tresor-cathedrale-autun.fr/",
+        "latitude": 46.944918,
+        "longitude": 4.299149
+    },
+    {
+        "name": "Trésor de la cathédrale de Lyon",
+        "url": "https://www.tresor-cathedrale-lyon.fr/",
+        "latitude": 45.7614,
+        "longitude": 4.8285
+    },
+    {
+        "name": "Villa Cavrois",
+        "url": "https://www.villa-cavrois.fr/",
+        "latitude": 50.6667,
+        "longitude": 3.16403
+    },
+    {
+        "name": "Villa gallo-romaine de Montcaret",
+        "url": "https://www.villa-montcaret.fr/",
+        "latitude": 44.8556,
+        "longitude": 0.0657
+    },
+    {
+        "name": "Villa Kérylos",
+        "url": "https://www.villakerylos.fr/",
+        "latitude": 43.704161,
+        "longitude": 7.333819
+    },
+    {
+        "name": "Villa Savoye à Poissy",
+        "url": "https://www.villa-savoye.fr/",
+        "latitude": 48.924425,
+        "longitude": 2.02828
+    },
+    {
+        "name": "Village fortifié Mont-Dauphin",
+        "url": "https://www.village-fortifie-montdauphin.fr/",
+        "latitude": 44.6698,
+        "longitude": 6.6245
+    }
+]

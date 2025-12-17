@@ -1,4 +1,6 @@
 import time
+import json
+import csv
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -11,7 +13,7 @@ def get_links():
     options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     
-    monument_urls = []
+    monument_data = []
 
     try:
         url = "https://www.monuments-nationaux.fr/trouver-un-monument"
@@ -40,7 +42,7 @@ def get_links():
             last_height = new_height
             print(f" Scrolled batch {i+1}")
 
-        # EXTRACT LINKS
+        # EXTRACT LINKS WITH COORDINATES
         # We target the specific class we found : 'card-tour'
         cards = driver.find_elements(By.CLASS_NAME, "card-tour")
         
@@ -52,21 +54,52 @@ def get_links():
                 link_element = card.find_element(By.TAG_NAME, "a")
                 link_url = link_element.get_attribute("href")
                 
+                # Extract latitude and longitude from the card div's data attributes
+                latitude = card.get_attribute("data-latitude")
+                longitude = card.get_attribute("data-longitude")
+                monument_name = card.get_attribute("data-name")
+                
                 # Basic cleanup
                 if link_url and "http" in link_url:
-                    monument_urls.append(link_url)
-            except:
+                    monument_data.append({
+                        "name": monument_name if monument_name else "Unknown",
+                        "url": link_url,
+                        "latitude": float(latitude) if latitude else None,
+                        "longitude": float(longitude) if longitude else None
+                    })
+            except Exception as e:
+                print(f" -> Warning: Could not extract data from card: {e}")
                 continue
 
-        # Remove duplicates
-        monument_urls = list(set(monument_urls))
-        print(f" -> Successfully extracted {len(monument_urls)} unique monument URLs.")
+        # Remove duplicates based on URL
+        seen_urls = set()
+        unique_monuments = []
+        for monument in monument_data:
+            if monument["url"] not in seen_urls:
+                seen_urls.add(monument["url"])
+                unique_monuments.append(monument)
+        
+        monument_data = unique_monuments
+        print(f" -> Successfully extracted {len(monument_data)} unique monuments with coordinates.")
 
-        # SAVE TO FILE
+        # SAVE TO TEXT FILE (for backward compatibility)
         with open("monument_urls.txt", "w", encoding="utf-8") as f:
-            for link in monument_urls:
-                f.write(link + "\n")
-        print(" -> Saved links to 'monument_urls.txt'")
+            for monument in monument_data:
+                f.write(monument["url"] + "\n")
+        print(" -> Saved URLs to 'monument_urls.txt'")
+
+        # SAVE TO JSON FILE
+        with open("monument_urls_with_coords.json", "w", encoding="utf-8") as f:
+            json.dump(monument_data, f, ensure_ascii=False, indent=4)
+        print(" -> Saved data to 'monument_urls_with_coords.json'")
+
+        # SAVE TO CSV FILE
+        with open("monument_urls_with_coords.csv", "w", newline='', encoding="utf-8") as f:
+            fieldnames = ["name", "url", "latitude", "longitude"]
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(monument_data)
+        print(" -> Saved data to 'monument_urls_with_coords.csv'")
 
     except Exception as e:
         print(f"CRITICAL ERROR: {e}")
