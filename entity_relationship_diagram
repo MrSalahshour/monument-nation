@@ -1,0 +1,329 @@
+// Monuments Database Schema
+digraph ERD {
+	nodesep=0.8 rankdir=LR ranksep=1.0 splines=ortho
+	node [fontname=Helvetica shape=plaintext]
+	attraction [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+            <TR><TD COLSPAN="2" BGCOLOR="#2c3e50"><FONT COLOR="white"><B>ATTRACTION</B></FONT></TD></TR>
+            
+                <TR>
+                    <TD PORT="id" ALIGN="LEFT" BGCOLOR="#e1f5fe"><B>id 🔑</B></TD>
+                    <TD ALIGN="RIGHT" BGCOLOR="#e1f5fe"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="name" ALIGN="LEFT">name</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="url" ALIGN="LEFT">url</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="opening_hours" ALIGN="LEFT">opening_hours</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="address" ALIGN="LEFT">address</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="city" ALIGN="LEFT">city</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="category" ALIGN="LEFT">category</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="lat" ALIGN="LEFT">lat</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">REAL</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="lng" ALIGN="LEFT">lng</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">REAL</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="description" ALIGN="LEFT">description</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="wiki_url" ALIGN="LEFT">wiki_url</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="google_rating" ALIGN="LEFT">google_rating</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">REAL</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="google_votes_count" ALIGN="LEFT">google_votes_count</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="website" ALIGN="LEFT">website</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="phone" ALIGN="LEFT">phone</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+        </TABLE>>]
+	national_monument [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+            <TR><TD COLSPAN="2" BGCOLOR="#2c3e50"><FONT COLOR="white"><B>NATIONAL_MONUMENT</B></FONT></TD></TR>
+            
+                <TR>
+                    <TD PORT="id" ALIGN="LEFT" BGCOLOR="#e1f5fe"><B>id 🔑</B></TD>
+                    <TD ALIGN="RIGHT" BGCOLOR="#e1f5fe"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="attraction_id" ALIGN="LEFT">attraction_id</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="ticket_price" ALIGN="LEFT">ticket_price</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="visiting_services" ALIGN="LEFT">visiting_services</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="ticket_price_raw" ALIGN="LEFT">ticket_price_raw</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="advertising_title" ALIGN="LEFT">advertising_title</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="price_conditions" ALIGN="LEFT">price_conditions</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="payment_methods" ALIGN="LEFT">payment_methods</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+        </TABLE>>]
+	google_maps_metadata [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+            <TR><TD COLSPAN="2" BGCOLOR="#2c3e50"><FONT COLOR="white"><B>GOOGLE_MAPS_METADATA</B></FONT></TD></TR>
+            
+                <TR>
+                    <TD PORT="place_id" ALIGN="LEFT" BGCOLOR="#e1f5fe"><B>place_id 🔑</B></TD>
+                    <TD ALIGN="RIGHT" BGCOLOR="#e1f5fe"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="monument_id" ALIGN="LEFT">monument_id</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="name" ALIGN="LEFT">name</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="status" ALIGN="LEFT">status</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="lat" ALIGN="LEFT">lat</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">REAL</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="lng" ALIGN="LEFT">lng</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">REAL</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="price_level" ALIGN="LEFT">price_level</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="address" ALIGN="LEFT">address</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="city" ALIGN="LEFT">city</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="map_url" ALIGN="LEFT">map_url</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="opening_hours" ALIGN="LEFT">opening_hours</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+        </TABLE>>]
+	google_reviews [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+            <TR><TD COLSPAN="2" BGCOLOR="#2c3e50"><FONT COLOR="white"><B>GOOGLE_REVIEWS</B></FONT></TD></TR>
+            
+                <TR>
+                    <TD PORT="id" ALIGN="LEFT" BGCOLOR="#e1f5fe"><B>id 🔑</B></TD>
+                    <TD ALIGN="RIGHT" BGCOLOR="#e1f5fe"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="place_id" ALIGN="LEFT">place_id</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="author_name" ALIGN="LEFT">author_name</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="rating" ALIGN="LEFT">rating</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="text" ALIGN="LEFT">text</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="language" ALIGN="LEFT">language</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="original_language" ALIGN="LEFT">original_language</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="timestamp" ALIGN="LEFT">timestamp</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="author_url" ALIGN="LEFT">author_url</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+        </TABLE>>]
+	foursquare_data [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+            <TR><TD COLSPAN="2" BGCOLOR="#2c3e50"><FONT COLOR="white"><B>FOURSQUARE_DATA</B></FONT></TD></TR>
+            
+                <TR>
+                    <TD PORT="Tourpedia_id" ALIGN="LEFT" BGCOLOR="#e1f5fe"><B>Tourpedia_id 🔑</B></TD>
+                    <TD ALIGN="RIGHT" BGCOLOR="#e1f5fe"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="monument_id" ALIGN="LEFT">monument_id</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="original_id" ALIGN="LEFT">original_id</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="Foursquare_url" ALIGN="LEFT">Foursquare_url</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="Foursquare_users_count" ALIGN="LEFT">Foursquare_users_count</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="Foursquare_checkins_count" ALIGN="LEFT">Foursquare_checkins_count</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="Foursquare_tip_count" ALIGN="LEFT">Foursquare_tip_count</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="Foursquare_likes" ALIGN="LEFT">Foursquare_likes</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+        </TABLE>>]
+	foursquare_reviews [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+            <TR><TD COLSPAN="2" BGCOLOR="#2c3e50"><FONT COLOR="white"><B>FOURSQUARE_REVIEWS</B></FONT></TD></TR>
+            
+                <TR>
+                    <TD PORT="id" ALIGN="LEFT" BGCOLOR="#e1f5fe"><B>id 🔑</B></TD>
+                    <TD ALIGN="RIGHT" BGCOLOR="#e1f5fe"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="Tourpedia_id" ALIGN="LEFT">Tourpedia_id</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="language" ALIGN="LEFT">language</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="polarity" ALIGN="LEFT">polarity</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">REAL</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="text" ALIGN="LEFT">text</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="time" ALIGN="LEFT">time</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="words_count" ALIGN="LEFT">words_count</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">INTEGER</FONT></TD>
+                </TR>
+                
+                <TR>
+                    <TD PORT="tokenized_text_url" ALIGN="LEFT">tokenized_text_url</TD>
+                    <TD ALIGN="RIGHT"><FONT POINT-SIZE="10" COLOR="gray">TEXT</FONT></TD>
+                </TR>
+                
+        </TABLE>>]
+	national_monument:attraction_id -> attraction:id [label="" arrowtail=crow color="#7f8c8d" dir=both]
+	google_maps_metadata:monument_id -> attraction:id [label="" arrowtail=crow color="#7f8c8d" dir=both]
+	google_reviews:place_id -> google_maps_metadata:place_id [label="" arrowtail=crow color="#7f8c8d" dir=both]
+	foursquare_data:monument_id -> attraction:id [label="" arrowtail=crow color="#7f8c8d" dir=both]
+	foursquare_reviews:Tourpedia_id -> foursquare_data:Tourpedia_id [label="" arrowtail=crow color="#7f8c8d" dir=both]
+}
