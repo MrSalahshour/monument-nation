@@ -87,16 +87,6 @@ python translate_dataset.py
 
 * **Output**: `paris_monuments_translated.json`, `paris_monuments_translated.csv`
 
-### 5. Create Database
-
-Creates a SQLite database with a normalized schema (separating payment methods) and inserts the translated data.
-
-```bash
-python create_database.py
-```
-
-* **Output**: `paris_monuments.db`
-
 ---
 
 ## Part 2: Google Maps Ratings Enrichment
@@ -192,31 +182,174 @@ python redirect_llm_verification.py
 
 ---
 
+## Part 4: Comprehensive Database Creation & Analytics
+
+This section integrates all collected data sources into a single relational SQLite database with proper schema design, foreign key relationships, and analytical views.
+
+### 10. Create Comprehensive Database
+
+Merges data from multiple sources (National Monuments, Google Maps, Wikipedia, Foursquare) into a normalized relational database.
+
+```bash
+python create_database.py
+```
+
+* **Input**:
+  * `merged_datasets/with_coords/with_google_map_url_city_opening_hour/france_monuments.csv`
+  * `merged_datasets/with_coords/with_google_map_url_city_opening_hour/google_maps_data_cleaned.csv`
+  * `merged_datasets/with_coords/with_google_map_url_city_opening_hour/google_maps_reviews_cleaned.csv`
+  * `paris_monuments_wiki_llm_verified.csv`
+  * `merged_datasets/Tourpedia_Foursquare_data.csv`
+  * `merged_datasets/Tourpedia_Foursquare_reviews.csv`
+* **Output**: `monuments_database.db`
+
+**Database Tables Created**:
+1. **`attraction`** - Main table with monument info (name, location, ratings, Wikipedia data)
+2. **`national_monument`** - National monument-specific data (tickets, services, payment methods)
+3. **`google_maps_metadata`** - Detailed Google Maps metadata (place_id, price_level, status)
+4. **`google_reviews`** - Individual Google Maps reviews with ratings and text
+5. **`foursquare_data`** - Foursquare engagement metrics (checkins, likes, tips)
+6. **`foursquare_reviews`** - Foursquare reviews with sentiment analysis
+
+**Key Features**:
+- Proper foreign key relationships with referential integrity
+- Merges Wikipedia descriptions and categories for verified monuments
+- Links Google ratings and Foursquare engagement data
+- Handles missing data gracefully with LEFT JOINs
+- Deduplicates records to avoid conflicts
+
+### 11. Create Analytical Views
+
+Generates pre-built SQL views for common analytical queries and data exploration.
+
+```bash
+python create_db_views.py
+```
+
+* **Input**: `monuments_database.db`
+* **Output**: 5 analytical views added to the database
+
+**Views Created**:
+
+1. **`view_comprehensive_popularity`**
+   - Combines Google votes and Foursquare checkins
+   - Identifies "Megastar" monuments with highest total engagement
+
+2. **`view_hidden_gems`**
+   - High-rated monuments (≥4.5 stars) with low visibility (<500 votes)
+   - Perfect for discovering underrated attractions
+
+3. **`view_category_performance`**
+   - Aggregates metrics by monument category
+   - Shows average ratings, total votes, and checkins per category
+
+4. **`view_price_vs_quality`**
+   - Correlates Google price levels with ratings
+   - Helps identify value-for-money attractions
+
+5. **`view_national_monument_prestige`**
+   - Focuses on official National Monuments
+   - Shows ticket prices, services, and popularity metrics
+
+### 12. Database Quality Check
+
+Performs comprehensive data quality analysis and generates visual reports as PNG images.
+
+```bash
+python db_quality_check.py
+```
+
+* **Input**: `monuments_database.db`
+* **Output**: Multiple PNG reports in `qa_reports/` folder
+
+**Quality Checks Performed**:
+
+1. **Database Overview** (`00_db_overview.png`)
+   - Row counts and column counts for each table
+
+2. **Completeness Reports** (per table)
+   - Missing value counts and percentages
+   - Identifies data gaps that need attention
+
+3. **Referential Integrity** (`integrity_check.png`)
+   - Validates all foreign key relationships
+   - Detects orphan records (PASS/FAIL status)
+
+4. **Statistical Reports**
+   - Distribution analysis for numeric fields (ratings, votes, coordinates)
+   - Detects negative values and outliers
+   - Summary statistics (mean, median, min, max, std)
+
+5. **Categorical Distribution**
+   - Top 15 monument categories by frequency
+   - Price level distribution from Google Maps
+
+**Dependencies**: Requires `matplotlib` for generating PNG visualizations.
+
+---
+
 ## File Structure
 
 * `get_monument_links.py`: Selenium script to harvest monument URLs and coordinates.
 * `extract_monuments.py`: Selenium script to scrape detailed data for each monument.
 * `clean_and_analyse_data.py`: Data cleaning script with regex parsing and quality reporting.
 * `translate_dataset.py`: Script utilizing `google.generativeai` to translate content.
-* `create_database.py`: SQLite script to create tables (`monuments`, `payment_methods`) and insert data.
 * `generate_google_rating.py`: Selenium script to query Google Maps and extract rating + review count per monument.
 * `get_wiki_coords.py`: Wikipedia coordinate extraction script using BeautifulSoup.
 * `redirect_coord_verification.py`: Coordinate validation script using Haversine distance.
 * `redirect_llm_verification.py`: LLM-based verification for ambiguous monument name matches.
+* `create_database.py`: Comprehensive database creation script integrating multiple data sources.
+* `create_db_views.py`: Script to generate analytical SQL views for common queries.
+* `db_quality_check.py`: Data quality validation script with PNG report generation.
 * `requirements.txt`: List of Python dependencies.
 * `html_samples/`: Directory containing sample HTML files used for testing or reference.
-* `merged_datasets/`: Directory containing reference datasets for coordinate verification.
+* `merged_datasets/`: Directory containing reference datasets and merged data from multiple sources.
+* `qa_reports/`: Directory containing quality check reports as PNG images.
 
 ## Database Schema
 
-The final SQLite database (`paris_monuments.db`) contains two main tables:
+The final SQLite database (`monuments_database.db`) contains a comprehensive relational schema with the following tables:
 
-1. **`monuments`**:
+### Core Tables
 
-   * `id`, `name`, `url`, `short_description`, `address`, `opening_hours`, `ticket_price`, `ticket_price_conditions`, `visiting_services`.
-2. **`payment_methods`**:
+1. **`attraction`** (Main table)
+   - `id` (PK), `name`, `url`, `opening_hours`, `address`, `city`, `category`
+   - `lat`, `lng`, `description`, `wiki_url`
+   - `google_rating`, `google_votes_count`, `website`, `phone`
 
-   * `id`, `monument_id`, `method` (Normalized payment method names).
+2. **`national_monument`**
+   - `id` (PK), `attraction_id` (FK → attraction.id)
+   - `ticket_price`, `visiting_services`, `ticket_price_raw`
+   - `advertising_title`, `price_conditions`, `payment_methods`
+
+3. **`google_maps_metadata`**
+   - `place_id` (PK), `monument_id` (FK → attraction.id)
+   - `name`, `status`, `lat`, `lng`, `price_level`
+   - `address`, `city`, `map_url`, `opening_hours`
+
+4. **`google_reviews`**
+   - `id` (PK), `place_id` (FK → google_maps_metadata.place_id)
+   - `author_name`, `rating`, `text`, `language`
+   - `original_language`, `timestamp`, `author_url`
+
+5. **`foursquare_data`**
+   - `Tourpedia_id` (PK), `monument_id` (FK → attraction.id)
+   - `original_id`, `Foursquare_url`
+   - `Foursquare_users_count`, `Foursquare_checkins_count`
+   - `Foursquare_tip_count`, `Foursquare_likes`
+
+6. **`foursquare_reviews`**
+   - `id` (PK), `Tourpedia_id` (FK → foursquare_data.Tourpedia_id)
+   - `language`, `polarity`, `text`, `time`
+   - `words_count`, `tokenized_text_url`
+
+### Analytical Views
+
+- `view_comprehensive_popularity`: Combined engagement metrics
+- `view_hidden_gems`: High-quality, low-visibility attractions
+- `view_category_performance`: Aggregated stats by category
+- `view_price_vs_quality`: Price level vs. rating analysis
+- `view_national_monument_prestige`: National monument metrics
 
 ## License
 
