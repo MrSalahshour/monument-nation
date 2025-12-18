@@ -7,3 +7,7 @@ webdriver-manager
 deep-translator
 beautifulsoup4
 requests
+googlemaps
+numpy
+thefuzz
+tqdm
