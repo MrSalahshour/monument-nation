@@ -5,3 +5,5 @@ google-generativeai
 python-dotenv
 webdriver-manager
 deep-translator
+beautifulsoup4
+requests

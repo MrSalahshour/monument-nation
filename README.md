@@ -133,17 +133,79 @@ python generate_google_rating.py
   # chrome_options.add_argument("--headless")
   ```
 
+---
+
+## Part 3: Wikipedia Coordinate Enrichment & Verification
+
+This section describes an optional pipeline for enriching monument data with Wikipedia coordinates and verifying their accuracy.
+
+### 7. Extract Wikipedia Coordinates
+
+Scrapes Wikipedia pages to extract geographic coordinates from the Kartographer map links.
+
+```bash
+python get_wiki_coords.py
+```
+
+* **Input**: `paris_monuments_wiki.csv` (must contain a `wiki_url` column)
+* **Output**: `paris_monuments_wiki_with_coordinates.csv` (adds `lat` and `lon` columns)
+* **Features**:
+  * Extracts coordinates from `data-lat` and `data-lon` attributes in Wikipedia's coordinate span
+  * Includes rate limiting (0.5s delay between requests) to respect Wikipedia's servers
+  * Provides progress updates and success rate statistics
+
+### 8. Verify Coordinates Against Reference Dataset
+
+Cross-validates Wikipedia coordinates by comparing them with a reference dataset using the Haversine distance formula.
+
+```bash
+python redirect_coord_verification.py
+```
+
+* **Input**: 
+  * `paris_monuments_wiki_with_coordinates.csv` (Wikipedia data with coordinates)
+  * `merged_datasets/france_monuments_merged.csv` (reference dataset)
+  * `redirect_log.txt` (log of redirected Wikipedia pages)
+* **Output**: `paris_monuments_wiki_verified.csv` (adds `is_correct` boolean column)
+* **Logic**:
+  * Non-redirected pages: Assumed correct (marked `True`)
+  * Redirected pages: Verified by checking if coordinates are within 2km of reference data
+  * Missing coordinates or reference data: Marked `False`
+
+### 9. LLM-Based Verification for Failed Matches
+
+Uses Google Gemini to verify if monument names that failed coordinate verification actually refer to the same place.
+
+```bash
+python redirect_llm_verification.py
+```
+
+* **Input**: `paris_monuments_wiki_verified.csv`
+* **Output**: `paris_monuments_wiki_llm_verified.csv`
+* **Features**:
+  * Only processes rows marked `False` with missing coordinates
+  * Uses LLM to compare input name vs. Wikipedia name considering description and category
+  * Includes automatic rate limiting (4s between requests, 15 requests/min)
+  * Recovers valid matches that were incorrectly flagged due to name variations
+
+**Note**: Requires `GEMINI_API_KEY` in your `.env` file.
+
+---
+
 ## File Structure
 
-* `get_monument_links.py`: Selenium script to harvest monument URLs.
+* `get_monument_links.py`: Selenium script to harvest monument URLs and coordinates.
 * `extract_monuments.py`: Selenium script to scrape detailed data for each monument.
 * `clean_and_analyse_data.py`: Data cleaning script with regex parsing and quality reporting.
 * `translate_dataset.py`: Script utilizing `google.generativeai` to translate content.
 * `create_database.py`: SQLite script to create tables (`monuments`, `payment_methods`) and insert data.
 * `generate_google_rating.py`: Selenium script to query Google Maps and extract rating + review count per monument.
+* `get_wiki_coords.py`: Wikipedia coordinate extraction script using BeautifulSoup.
+* `redirect_coord_verification.py`: Coordinate validation script using Haversine distance.
+* `redirect_llm_verification.py`: LLM-based verification for ambiguous monument name matches.
 * `requirements.txt`: List of Python dependencies.
 * `html_samples/`: Directory containing sample HTML files used for testing or reference.
-* `wikipedia/`: Directory containing supplementary Wikipedia data scripts.
+* `merged_datasets/`: Directory containing reference datasets for coordinate verification.
 
 ## Database Schema
 
