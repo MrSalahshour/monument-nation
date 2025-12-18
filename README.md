@@ -13,9 +13,11 @@ The pipeline covers these major steps:
 5. **Optional enrichments**:
    - **Tourpedia + Foursquare extension (notebook)**: Builds a Paris attractions subset from Tourpedia, fetches details/reviews, deduplicates, and merges with the base dataset.
    - **Google Maps enrichment**:
-     - **Selenium-based ratings (script)**: Lightweight retrieval of rating/review count.
+     - **Selenium-based ratings (script)**: Scrapes ratings, review counts, opening hours, and websites.
      - **Official Places API (notebook)**: Higher-quality data collection (place details + reviews), with geospatial and fuzzy matching safeguards.
-   - **Wikipedia coordinate enrichment & verification (scripts)**: Extracts Wikipedia coordinates and verifies them against a reference dataset.
+   - **Wikipedia enrichment**:
+     - **Coordinate verification**: Extracts Wikipedia coordinates and verifies them against a reference.
+     - **Content & Categorization**: Scrapes descriptions and infoboxes to categorize monuments (e.g., Museum, Church).
 
 ## Prerequisites
 
@@ -36,21 +38,25 @@ The pipeline covers these major steps:
    .\venv\Scripts\activate
    # macOS/Linux
    source venv/bin/activate
-   ```
+
+```
 
 3. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   *Key dependencies include `selenium`, `webdriver-manager`, `google-generativeai`, `python-dotenv`. Optional enrichment dependencies include `googlemaps`, `thefuzz`, `tqdm`.*
+```bash
+pip install -r requirements.txt
 
+```
+
+
+*Key dependencies include `selenium`, `webdriver-manager`, `deep-translator`, `google-generativeai`, `python-dotenv`. Optional enrichment dependencies include `googlemaps`, `thefuzz`, `tqdm`.*
 4. **Environment Configuration**:
-   Create a `.env` file in the root directory:
-   ```env
-   GEMINI_API_KEY=your_gemini_api_key_here
-   # Optional (Places API workflow in google_maps.ipynb)
-   GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
-   ```
+Create a `.env` file in the root directory:
+```env
+GEMINI_API_KEY=your_gemini_api_key_here
+# Optional (Places API workflow in google_maps.ipynb)
+GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
+
+```
 
 ## Usage Pipeline
 
@@ -63,9 +69,10 @@ python get_monument_links.py
 ```
 
 **Output**
-- `monument_urls.txt` — Plain text list of URLs (backward compatibility)
-- `monument_urls_with_coords.json` — Structured JSON with name, URL, latitude, and longitude
-- `monument_urls_with_coords.csv` — CSV format with monument names and coordinates
+
+* `monument_urls.txt` — Plain text list of URLs (backward compatibility)
+* `monument_urls_with_coords.json` — Structured JSON with name, URL, latitude, and longitude
+* `monument_urls_with_coords.csv` — CSV format with monument names and coordinates
 
 ### 2. Extract Monument Details
 Visits each URL found in the previous step to scrape detailed information (prices, hours, address, etc.).
@@ -103,68 +110,94 @@ python create_database.py
 
 ## Part 2: Google Maps Ratings Enrichment (Selenium)
 
-After generating the cleaned dataset, you can enrich monuments with **Google Maps rating** and **review count** using `generate_google_rating.py`.
+After generating the cleaned dataset, you can enrich monuments with **Google Maps rating**, **review count**, and **opening hours** using the provided Selenium script.
 
 ### 6. Generate Google Ratings (scraping approach)
 
-This script:
-- Loads the cleaned dataset (`paris_monuments_cleaned.csv` by default)
-- Searches each monument name on Google Maps
-- Extracts:
-  - `rating` (stars)
-  - `review_count`
-  - `google_maps_url` (the search URL used)
-- Saves progress periodically
+This script performs a detailed scrape of Google Maps. It handles cookie consent popups, expands opening hour accordions, and uses regex to strictly parse review counts (avoiding false matches like phone numbers).
+
+It extracts:
+
+* `rating` (stars)
+* `review_count` (parsed from text like "1,234 reviews" or "(123)")
+* `opening_hours` (full weekly schedule)
+* `website` (official link from the Maps profile)
+* `Maps_url` (the specific search/profile URL)
 
 ```bash
 python generate_google_rating.py
 ```
 
-**Input**: `paris_monuments_cleaned.csv`  
+**Input**: `merged_datasets/france_monuments.csv`
+
 **Output**: `paris_monuments_ratings.csv`, `paris_monuments_ratings.json`
 
 ### Notes / Troubleshooting
-- If Google’s cookie consent banner appears, the script attempts to click **“Accept all”** automatically.
-- The crawler includes basic rate limiting (`~1.5–3s` sleep). If you get blocked/captchas, slow it down further or run with a visible browser window.
 
-> **Project note**: In subsequent notebook-based validation (see `add_coords.ipynb`), this scraping approach showed significant location mismatch issues. For higher-quality joins, prefer the **official Places API workflow** in `google_maps.ipynb`.
+* **Cookie Consent**: The script automatically attempts to click "Accept all" / "Tout accepter".
+* **Rate Limiting**: Includes randomized sleep intervals (`2-4s`) to mimic human behavior.
+* **Robustness**: Uses dummy domains to trigger Google Search redirects and handles both "List View" and "Detail View" result pages.
 
 ---
 
-## Part 3: Wikipedia Coordinate Enrichment & Verification
+## Part 3: Wikipedia Enrichment (Coordinates & Content)
 
-This section describes an optional pipeline for enriching monument data with Wikipedia coordinates and verifying their accuracy.
+This section describes pipelines for enriching monument data using Wikipedia to retrieve coordinates, English descriptions, and categories.
 
-### 7. Extract Wikipedia Coordinates
+### 7. Extract Wikipedia Coordinates (Part 3a)
+
 Scrapes Wikipedia pages to extract geographic coordinates from the Kartographer map links.
 ```bash
 python get_wiki_coords.py
 ```
 
-**Input**: `paris_monuments_wiki.csv` (must contain a `wiki_url` column)  
+**Input**: `paris_monuments_wiki.csv` (must contain a `wiki_url` column)
+
 **Output**: `paris_monuments_wiki_with_coordinates.csv` (adds `lat` and `lon` columns)
 
-### 8. Verify Coordinates Against Reference Dataset
+### 8. Wikipedia Content & Category Extraction (Part 3b)
+
+*New script logic.* This process attempts to find the Wikipedia page for each monument (checking English first, falling back to French) to extract descriptive content and classify the monument.
+
+**Features:**
+
+* **Cross-Lingual Search**: Checks English Wikipedia; if not found, checks French Wikipedia and translates content using `deep-translator`.
+* **Categorization**: Analyzes the description and Infobox type to assign categories (e.g., *Museum, Church, Historic Site, Park*).
+* **Redirect Logging**: Tracks if the search query redirected to a different page title in `redirect_log.txt`.
+
+```bash
+python extract_wiki_content.py
+
+```
+
+*(Note: Replace with the actual filename of the content extraction script provided)*
+
+**Input**: `merged_datasets/france_monuments.csv`
+**Output**: `paris_monuments_wiki.csv`, `paris_monuments_wiki.json`
+
+### 9. Verify Coordinates Against Reference Dataset
+
 Cross-validates Wikipedia coordinates by comparing them with a reference dataset using the Haversine distance formula.
 ```bash
 python redirect_coord_verification.py
 ```
 
 **Input**
-- `paris_monuments_wiki_with_coordinates.csv`
-- `merged_datasets/france_monuments_merged.csv` (reference dataset)
-- `redirect_log.txt` (log of redirected Wikipedia pages)
+
+* `paris_monuments_wiki_with_coordinates.csv`
+* `merged_datasets/france_monuments_merged.csv` (reference dataset)
+* `redirect_log.txt` (log of redirected Wikipedia pages)
 
 **Output**: `paris_monuments_wiki_verified.csv` (adds `is_correct` boolean column)
 
-### 9. LLM-Based Verification for Failed Matches
+### 10. LLM-Based Verification for Failed Matches
 Uses Google Gemini to verify whether “failed” matches refer to the same place despite name variations.
 ```bash
 python redirect_llm_verification.py
 ```
 
-**Input**: `paris_monuments_wiki_verified.csv`  
-**Output**: `paris_monuments_wiki_llm_verified.csv`  
+**Input**: `paris_monuments_wiki_verified.csv`
+**Output**: `paris_monuments_wiki_llm_verified.csv`
 **Requires**: `GEMINI_API_KEY` in `.env`
 
 ---
