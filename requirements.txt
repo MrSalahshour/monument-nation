@@ -4,3 +4,4 @@ pandas
 google-generativeai
 python-dotenv
 webdriver-manager
+deep-translator
