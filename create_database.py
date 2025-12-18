@@ -51,9 +51,9 @@ def main():
         print("Stopping execution due to missing files.")
         return
 
-    # ---------------------------------------------------------
-    # 2. PREPARE MAIN TABLE (attraction) - STEP A (Wiki Merge)
-    # ---------------------------------------------------------
+
+    #  PREPARE MAIN TABLE (attraction) - STEP A (Wiki Merge)
+ 
     print("\n--- Processing Main Table: Wiki Merge ---")
     
     # Filter wiki data: only correct entries
@@ -78,20 +78,20 @@ def main():
         how='left'
     )
 
-    # 1. Fill category for the first 88 samples (or where missing) using wiki_category
+    # Fill category for the first 88 samples (or where missing) using wiki_category
     # Logic: If 'category' is null, use 'wiki_category'
     df_main_merged['category'] = df_main_merged['category'].fillna(df_main_merged['wiki_category'])
 
-    # 2. Ensure 'description' and 'wiki_url' are added (already done via merge)
+    # Ensure 'description' and 'wiki_url' are added (already done via merge)
     
     # Cleanup temporary columns
     df_main_merged.drop(columns=['name_join_key', 'wiki_category'], inplace=True)
     
     print(f"Main table shape after Wiki merge: {df_main_merged.shape}")
 
-    # ---------------------------------------------------------
-    # 3. PREPARE MAIN TABLE - STEP B (Google Data Merge)
-    # ---------------------------------------------------------
+ 
+    # PREPARE MAIN TABLE - STEP B (Google Data Merge)
+
     print("\n--- Processing Main Table: Google Data Merge ---")
     
     # CHANGE: Removed 'price_level' from this list
@@ -115,9 +115,9 @@ def main():
     
     df_main_final.drop(columns=['monument_id'], inplace=True)
 
-    # ---------------------------------------------------------
-    # 4. PREPARE NATIONAL MONUMENT TABLE
-    # ---------------------------------------------------------
+ 
+    # PREPARE NATIONAL MONUMENT TABLE
+
     print("\n--- Processing National Monument Table ---")
     
     # Columns to move from Main to National Monument
@@ -139,9 +139,9 @@ def main():
     df_national = df_national.dropna(subset=['advertising_title'])
     print(f"National Monument table rows: {len(df_national)}")
 
-    # ---------------------------------------------------------
-    # 5. PREPARE GOOGLE MAPS DETAILS TABLE (Remaining cols)
-    # ---------------------------------------------------------
+
+    # PREPARE GOOGLE MAPS DETAILS TABLE (Remaining cols)
+
     print("\n--- Processing Google Maps Details Table ---")
     
     # CHANGE: Removed 'price_level' from exclusion so it STAYS here
@@ -153,9 +153,8 @@ def main():
     
     print(f"Google Maps Metadata columns: {list(df_google_details.columns)}")
 
-    # ---------------------------------------------------------
-    # 6. PREPARE FOURSQUARE DATA TABLE
-    # ---------------------------------------------------------
+    # PREPARE FOURSQUARE DATA TABLE
+
     print("\n--- Processing Foursquare Data Table ---")
     
     # We need to add 'monument_id' to Foursquare data.
@@ -178,9 +177,7 @@ def main():
     # Rearrange columns if desired, ensure monument_id is there
     print(f"Foursquare Data rows matched: {len(df_fs_data_final)}")
 
-    # ---------------------------------------------------------
-    # 7. FINAL CLEANUP OF MAIN TABLE
-    # ---------------------------------------------------------
+    # FINAL CLEANUP OF MAIN TABLE
     # Remove the columns moved to National Monument
     cols_to_remove_nat = ['short_description', 'ticket_price', 'ticket_price_conditions', 
                           'payment_methods', 'visiting_services', 'ticket_price_raw']
@@ -194,9 +191,7 @@ def main():
     
     print(f"Final Main Table columns: {list(df_main_final.columns)}")
 
-    # ---------------------------------------------------------
-    # 8. SQLITE DATABASE CREATION
-    # ---------------------------------------------------------
+    # SQLITE DATABASE CREATION
     print("\n--- Creating Database ---")
     conn = create_connection(DB_NAME)
     
@@ -206,7 +201,7 @@ def main():
         # Enable Foreign Keys
         cursor.execute("PRAGMA foreign_keys = ON;")
 
-        # A. Create 'attraction' table
+        # Create 'attraction' table
         # We use pandas to_sql, but it doesn't support PK/FK definitions well.
         # Best practice: Create table with SQL, then append data.
         
@@ -232,7 +227,7 @@ def main():
         """
         cursor.execute(create_attraction_sql)
         
-        # B. Create 'national_monument' table
+        # Create 'national_monument' table
         create_national_sql = """
         CREATE TABLE IF NOT EXISTS national_monument (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -248,7 +243,7 @@ def main():
         """
         cursor.execute(create_national_sql)
 
-        # C. Create 'google_maps_metadata' table
+        # Create 'google_maps_metadata' table
         create_google_meta_sql = """
         CREATE TABLE IF NOT EXISTS google_maps_metadata (
             place_id TEXT PRIMARY KEY,
@@ -267,7 +262,7 @@ def main():
         """
         cursor.execute(create_google_meta_sql)
 
-        # D. Create 'google_reviews' table
+        # Create 'google_reviews' table
         create_google_reviews_sql = """
         CREATE TABLE IF NOT EXISTS google_reviews (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -284,7 +279,7 @@ def main():
         """
         cursor.execute(create_google_reviews_sql)
 
-        # E. Create 'foursquare_data' table
+        # Create 'foursquare_data' table
         create_fs_data_sql = """
         CREATE TABLE IF NOT EXISTS foursquare_data (
             Tourpedia_id INTEGER PRIMARY KEY,
@@ -300,7 +295,7 @@ def main():
         """
         cursor.execute(create_fs_data_sql)
 
-        # F. Create 'foursquare_reviews' table
+        # Create 'foursquare_reviews' table
         create_fs_reviews_sql = """
         CREATE TABLE IF NOT EXISTS foursquare_reviews (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -316,9 +311,7 @@ def main():
         """
         cursor.execute(create_fs_reviews_sql)
 
-        # ---------------------------------------------------------
-        # 9. INSERT DATA
-        # ---------------------------------------------------------
+        # INSERT DATA
         print("Writing data to SQLite...")
         
         # Use to_sql with 'append'. We need to match column names strictly or manage extra columns.

@@ -15,7 +15,7 @@ def create_views(conn):
     cursor = conn.cursor()
     print("--- Creating Views ---")
 
-    # 1. VIEW: Comprehensive Popularity (Google + Foursquare)
+    # VIEW: Comprehensive Popularity (Google + Foursquare)
     # Why: Determine the "Megastars" by combining data from two different social platforms.
     sql_popularity = """
     DROP VIEW IF EXISTS view_comprehensive_popularity;
@@ -36,7 +36,7 @@ def create_views(conn):
     cursor.executescript(sql_popularity)
     print(" -> Created 'view_comprehensive_popularity'")
 
-    # 2. VIEW: Hidden Gems
+    # VIEW: Hidden Gems
     # Why: High Quality (Rating > 4.5) but Low Volume (Votes < 100). 
     # Great for "Secret spots" recommendations.
     sql_hidden_gems = """
@@ -58,7 +58,7 @@ def create_views(conn):
     cursor.executescript(sql_hidden_gems)
     print(" -> Created 'view_hidden_gems'")
 
-    # 3. VIEW: Category Analytics
+    # VIEW: Category Analytics
     # Why: Strategic view to see which types of monuments perform best.
     sql_category = """
     DROP VIEW IF EXISTS view_category_performance;
@@ -78,7 +78,7 @@ def create_views(conn):
     cursor.executescript(sql_category)
     print(" -> Created 'view_category_performance'")
 
-    # 4. VIEW: Price vs Quality
+    # VIEW: Price vs Quality
     # Why: Joins the Google Metadata price_level with ratings.
     sql_price = """
     DROP VIEW IF EXISTS view_price_vs_quality;
@@ -96,7 +96,7 @@ def create_views(conn):
     cursor.executescript(sql_price)
     print(" -> Created 'view_price_vs_quality'")
 
-    # 5. VIEW: National Monument Prestige
+    # VIEW: National Monument Prestige
     # Why: Focuses purely on the official "National Monuments" to see their stats.
     sql_national = """
     DROP VIEW IF EXISTS view_national_monument_prestige;

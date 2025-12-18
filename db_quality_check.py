@@ -145,7 +145,7 @@ def main():
     dataframes = {}
     summary_data = []
 
-    # 1. LOAD DATA & SUMMARY
+    # LOAD DATA & SUMMARY
     print("--- Loading Data ---")
     for t in tables:
         try:
@@ -157,7 +157,7 @@ def main():
     
     save_df_as_png(pd.DataFrame(summary_data), "00_db_overview.png", "Database Overview")
 
-    # 2. COMPLETENESS (Missing Data)
+    # COMPLETENESS (Missing Data)
     print("--- Generating Completeness Reports ---")
     for t in tables:
         if t in dataframes:
@@ -174,7 +174,7 @@ def main():
     ]
     check_referential_integrity(conn, relationships)
 
-    # 4. STATISTICAL VALIDITY
+    # STATISTICAL VALIDITY
     print("--- Generating Statistical Reports ---")
     
     if 'attraction' in dataframes:
@@ -188,7 +188,7 @@ def main():
     if 'google_reviews' in dataframes:
         analyze_numeric_distribution(dataframes['google_reviews'], 'google_reviews', ['rating'])
     
-    # 5. CATEGORICAL CHECKS
+    # CATEGORICAL CHECKS
     print("--- Generating Categorical Reports ---")
     
     if 'attraction' in dataframes:
