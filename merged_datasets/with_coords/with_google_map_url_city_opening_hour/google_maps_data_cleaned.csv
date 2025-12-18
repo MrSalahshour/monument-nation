@@ -1,4 +1,4 @@
-place_id,attraction_id,name,status,lat,lng,price_level,address,city,website,phone,map_url,rating,votes_count,opening_hours
+place_id,monument_id,name,status,lat,lng,price_level,address,city,website,phone,map_url,rating,votes_count,opening_hours
 ChIJvRj8ErNu5kcRfOX_xli-__I,0,Basilique Cathédrale Saint-Denis,OPERATIONAL,48.9356939,2.3591168,Price not available,"1 Rue de la Légion d'Honneur, 93200 Saint-Denis, France",Saint-Denis,https://www.saint-denis-basilique.fr/,01 48 09 83 54,https://maps.google.com/?cid=17509923164744836476,4.6,7421.0,"Monday: 10:00 AM – 4:45 PM
 Tuesday: 10:00 AM – 4:45 PM
 Wednesday: 10:00 AM – 4:45 PM
