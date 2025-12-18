@@ -20,7 +20,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 # CONFIGURATION & CONSTANTS
 # ==========================================
 
-INPUT_FILE = './merged_datasets/france_monuments_merged.csv'
+INPUT_FILE = './merged_datasets/france_monuments.csv'
 OUTPUT_CSV = 'paris_monuments_wiki.csv'
 OUTPUT_JSON = 'paris_monuments_wiki.json'
 LOG_FILE = 'redirect_log.txt'
